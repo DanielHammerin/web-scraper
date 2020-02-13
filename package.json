@@ -1,0 +1,23 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper for Runescape Grand Exchange item price tracking.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielHammerin/web-scraper.git"
+  },
+  "author": "Daniel Hammerin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielHammerin/web-scraper/issues"
+  },
+  "homepage": "https://github.com/DanielHammerin/web-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
