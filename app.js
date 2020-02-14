@@ -14,6 +14,12 @@ const PRICE_CONSTANTS = {
     SEMI_ANNUAL_CHANGE_SELECTOR: 4
 }
 
+start = () => {
+    console.log('Starting web scraper.');
+    console.log('Scraping ' + urls.length + ' urls for data...');
+    scrapeRunner(urls);
+};
+
 scrapeRunner = async (urls) => {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
@@ -22,15 +28,17 @@ scrapeRunner = async (urls) => {
         await page.goto(url);
 
         const itemStats = await scrapeItemStats(page);
-        const todaysChange = await scrapeItemTodaysChange(page);
-        const montlyChange = await scrapeItemMonthlyChange(page);
-        const quarterlyChange = await scrapeItemQuarterlyChange(page);
-        const semiAnnualChange = await scrapeItemSemiAnnualChange(page);
+        const todaysChange = await scrape(page, PRICE_CONSTANTS.TODAYS_CHANGE_SELECTOR);
+        const montlyChange = await scrape(page, PRICE_CONSTANTS.MONTHLY_CHANGE_SELECTOR);
+        const quarterlyChange = await scrape(page, PRICE_CONSTANTS.QUARTERLY_CHANGE_SELECTOR);
+        const semiAnnualChange = await scrape(page, PRICE_CONSTANTS.SEMI_ANNUAL_CHANGE_SELECTOR);
 
         itemObject = {
             itemName: itemStats.itemName,
-            currentPriceRough: itemStats.currentPrice.rough,
-            currentPriceExact: itemStats.currentPrice.exact,
+            currentPrice: {
+                rough: itemStats.currentPrice.rough,
+                exact: itemStats.currentPrice.exact
+            },
             priceChanges: {
                 todaysChange,
                 montlyChange,
@@ -55,7 +63,11 @@ scrape = async (page, category) => {
     const [el3] = await page.$x('//*[@id="grandexchange"]/div/div/main/div[2]/div[2]/ul/li[' + category + ']/span/span[2]');
     const priceChangePercent = await (await el3.getProperty('innerText')).jsonValue();
 
-    return {priceChangeRough, priceChangeExact, priceChangePercent};
+    return {
+        rough: priceChangeRough,
+        exact: priceChangeExact,
+        percent: priceChangePercent
+    }
 };
 
 scrapeItemStats = async (page) => {
@@ -79,44 +91,4 @@ scrapeItemStats = async (page) => {
     return itemStatsObject;
 };
 
-scrapeItemTodaysChange = async (page) => {
-    const result = await scrape(page, PRICE_CONSTANTS.TODAYS_CHANGE_SELECTOR);
-
-    return {
-        rough: result.priceChangeRough,
-        exact: result.priceChangeExact,
-        percent: result.priceChangePercent
-    }
-};
-
-scrapeItemMonthlyChange = async (page) => {
-    const result = await scrape(page, PRICE_CONSTANTS.MONTHLY_CHANGE_SELECTOR);
-
-    return {
-        rough: result.priceChangeRough,
-        exact: result.priceChangeExact,
-        percent: result.priceChangePercent
-    }
-};
-
-scrapeItemQuarterlyChange = async (page) => {
-    const result = await scrape(page, PRICE_CONSTANTS.QUARTERLY_CHANGE_SELECTOR);
-
-    return {
-        rough: result.priceChangeRough,
-        exact: result.priceChangeExact,
-        percent: result.priceChangePercent
-    }
-};
-
-scrapeItemSemiAnnualChange = async (page) => {
-    const result = await scrape(page, PRICE_CONSTANTS.SEMI_ANNUAL_CHANGE_SELECTOR);
-
-    return {
-        rough: result.priceChangeRough,
-        exact: result.priceChangeExact,
-        percent: result.priceChangePercent
-    }
-};
-
-scrapeRunner(urls);
+start();
