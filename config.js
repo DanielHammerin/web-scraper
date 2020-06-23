@@ -10,7 +10,8 @@ PRICE_CONSTANTS = {
 
 URLS = [
     'http://services.runescape.com/m=itemdb_oldschool/Old+school+bond/viewitem?obj=13190',
-    'http://services.runescape.com/m=itemdb_oldschool/Kodai+wand/viewitem?obj=21006'
+    'http://services.runescape.com/m=itemdb_oldschool/Kodai+wand/viewitem?obj=21006',
+    'https://secure.runescape.com/m=itemdb_oldschool/Ghrazi+rapier/viewitem?obj=22324'
 ]
 
 module.exports = {
