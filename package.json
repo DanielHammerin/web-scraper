@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/DanielHammerin/web-scraper#readme",
   "dependencies": {
-    "puppeteer": "^2.1.1"
+    "puppeteer": "^2.1.1",
+    "puppeteer-extra": "^3.1.16",
+    "puppeteer-extra-plugin-stealth": "^2.7.4"
   }
 }

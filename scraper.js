@@ -1,4 +1,7 @@
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer-extra');
+const pluginStealth = require('puppeteer-extra-plugin-stealth');
+puppeteer.use(pluginStealth());
+
 const config = require('./config');
 
 run = async (urls) => {
@@ -73,7 +76,7 @@ scrapeItemStats = async (page) => {
     itemStatsObject = {
         itemName: itemName,
             currentPrice: {
-                rough: currentPriceRough, 
+                rough: currentPriceRough,
                 exact: currentPriceExact
             }
     }
