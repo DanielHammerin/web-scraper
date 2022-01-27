@@ -4,7 +4,7 @@ puppeteer.use(pluginStealth());
 
 const config = require('./config');
 
-run = async (urls) => {
+const run = async (urls) => {
     let itemScrapes = [];
 
     const browser = await puppeteer.launch();
@@ -46,7 +46,7 @@ run = async (urls) => {
     return itemScrapes;
 };
 
-scrape = async (page, category) => {
+const scrape = async (page, category) => {
     const [el1] = await page.$x('//*[@id="grandexchange"]/div/div/main/div[2]/div[2]/ul/li[' + category + ']/span/span');
     const priceChangeRough = await (await el1.getProperty('innerText')).jsonValue();
 
@@ -63,7 +63,7 @@ scrape = async (page, category) => {
     }
 };
 
-scrapeItemStats = async (page) => {
+const scrapeItemStats = async (page) => {
     const [el1] = await page.$x('//*[@id="grandexchange"]/div/div/main/div[2]/div[1]/h2');
     const itemName = await (await el1.getProperty('innerText')).jsonValue();
 
@@ -84,7 +84,7 @@ scrapeItemStats = async (page) => {
     return itemStatsObject;
 };
 
-getTimestamp = async () => {
+const getTimestamp = async () => {
     let now = new Date();
     let yyyy = now.getFullYear();
     let dd = now.getDate();

@@ -8,6 +8,9 @@ PRICE_CONSTANTS = {
     SEMI_ANNUAL_CHANGE_SELECTOR: 4
 },
 
+/**
+ * Urls of the items to scrape data from.
+ */
 URLS = [
     'http://services.runescape.com/m=itemdb_oldschool/Old+school+bond/viewitem?obj=13190',
     'http://services.runescape.com/m=itemdb_oldschool/Kodai+wand/viewitem?obj=21006',
