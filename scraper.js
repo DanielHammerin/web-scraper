@@ -1,10 +1,10 @@
-const puppeteer = require('puppeteer-extra');
-const pluginStealth = require('puppeteer-extra-plugin-stealth');
+import puppeteer from "puppeteer-extra";
+import pluginStealth from "puppeteer-extra-plugin-stealth";
+import config from "./config.js";
+
 puppeteer.use(pluginStealth());
 
-const config = require('./config');
-
-const run = async (urls) => {
+export const scrapeUrls = async (urls) => {
     let itemScrapes = [];
 
     const browser = await puppeteer.launch();
@@ -13,7 +13,7 @@ const run = async (urls) => {
 
     for (const url of urls) {
         await page.goto(url);
-        console.log('Scraping url ' + n + ' / ' + urls.length);
+        console.log("Scraping url " + n + " / " + urls.length + " " + url);
 
         const dateTime = await getTimestamp();
         const itemStats = await scrapeItemStats(page);
@@ -22,7 +22,7 @@ const run = async (urls) => {
         const quarterlyChange = await scrape(page, config.PRICE_CONSTANTS.QUARTERLY_CHANGE_SELECTOR);
         const semiAnnualChange = await scrape(page, config.PRICE_CONSTANTS.SEMI_ANNUAL_CHANGE_SELECTOR);
 
-        itemObject = {
+        const itemObject = {
             date: dateTime,
             itemName: itemStats.itemName,
             currentPrice: {
@@ -73,7 +73,7 @@ const scrapeItemStats = async (page) => {
     const [el3] = await page.$x('//*[@id="grandexchange"]/div/div/main/div[2]/div[2]/h3/span');
     const currentPriceExact = await (await el3.getProperty('title')).jsonValue();
 
-    itemStatsObject = {
+    const itemStatsObject = {
         itemName: itemName,
             currentPrice: {
                 rough: currentPriceRough,
@@ -112,7 +112,3 @@ const getTimestamp = async () => {
 
     return date + " " + hours + ":" + minutes + ":" + seconds;
 };
-
-module.exports = {
-    run
-}
