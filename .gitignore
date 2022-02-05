@@ -1,4 +1,5 @@
 .env
+run_script.sh
 
 # Vs Code
 main-workspace.code-workspace
