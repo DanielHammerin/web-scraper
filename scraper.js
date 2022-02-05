@@ -15,7 +15,8 @@ export const scrapeUrls = async (urls) => {
         await page.goto(url);
         console.log("Scraping url " + n + " / " + urls.length + " " + url);
 
-        const dateTime = await getTimestamp();
+        const dateString = await getTimestamp();
+        const dateUnix = Date.now();
         const itemStats = await scrapeItemStats(page);
         const todaysChange = await scrape(page, config.PRICE_CONSTANTS.TODAYS_CHANGE_SELECTOR);
         const montlyChange = await scrape(page, config.PRICE_CONSTANTS.MONTHLY_CHANGE_SELECTOR);
@@ -23,7 +24,10 @@ export const scrapeUrls = async (urls) => {
         const semiAnnualChange = await scrape(page, config.PRICE_CONSTANTS.SEMI_ANNUAL_CHANGE_SELECTOR);
 
         const itemObject = {
-            date: dateTime,
+            date: {
+                dateString: dateString,
+                unix: dateUnix
+            },
             itemName: itemStats.itemName,
             currentPrice: {
                 rough: itemStats.currentPrice.rough,
@@ -37,9 +41,9 @@ export const scrapeUrls = async (urls) => {
             }
         }
 
-        const itemObjectJson = JSON.stringify(itemObject, null, 4);
-        itemScrapes.push(JSON.stringify(itemObject));
-        console.log(itemObjectJson);
+        //const itemObjectJson = JSON.stringify(itemObject, null, 4);
+        //console.log(itemObjectJson);
+        itemScrapes.push(itemObject);
         n++;
     }
     browser.close();

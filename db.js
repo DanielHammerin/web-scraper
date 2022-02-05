@@ -11,5 +11,5 @@ export const disconnect = async () => {
     await mongoose.disconnect()
         .then(() => {
             console.log("Disconnected from DB.");
-        })
+        });
 }
