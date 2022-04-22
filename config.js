@@ -30,7 +30,9 @@ const config = {
         "https://secure.runescape.com/m=itemdb_oldschool/Bandos+tassets/viewitem?obj=11834",
         "https://secure.runescape.com/m=itemdb_oldschool/Saradomin+godsword/viewitem?obj=11806",
         "https://secure.runescape.com/m=itemdb_oldschool/Pegasian+boots/viewitem?obj=13237",
-    ]
+    ],
+
+    ITEM_COLLECTION_PATH: "./data/collection"
 }
 
 export default config;
