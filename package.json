@@ -20,7 +20,7 @@
   "homepage": "https://github.com/DanielHammerin/web-scraper#readme",
   "dependencies": {
     "dotenv": "^16.0.0",
-    "mongoose": "^6.2.0",
+    "mongoose": "^6.4.6",
     "puppeteer": "^13.6.0",
     "puppeteer-extra": "^3.1.16",
     "puppeteer-extra-plugin-stealth": "^2.7.4"
