@@ -1,0 +1,6435 @@
+{
+	"date": {
+		"dateString": "2022-04-25 14:34:24",
+		"unix": 1650890064343
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "41.8m",
+		"exact": "41,812,554"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 266.2k",
+			"exact": "- 266,188",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,254,388",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "5.1m",
+			"exact": "+ 5,059,593",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "17.1m",
+			"exact": "+ 17,116,023",
+			"percent": "+ 69%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-27 08:20:09",
+		"unix": 1651040409158
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "41.7m",
+		"exact": "41,710,357"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 102.2k",
+			"exact": "- 102,197",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,227,409",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "4.2m",
+			"exact": "+ 4,211,357",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "17.5m",
+			"exact": "+ 17,543,708",
+			"percent": "+ 72%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-28 20:52:15",
+		"unix": 1651171935434
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.6m",
+		"exact": "42,575,509"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "462.2k",
+			"exact": "+ 462,222",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,551,283",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "5.4m",
+			"exact": "+ 5,437,295",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "18.5m",
+			"exact": "+ 18,518,641",
+			"percent": "+ 76%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-29 17:30:35",
+		"unix": 1651246235248
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.9m",
+		"exact": "42,944,446"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "368.9k",
+			"exact": "+ 368,937",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,670,477",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "5.5m",
+			"exact": "+ 5,472,727",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "19.0m",
+			"exact": "+ 19,046,676",
+			"percent": "+ 79%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-30 12:07:43",
+		"unix": 1651313263807
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.9m",
+		"exact": "42,944,446"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "368.9k",
+			"exact": "+ 368,937",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,670,477",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "5.5m",
+			"exact": "+ 5,472,727",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "19.0m",
+			"exact": "+ 19,046,676",
+			"percent": "+ 79%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-02 08:13:03",
+		"unix": 1651471983708
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.7m",
+		"exact": "42,678,941"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 201.0k",
+			"exact": "- 200,987",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "148.2k",
+			"exact": "+ 148,180",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,565,112",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "20.6m",
+			"exact": "+ 20,571,413",
+			"percent": "+ 93%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-05 11:05:40",
+		"unix": 1651741540013
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.6m",
+		"exact": "42,568,468"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 10.1k",
+			"exact": "- 10,123",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 617.4k",
+			"exact": "- 617,364",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,328,618",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "18.4m",
+			"exact": "+ 18,377,246",
+			"percent": "+ 75%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-06 15:57:25",
+		"unix": 1651845445822
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.0m",
+		"exact": "42,987,797"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "332.2k",
+			"exact": "+ 332,163",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 25.2k",
+			"exact": "- 25,177",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,909,133",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "17.8m",
+			"exact": "+ 17,785,212",
+			"percent": "+ 70%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-08 10:09:51",
+		"unix": 1651997391474
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.3m",
+		"exact": "43,296,479"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 154.8k",
+			"exact": "- 154,791",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,051,943",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,772,608",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "16.2m",
+			"exact": "+ 16,234,149",
+			"percent": "+ 59%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-09 19:01:15",
+		"unix": 1652115675076
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.0m",
+		"exact": "43,018,006"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 278.5k",
+			"exact": "- 278,473",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,141,471",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "4.2m",
+			"exact": "+ 4,195,040",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "16.2m",
+			"exact": "+ 16,184,770",
+			"percent": "+ 60%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-10 14:06:07",
+		"unix": 1652184367501
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.0m",
+		"exact": "43,018,006"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 278.5k",
+			"exact": "- 278,473",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,141,471",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "4.2m",
+			"exact": "+ 4,195,040",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "16.2m",
+			"exact": "+ 16,184,770",
+			"percent": "+ 60%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-11 13:41:28",
+		"unix": 1652269288255
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.7m",
+		"exact": "42,711,579"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 121.2k",
+			"exact": "- 121,246",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "418.0k",
+			"exact": "+ 418,003",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,788,907",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "15.2m",
+			"exact": "+ 15,181,338",
+			"percent": "+ 55%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-12 13:07:12",
+		"unix": 1652353632878
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.7m",
+		"exact": "42,659,990"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 51.6k",
+			"exact": "- 51,589",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "443.6k",
+			"exact": "+ 443,550",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,915,567",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "15.3m",
+			"exact": "+ 15,330,411",
+			"percent": "+ 56%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-13 14:07:37",
+		"unix": 1652443657567
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.6m",
+		"exact": "42,590,866"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 69.1k",
+			"exact": "- 69,124",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "608.6k",
+			"exact": "+ 608,606",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "4.0m",
+			"exact": "+ 4,049,047",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "15.0m",
+			"exact": "+ 14,998,168",
+			"percent": "+ 54%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-14 16:34:34",
+		"unix": 1652538874615
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.6m",
+		"exact": "42,590,866"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 69.1k",
+			"exact": "- 69,124",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "608.6k",
+			"exact": "+ 608,606",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "4.0m",
+			"exact": "+ 4,049,047",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "15.0m",
+			"exact": "+ 14,998,168",
+			"percent": "+ 54%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-15 19:16:34",
+		"unix": 1652634994448
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.4m",
+		"exact": "42,368,982"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 137.3k",
+			"exact": "- 137,311",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 936.5k",
+			"exact": "- 936,530",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "4.3m",
+			"exact": "+ 4,278,847",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "15.2m",
+			"exact": "+ 15,227,807",
+			"percent": "+ 56%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-16 23:21:05",
+		"unix": 1652736065445
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.2m",
+		"exact": "42,173,057"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 195.9k",
+			"exact": "- 195,925",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,238,575",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,420,284",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "14.2m",
+			"exact": "+ 14,221,049",
+			"percent": "+ 50%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-17 15:38:02",
+		"unix": 1652794682894
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.2m",
+		"exact": "42,173,057"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 195.9k",
+			"exact": "- 195,925",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,238,575",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,420,284",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "14.2m",
+			"exact": "+ 14,221,049",
+			"percent": "+ 50%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-18 16:34:53",
+		"unix": 1652884493546
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "41.6m",
+		"exact": "41,632,131"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 229.6k",
+			"exact": "- 229,642",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,137,193",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "4.2m",
+			"exact": "+ 4,166,103",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "11.4m",
+			"exact": "+ 11,355,430",
+			"percent": "+ 37%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-19 23:57:55",
+		"unix": 1652997475848
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "41.3m",
+		"exact": "41,268,367"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 363.8k",
+			"exact": "- 363,764",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,176,385",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,367,066",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.5m",
+			"exact": "+ 9,526,340",
+			"percent": "+ 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-20 13:31:57",
+		"unix": 1653046317840
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "41.3m",
+		"exact": "41,268,367"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 363.8k",
+			"exact": "- 363,764",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,176,385",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,367,066",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.5m",
+			"exact": "+ 9,526,340",
+			"percent": "+ 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-21 10:37:11",
+		"unix": 1653122231956
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "41.0m",
+		"exact": "41,006,942"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "185.0k",
+			"exact": "+ 184,998",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.4m",
+			"exact": "- 1,393,477",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,728,106",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.6m",
+			"exact": "+ 9,598,153",
+			"percent": "+ 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-23 16:04:16",
+		"unix": 1653314656628
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "40.9m",
+		"exact": "40,864,048"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 142.9k",
+			"exact": "- 142,894",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.4m",
+			"exact": "- 1,444,523",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,833,136",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.7m",
+			"exact": "+ 9,656,901",
+			"percent": "+ 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-24 17:12:12",
+		"unix": 1653405132920
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "40.9m",
+		"exact": "40,867,199"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3,151",
+			"exact": "+ 3,151",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,211,543",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,144,609",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.2m",
+			"exact": "+ 10,209,361",
+			"percent": "+ 33%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-25 17:02:22",
+		"unix": 1653490942350
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "40.6m",
+		"exact": "40,593,262"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 174.3k",
+			"exact": "- 174,332",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,117,095",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.2m",
+			"exact": "- 3,196,875",
+			"percent": "- 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.4m",
+			"exact": "+ 10,432,357",
+			"percent": "+ 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-26 18:15:15",
+		"unix": 1653581715036
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "40.8m",
+		"exact": "40,790,970"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "197.7k",
+			"exact": "+ 197,708",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.3m",
+			"exact": "- 1,322,317",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.5m",
+			"exact": "- 3,468,013",
+			"percent": "- 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.9m",
+			"exact": "+ 10,911,069",
+			"percent": "+ 36%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-27 17:09:58",
+		"unix": 1653664198346
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "40.8m",
+		"exact": "40,790,970"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "197.7k",
+			"exact": "+ 197,708",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.3m",
+			"exact": "- 1,322,317",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.5m",
+			"exact": "- 3,468,013",
+			"percent": "- 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.9m",
+			"exact": "+ 10,911,069",
+			"percent": "+ 36%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-28 21:18:17",
+		"unix": 1653765497770
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.2m",
+		"exact": "42,168,063"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "954.1k",
+			"exact": "+ 954,099",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 776.4k",
+			"exact": "- 776,383",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.0m",
+			"exact": "- 2,035,490",
+			"percent": "- 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "12.1m",
+			"exact": "+ 12,086,403",
+			"percent": "+ 40%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-29 21:39:08",
+		"unix": 1653853148727
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.6m",
+		"exact": "42,603,150"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "435.1k",
+			"exact": "+ 435,087",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 656.9k",
+			"exact": "- 656,936",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.4m",
+			"exact": "- 1,395,771",
+			"percent": "- 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "12.4m",
+			"exact": "+ 12,387,754",
+			"percent": "+ 40%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-30 18:12:32",
+		"unix": 1653927152932
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.6m",
+		"exact": "42,589,680"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 13.5k",
+			"exact": "- 13,470",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 290.2k",
+			"exact": "- 290,248",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 700.0k",
+			"exact": "- 699,969",
+			"percent": "- 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "12.0m",
+			"exact": "+ 12,001,381",
+			"percent": "+ 39%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-31 13:37:36",
+		"unix": 1653997056815
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.6m",
+		"exact": "42,589,680"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 89.3k",
+			"exact": "- 89,261",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 65.9k",
+			"exact": "- 65,916",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "12.0m",
+			"exact": "+ 11,978,088",
+			"percent": "+ 39%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-01 22:39:25",
+		"unix": 1654115965107
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.8m",
+		"exact": "42,787,188"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "125.3k",
+			"exact": "+ 125,274",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "208.6k",
+			"exact": "+ 208,597",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "940.7k",
+			"exact": "+ 940,733",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "12.1m",
+			"exact": "+ 12,120,574",
+			"percent": "+ 39%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-02 20:53:06",
+		"unix": 1654195986684
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.8m",
+		"exact": "42,779,132"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 8,056",
+			"exact": "- 8,056",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "210.7k",
+			"exact": "+ 210,664",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,250,375",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "11.4m",
+			"exact": "+ 11,370,941",
+			"percent": "+ 36%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-05 20:16:55",
+		"unix": 1654453015617
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.2m",
+		"exact": "43,226,848"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 27.3k",
+			"exact": "- 27,321",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 224.4k",
+			"exact": "- 224,422",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,473,659",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.7m",
+			"exact": "+ 10,664,488",
+			"percent": "+ 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-07 14:43:04",
+		"unix": 1654605784836
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.1m",
+		"exact": "43,079,499"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 94.4k",
+			"exact": "- 94,405",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "61.5k",
+			"exact": "+ 61,493",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,824,374",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.5m",
+			"exact": "+ 9,514,741",
+			"percent": "+ 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-08 16:52:42",
+		"unix": 1654699962538
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.4m",
+		"exact": "43,364,524"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "285.0k",
+			"exact": "+ 285,025",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "531.7k",
+			"exact": "+ 531,699",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,162,270",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.1m",
+			"exact": "+ 8,122,424",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-09 13:03:44",
+		"unix": 1654772624574
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.2m",
+		"exact": "43,199,025"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 165.5k",
+			"exact": "- 165,499",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "487.4k",
+			"exact": "+ 487,446",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,643,815",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,204,237",
+			"percent": "+ 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-10 15:51:52",
+		"unix": 1654869112718
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.2m",
+		"exact": "43,199,025"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 165.5k",
+			"exact": "- 165,499",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "487.4k",
+			"exact": "+ 487,446",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,643,815",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,204,237",
+			"percent": "+ 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-11 15:35:01",
+		"unix": 1654954501098
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.5m",
+		"exact": "43,509,387"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "257.6k",
+			"exact": "+ 257,570",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "918.5k",
+			"exact": "+ 918,521",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,057,719",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.1m",
+			"exact": "+ 7,087,194",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-13 08:58:31",
+		"unix": 1655103511651
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.5m",
+		"exact": "43,505,938"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "35.0k",
+			"exact": "+ 35,020",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,136,956",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,434,478",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.6m",
+			"exact": "+ 9,563,345",
+			"percent": "+ 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-13 17:25:09",
+		"unix": 1655133909149
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.5m",
+		"exact": "43,505,938"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "35.0k",
+			"exact": "+ 35,020",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,136,956",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,434,478",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.6m",
+			"exact": "+ 9,563,345",
+			"percent": "+ 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-14 14:23:00",
+		"unix": 1655209380533
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.5m",
+		"exact": "43,505,938"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "35.0k",
+			"exact": "+ 35,020",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,136,956",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,434,478",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.6m",
+			"exact": "+ 9,563,345",
+			"percent": "+ 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-15 16:15:35",
+		"unix": 1655302535435
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.9m",
+		"exact": "42,876,669"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 83.2k",
+			"exact": "- 83,164",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,014,896",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 2,013,433",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,708,609",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-16 23:31:46",
+		"unix": 1655415106266
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.8m",
+		"exact": "42,840,560"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 36.1k",
+			"exact": "- 36,109",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,208,429",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,129,531",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,357,437",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-17 20:10:03",
+		"unix": 1655489403311
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.9m",
+		"exact": "42,860,650"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "20.1k",
+			"exact": "+ 20,090",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,592,283",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,255,471",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,544,712",
+			"percent": "+ 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-18 11:37:32",
+		"unix": 1655545052307
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.9m",
+		"exact": "42,860,650"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "20.1k",
+			"exact": "+ 20,090",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,592,283",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,255,471",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,544,712",
+			"percent": "+ 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-19 00:09:21",
+		"unix": 1655590161364
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "42.8m",
+		"exact": "42,849,953"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 10.7k",
+			"exact": "- 10,697",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 2,028,009",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,464,505",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,659,590",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-19 22:43:15",
+		"unix": 1655671395987
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.1m",
+		"exact": "43,106,763"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "256.8k",
+			"exact": "+ 256,810",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,099,821",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,893,241",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,752,094",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-21 12:55:58",
+		"unix": 1655808958023
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.0m",
+		"exact": "43,024,820"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "398",
+			"exact": "+ 398",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,157,621",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,951,978",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,507,834",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-22 09:34:53",
+		"unix": 1655883293811
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.0m",
+		"exact": "43,024,820"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "398",
+			"exact": "+ 398",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,157,621",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,951,978",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,507,834",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-22 13:00:14",
+		"unix": 1655895614165
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.0m",
+		"exact": "43,024,820"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "398",
+			"exact": "+ 398",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,157,621",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,951,978",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,507,834",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-23 13:00:12",
+		"unix": 1655982012484
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.3m",
+		"exact": "43,271,644"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "246.8k",
+			"exact": "+ 246,824",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,504,050",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,998,784",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,751,156",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-24 13:00:11",
+		"unix": 1656068411770
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.8m",
+		"exact": "43,756,043"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 46.3k",
+			"exact": "- 46,278",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,965,073",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,197,877",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.2m",
+			"exact": "+ 4,217,609",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-25 13:00:12",
+		"unix": 1656154812951
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "44.2m",
+		"exact": "44,168,467"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "412.4k",
+			"exact": "+ 412,424",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,954,503",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,685,519",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,912,964",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-26 13:00:12",
+		"unix": 1656241212530
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "44.5m",
+		"exact": "44,540,414"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "371.9k",
+			"exact": "+ 371,947",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,372,351",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,451,593",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,705,511",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-27 13:00:13",
+		"unix": 1656327613890
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "44.5m",
+		"exact": "44,450,828"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 89.6k",
+			"exact": "- 89,586",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,847,678",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,426,602",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.9m",
+			"exact": "+ 5,902,590",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-28 13:00:11",
+		"unix": 1656414011843
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "44.5m",
+		"exact": "44,450,828"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 89.6k",
+			"exact": "- 89,586",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,847,678",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,426,602",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.9m",
+			"exact": "+ 5,902,590",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-29 13:00:11",
+		"unix": 1656500411768
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "44.2m",
+		"exact": "44,202,474"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,540,560",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,686,554",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,473,760",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-30 13:00:12",
+		"unix": 1656586812084
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "44.2m",
+		"exact": "44,229,850"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "27.4k",
+			"exact": "+ 27,376",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,567,936",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,713,930",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,501,136",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-01 13:00:13",
+		"unix": 1656673213012
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "44.4m",
+		"exact": "44,446,207"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "216.4k",
+			"exact": "+ 216,357",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,659,019",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,265,288",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,489,759",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-02 13:00:11",
+		"unix": 1656759611290
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "44.7m",
+		"exact": "44,725,453"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "279.2k",
+			"exact": "+ 279,246",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,946,321",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,194,692",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,732,335",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-03 13:00:10",
+		"unix": 1656846010346
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "45.3m",
+		"exact": "45,263,895"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 221.4k",
+			"exact": "- 221,424",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 2,009,726",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,078,063",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,807,247",
+			"percent": "+ 4%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-04 13:00:11",
+		"unix": 1656932411365
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "45.0m",
+		"exact": "45,047,584"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 216.3k",
+			"exact": "- 216,311",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,820,736",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,770,581",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "744.9k",
+			"exact": "+ 744,867",
+			"percent": "+ 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-05 13:00:10",
+		"unix": 1657018810765
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "45.6m",
+		"exact": "45,572,637"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "525.1k",
+			"exact": "+ 525,053",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,398,733",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,559,663",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 321.0k",
+			"exact": "- 321,040",
+			"percent": "+ 0%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-06 13:00:10",
+		"unix": 1657105210570
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "45.4m",
+		"exact": "45,449,230"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 123.4k",
+			"exact": "- 123,407",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,369,731",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,918,598",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.2m",
+			"exact": "- 2,202,625",
+			"percent": "- 4%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-07 13:00:10",
+		"unix": 1657191610286
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "46.3m",
+		"exact": "46,273,809"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "824.6k",
+			"exact": "+ 824,579",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,909,285",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "4.0m",
+			"exact": "+ 4,029,273",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 205.7k",
+			"exact": "- 205,673",
+			"percent": "+ 0%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-08 13:00:11",
+		"unix": 1657278011042
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "46.3m",
+		"exact": "46,273,809"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "824.6k",
+			"exact": "+ 824,579",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,909,285",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "4.0m",
+			"exact": "+ 4,029,273",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 205.7k",
+			"exact": "- 205,673",
+			"percent": "+ 0%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-09 13:00:11",
+		"unix": 1657364411191
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "46.3m",
+		"exact": "46,322,054"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 116.7k",
+			"exact": "- 116,707",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,070,237",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "4.3m",
+			"exact": "+ 4,307,857",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.1m",
+			"exact": "+ 4,074,101",
+			"percent": "+ 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-10 13:00:13",
+		"unix": 1657450813164
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "46.1m",
+		"exact": "46,056,034"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 266.0k",
+			"exact": "- 266,020",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,546,647",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,762,458",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,616,408",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-11 13:00:10",
+		"unix": 1657537210743
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "45.8m",
+		"exact": "45,761,193"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 294.8k",
+			"exact": "- 294,841",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,290,275",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,544,753",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,602,386",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-12 13:00:10",
+		"unix": 1657623610991
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "45.8m",
+		"exact": "45,761,193"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 294.8k",
+			"exact": "- 294,841",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,290,275",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,544,753",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,602,386",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-13 13:00:10",
+		"unix": 1657710010593
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "45.3m",
+		"exact": "45,273,431"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 252.7k",
+			"exact": "- 252,686",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,313,598",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,857,244",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.9m",
+			"exact": "+ 6,942,528",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-14 13:00:10",
+		"unix": 1657796410983
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "44.8m",
+		"exact": "44,757,530"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 515.9k",
+			"exact": "- 515,901",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,880,861",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,452,018",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.5m",
+			"exact": "+ 6,531,059",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-15 13:00:12",
+		"unix": 1657882812763
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "44.4m",
+		"exact": "44,356,956"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 400.6k",
+			"exact": "- 400,574",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,516,396",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "945.3k",
+			"exact": "+ 945,324",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.7m",
+			"exact": "+ 7,698,465",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-16 13:00:12",
+		"unix": 1657969212279
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "44.4m",
+		"exact": "44,356,956"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 400.6k",
+			"exact": "- 400,574",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,516,396",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "945.3k",
+			"exact": "+ 945,324",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.7m",
+			"exact": "+ 7,698,465",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-17 13:00:12",
+		"unix": 1658055612937
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "44.8m",
+		"exact": "44,783,858"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "426.9k",
+			"exact": "+ 426,902",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,923,208",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,563,216",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.0m",
+			"exact": "+ 9,957,807",
+			"percent": "+ 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-18 13:00:11",
+		"unix": 1658142011139
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "45.3m",
+		"exact": "45,345,918"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "562.1k",
+			"exact": "+ 562,060",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,495,965",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,576,594",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "12.3m",
+			"exact": "+ 12,261,170",
+			"percent": "+ 37%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-19 13:00:11",
+		"unix": 1658228411176
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "46.8m",
+		"exact": "46,847,588"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,932,202",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,823,166",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,456,485",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "13.2m",
+			"exact": "+ 13,183,645",
+			"percent": "+ 39%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-20 13:00:10",
+		"unix": 1658314810972
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "46.8m",
+		"exact": "46,847,588"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,822,768",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,447,169",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "11.6m",
+			"exact": "+ 11,571,166",
+			"percent": "+ 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-21 13:00:12",
+		"unix": 1658401212783
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "49.0m",
+		"exact": "49,023,179"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,175,591",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "6.0m",
+			"exact": "+ 5,998,359",
+			"percent": "+ 13%"
+		},
+		"quarterlyChange": {
+			"rough": "6.6m",
+			"exact": "+ 6,622,760",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "13.7m",
+			"exact": "+ 13,746,757",
+			"percent": "+ 38%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-22 13:00:14",
+		"unix": 1658487614231
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "48.4m",
+		"exact": "48,434,908"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 225.0k",
+			"exact": "- 225,017",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,632,587",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "6.4m",
+			"exact": "+ 6,356,166",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "11.4m",
+			"exact": "+ 11,356,733",
+			"percent": "+ 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-23 13:00:11",
+		"unix": 1658574011568
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "49.4m",
+		"exact": "49,436,669"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,001,761",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,680,626",
+			"percent": "+ 12%"
+		},
+		"quarterlyChange": {
+			"rough": "7.6m",
+			"exact": "+ 7,624,115",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "12.7m",
+			"exact": "+ 12,692,374",
+			"percent": "+ 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-24 13:00:11",
+		"unix": 1658660411106
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "49.4m",
+		"exact": "49,436,669"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,001,761",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,680,626",
+			"percent": "+ 12%"
+		},
+		"quarterlyChange": {
+			"rough": "7.6m",
+			"exact": "+ 7,624,115",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "12.7m",
+			"exact": "+ 12,692,374",
+			"percent": "+ 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-25 13:00:11",
+		"unix": 1658746811220
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "49.7m",
+		"exact": "49,723,939"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "287.3k",
+			"exact": "+ 287,270",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,555,472",
+			"percent": "+ 12%"
+		},
+		"quarterlyChange": {
+			"rough": "8.0m",
+			"exact": "+ 8,013,582",
+			"percent": "+ 19%"
+		},
+		"semiAnnualChange": {
+			"rough": "13.0m",
+			"exact": "+ 12,970,978",
+			"percent": "+ 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-26 13:00:11",
+		"unix": 1658833211974
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "49.0m",
+		"exact": "48,987,042"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 395.1k",
+			"exact": "- 395,065",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,536,214",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "6.4m",
+			"exact": "+ 6,411,533",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "11.7m",
+			"exact": "+ 11,723,571",
+			"percent": "+ 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-27 13:00:12",
+		"unix": 1658919612559
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "47.8m",
+		"exact": "47,797,359"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,189,683",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "3.6m",
+			"exact": "+ 3,594,885",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,852,913",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.7m",
+			"exact": "+ 10,659,145",
+			"percent": "+ 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-28 13:00:12",
+		"unix": 1659006012305
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "47.2m",
+		"exact": "47,224,798"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 572.6k",
+			"exact": "- 572,561",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,994,948",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "4.0m",
+			"exact": "+ 3,964,712",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.8m",
+			"exact": "+ 9,753,079",
+			"percent": "+ 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-29 13:00:12",
+		"unix": 1659092412040
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "47.6m",
+		"exact": "47,618,822"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "394.0k",
+			"exact": "+ 394,024",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,172,615",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,738,894",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.8m",
+			"exact": "+ 9,795,626",
+			"percent": "+ 25%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-30 13:00:15",
+		"unix": 1659178815979
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "47.6m",
+		"exact": "47,618,822"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "394.0k",
+			"exact": "+ 394,024",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,172,615",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,738,894",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.8m",
+			"exact": "+ 9,795,626",
+			"percent": "+ 25%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-31 13:00:10",
+		"unix": 1659265210902
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "47.9m",
+		"exact": "47,868,046"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "249.2k",
+			"exact": "+ 249,224",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,142,593",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,189,105",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.5m",
+			"exact": "+ 9,544,192",
+			"percent": "+ 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-01 13:00:12",
+		"unix": 1659351612597
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "48.4m",
+		"exact": "48,410,649"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "542.6k",
+			"exact": "+ 542,603",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,925,330",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "5.8m",
+			"exact": "+ 5,832,058",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.3m",
+			"exact": "+ 10,296,820",
+			"percent": "+ 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-02 13:00:12",
+		"unix": 1659438012183
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "48.2m",
+		"exact": "48,198,795"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 211.9k",
+			"exact": "- 211,854",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,934,900",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,630,327",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.8m",
+			"exact": "+ 10,842,931",
+			"percent": "+ 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-03 13:00:11",
+		"unix": 1659524411559
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "47.8m",
+		"exact": "47,797,088"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 238.3k",
+			"exact": "- 238,289",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,224,451",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,809,291",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.2m",
+			"exact": "+ 10,197,992",
+			"percent": "+ 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-20 13:18:53",
+		"unix": 1660994333086
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "44.4m",
+		"exact": "44,361,812"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,139,706",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 4.3m",
+			"exact": "- 4,298,113",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,497,764",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.1m",
+			"exact": "+ 6,082,976",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-21 13:00:13",
+		"unix": 1661079613234
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "45.0m",
+		"exact": "44,994,846"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "633.0k",
+			"exact": "+ 633,034",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 3.4m",
+			"exact": "- 3,440,062",
+			"percent": "- 7%"
+		},
+		"quarterlyChange": {
+			"rough": "4.1m",
+			"exact": "+ 4,127,647",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.0m",
+			"exact": "+ 6,963,934",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-22 13:00:12",
+		"unix": 1661166012350
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "44.9m",
+		"exact": "44,860,393"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 134.5k",
+			"exact": "- 134,453",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 4.6m",
+			"exact": "- 4,576,276",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "4.1m",
+			"exact": "+ 4,092,799",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.1m",
+			"exact": "+ 5,137,803",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-23 13:00:12",
+		"unix": 1661252412732
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "44.4m",
+		"exact": "44,428,266"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 432.1k",
+			"exact": "- 432,127",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 5.3m",
+			"exact": "- 5,295,673",
+			"percent": "- 10%"
+		},
+		"quarterlyChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,835,004",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,719,546",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-24 13:00:12",
+		"unix": 1661338812007
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.6m",
+		"exact": "43,609,407"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 829.4k",
+			"exact": "- 829,353",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 5.4m",
+			"exact": "- 5,377,635",
+			"percent": "- 10%"
+		},
+		"quarterlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,395,443",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 649.6k",
+			"exact": "- 649,576",
+			"percent": "- 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-25 13:00:12",
+		"unix": 1661425212580
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "43.6m",
+		"exact": "43,609,407"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 829.4k",
+			"exact": "- 829,353",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 5.4m",
+			"exact": "- 5,377,635",
+			"percent": "- 10%"
+		},
+		"quarterlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,395,443",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 649.6k",
+			"exact": "- 649,576",
+			"percent": "- 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-26 13:00:12",
+		"unix": 1661511612489
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "41.8m",
+		"exact": "41,761,350"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 5.5m",
+			"exact": "- 5,463,448",
+			"percent": "- 11%"
+		},
+		"quarterlyChange": {
+			"rough": "- 841.8k",
+			"exact": "- 841,800",
+			"percent": "- 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,442,203",
+			"percent": "- 5%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-27 13:00:10",
+		"unix": 1661598010948
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "39.5m",
+		"exact": "39,532,115"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 935.7k",
+			"exact": "- 935,745",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,086,707",
+			"percent": "- 16%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.1m",
+			"exact": "- 3,057,565",
+			"percent": "- 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.5m",
+			"exact": "- 4,466,806",
+			"percent": "- 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-28 13:00:12",
+		"unix": 1661684412285
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "38.8m",
+		"exact": "38,759,957"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 772.2k",
+			"exact": "- 772,158",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 9.1m",
+			"exact": "- 9,108,089",
+			"percent": "- 19%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.9m",
+			"exact": "- 3,901,957",
+			"percent": "- 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.5m",
+			"exact": "- 4,529,692",
+			"percent": "- 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-29 13:00:09",
+		"unix": 1661770809418
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "39.0m",
+		"exact": "38,960,945"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "201.0k",
+			"exact": "+ 200,988",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 9.4m",
+			"exact": "- 9,449,704",
+			"percent": "- 19%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,826,243",
+			"percent": "- 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.7m",
+			"exact": "- 3,694,651",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-30 13:00:11",
+		"unix": 1661857211461
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "39.4m",
+		"exact": "39,381,573"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "420.6k",
+			"exact": "+ 420,628",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 8.8m",
+			"exact": "- 8,817,222",
+			"percent": "- 18%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.4m",
+			"exact": "- 3,397,559",
+			"percent": "- 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,464,882",
+			"percent": "- 5%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-31 13:00:13",
+		"unix": 1661943613590
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "40.7m",
+		"exact": "40,708,006"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,326,433",
+			"percent": "+ 3%"
+		},
+		"montlyChange": {
+			"rough": "- 7.3m",
+			"exact": "- 7,327,371",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.2m",
+			"exact": "- 2,240,809",
+			"percent": "- 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "179.2k",
+			"exact": "+ 179,249",
+			"percent": "+ 0%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-01 13:00:13",
+		"unix": 1662030013041
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "40.7m",
+		"exact": "40,708,006"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 7.1m",
+			"exact": "- 7,089,082",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,546,163",
+			"percent": "- 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "556.6k",
+			"exact": "+ 556,635",
+			"percent": "+ 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-02 13:00:13",
+		"unix": 1662116413115
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "41.8m",
+		"exact": "41,753,921"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 596.0k",
+			"exact": "- 596,001",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 7.1m",
+			"exact": "- 7,065,579",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.5m",
+			"exact": "- 1,472,927",
+			"percent": "- 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,900,266",
+			"percent": "+ 4%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-03 13:00:12",
+		"unix": 1662202812570
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "41.8m",
+		"exact": "41,753,921"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 596.0k",
+			"exact": "- 596,001",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 7.1m",
+			"exact": "- 7,065,579",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.5m",
+			"exact": "- 1,472,927",
+			"percent": "- 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,900,266",
+			"percent": "+ 4%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-04 13:00:13",
+		"unix": 1662289213725
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "41.4m",
+		"exact": "41,433,103"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 320.8k",
+			"exact": "- 320,818",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 7.0m",
+			"exact": "- 7,013,651",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,740,801",
+			"percent": "- 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,679,914",
+			"percent": "+ 4%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-05 13:00:11",
+		"unix": 1662375611272
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "41.0m",
+		"exact": "41,033,807"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 7.4m",
+			"exact": "- 7,382,221",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,330,717",
+			"percent": "- 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,778,682",
+			"percent": "+ 4%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-06 13:00:13",
+		"unix": 1662462013786
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "40.9m",
+		"exact": "40,926,137"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 251.6k",
+			"exact": "- 251,648",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 7.0m",
+			"exact": "- 7,014,625",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,272,888",
+			"percent": "- 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "723.9k",
+			"exact": "+ 723,883",
+			"percent": "+ 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-07 13:00:12",
+		"unix": 1662548412712
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "40.9m",
+		"exact": "40,926,137"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 251.6k",
+			"exact": "- 251,648",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 7.0m",
+			"exact": "- 7,014,625",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,272,888",
+			"percent": "- 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "723.9k",
+			"exact": "+ 723,883",
+			"percent": "+ 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-08 13:00:09",
+		"unix": 1662634809763
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "40.3m",
+		"exact": "40,321,995"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 7.2m",
+			"exact": "- 7,230,579",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.2m",
+			"exact": "- 3,187,392",
+			"percent": "- 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 744.4k",
+			"exact": "- 744,444",
+			"percent": "- 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-09 13:00:13",
+		"unix": 1662721213229
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "39.3m",
+		"exact": "39,294,874"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 684.4k",
+			"exact": "- 684,352",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,082,945",
+			"percent": "- 17%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.2m",
+			"exact": "- 4,176,044",
+			"percent": "- 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.2m",
+			"exact": "- 2,156,794",
+			"percent": "- 5%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-10 13:00:12",
+		"unix": 1662807612681
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "39.3m",
+		"exact": "39,294,874"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 684.4k",
+			"exact": "- 684,352",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,082,945",
+			"percent": "- 17%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.2m",
+			"exact": "- 4,176,044",
+			"percent": "- 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.2m",
+			"exact": "- 2,156,794",
+			"percent": "- 5%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-11 13:00:13",
+		"unix": 1662894013026
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "39.1m",
+		"exact": "39,134,756"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 160.1k",
+			"exact": "- 160,118",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 7.7m",
+			"exact": "- 7,725,624",
+			"percent": "- 16%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.4m",
+			"exact": "- 4,371,182",
+			"percent": "- 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.0m",
+			"exact": "- 2,043,236",
+			"percent": "- 4%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-12 13:00:12",
+		"unix": 1662980412983
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "39.1m",
+		"exact": "39,072,397"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 556.4k",
+			"exact": "- 556,391",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 7.2m",
+			"exact": "- 7,191,845",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,804,272",
+			"percent": "- 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.1m",
+			"exact": "- 2,067,072",
+			"percent": "- 5%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-13 13:00:12",
+		"unix": 1663066812432
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "39.1m",
+		"exact": "39,072,397"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 556.4k",
+			"exact": "- 556,391",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 7.2m",
+			"exact": "- 7,191,845",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,804,272",
+			"percent": "- 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.1m",
+			"exact": "- 2,067,072",
+			"percent": "- 5%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-14 13:00:12",
+		"unix": 1663153212073
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "37.5m",
+		"exact": "37,506,620"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 306.9k",
+			"exact": "- 306,856",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 7.1m",
+			"exact": "- 7,050,621",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.4m",
+			"exact": "- 5,354,030",
+			"percent": "- 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.2m",
+			"exact": "- 3,204,409",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-15 13:00:12",
+		"unix": 1663239612081
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "36.9m",
+		"exact": "36,924,474"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 582.1k",
+			"exact": "- 582,146",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 6.3m",
+			"exact": "- 6,310,266",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.9m",
+			"exact": "- 5,925,479",
+			"percent": "- 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.7m",
+			"exact": "- 3,680,705",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-16 13:00:12",
+		"unix": 1663326012783
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "36.9m",
+		"exact": "36,924,474"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 582.1k",
+			"exact": "- 582,146",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 6.3m",
+			"exact": "- 6,310,266",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.9m",
+			"exact": "- 5,925,479",
+			"percent": "- 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.7m",
+			"exact": "- 3,680,705",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-17 13:00:13",
+		"unix": 1663412413052
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "36.6m",
+		"exact": "36,582,821"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 341.7k",
+			"exact": "- 341,653",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 6.6m",
+			"exact": "- 6,639,285",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.5m",
+			"exact": "- 6,523,942",
+			"percent": "- 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,802,627",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-21 13:00:12",
+		"unix": 1663758012440
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "34.4m",
+		"exact": "34,387,346"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 10.1m",
+			"exact": "- 10,051,414",
+			"percent": "- 22%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.4m",
+			"exact": "- 9,368,697",
+			"percent": "- 21%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 6.1m",
+			"exact": "- 6,145,964",
+			"percent": "- 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-21 14:21:31",
+		"unix": 1663762891954
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "34.4m",
+		"exact": "34,387,346"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 10.1m",
+			"exact": "- 10,051,414",
+			"percent": "- 22%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.4m",
+			"exact": "- 9,368,697",
+			"percent": "- 21%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 6.1m",
+			"exact": "- 6,145,964",
+			"percent": "- 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-22 13:00:12",
+		"unix": 1663844412170
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "33.2m",
+		"exact": "33,212,429"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,174,917",
+			"percent": "- 3%"
+		},
+		"montlyChange": {
+			"rough": "- 11.2m",
+			"exact": "- 11,226,331",
+			"percent": "- 25%"
+		},
+		"quarterlyChange": {
+			"rough": "- 10.5m",
+			"exact": "- 10,543,614",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 7.3m",
+			"exact": "- 7,320,881",
+			"percent": "- 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-23 13:00:13",
+		"unix": 1663930813425
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "32.5m",
+		"exact": "32,504,919"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 707.5k",
+			"exact": "- 707,510",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "- 11.1m",
+			"exact": "- 11,104,488",
+			"percent": "- 25%"
+		},
+		"quarterlyChange": {
+			"rough": "- 11.7m",
+			"exact": "- 11,663,548",
+			"percent": "- 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,053,247",
+			"percent": "- 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-24 13:00:12",
+		"unix": 1664017212346
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "32.6m",
+		"exact": "32,573,001"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "318.9k",
+			"exact": "+ 318,896",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 7.9m",
+			"exact": "- 7,894,859",
+			"percent": "- 19%"
+		},
+		"quarterlyChange": {
+			"rough": "- 11.9m",
+			"exact": "- 11,877,827",
+			"percent": "- 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 7.5m",
+			"exact": "- 7,515,820",
+			"percent": "- 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-25 13:00:13",
+		"unix": 1664103613923
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "34.2m",
+		"exact": "34,188,849"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,615,848",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "- 5.3m",
+			"exact": "- 5,343,266",
+			"percent": "- 13%"
+		},
+		"quarterlyChange": {
+			"rough": "- 10.0m",
+			"exact": "- 10,013,625",
+			"percent": "- 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.8m",
+			"exact": "- 5,835,377",
+			"percent": "- 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-26 13:00:11",
+		"unix": 1664190011725
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "34.2m",
+		"exact": "34,188,849"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,615,848",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "- 5.3m",
+			"exact": "- 5,343,266",
+			"percent": "- 13%"
+		},
+		"quarterlyChange": {
+			"rough": "- 10.0m",
+			"exact": "- 10,013,625",
+			"percent": "- 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.8m",
+			"exact": "- 5,835,377",
+			"percent": "- 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-27 13:00:13",
+		"unix": 1664276413709
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "34.9m",
+		"exact": "34,948,113"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "759.3k",
+			"exact": "+ 759,264",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,811,844",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.3m",
+			"exact": "- 9,281,737",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.3m",
+			"exact": "- 5,325,856",
+			"percent": "- 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-28 13:00:13",
+		"unix": 1664362813861
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "35.6m",
+		"exact": "35,595,941"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,785,632",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.1m",
+			"exact": "- 9,129,512",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.6m",
+			"exact": "- 5,584,978",
+			"percent": "- 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-29 13:00:12",
+		"unix": 1664449212751
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "35.9m",
+		"exact": "35,934,636"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "269.6k",
+			"exact": "+ 269,567",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 4.8m",
+			"exact": "- 4,773,370",
+			"percent": "- 11%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.6m",
+			"exact": "- 9,550,683",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 6.6m",
+			"exact": "- 6,596,125",
+			"percent": "- 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-30 13:00:13",
+		"unix": 1664535613831
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "35.7m",
+		"exact": "35,736,312"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 198.3k",
+			"exact": "- 198,324",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 6.6m",
+			"exact": "- 6,613,610",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.5m",
+			"exact": "- 9,527,583",
+			"percent": "- 21%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 7.1m",
+			"exact": "- 7,107,836",
+			"percent": "- 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-01 13:00:14",
+		"unix": 1664622014304
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "36.2m",
+		"exact": "36,246,203"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "509.9k",
+			"exact": "+ 509,891",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 5.5m",
+			"exact": "- 5,507,718",
+			"percent": "- 13%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.8m",
+			"exact": "- 8,801,381",
+			"percent": "- 19%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 6.9m",
+			"exact": "- 6,939,629",
+			"percent": "- 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-02 13:00:13",
+		"unix": 1664708413597
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "36.2m",
+		"exact": "36,246,203"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "509.9k",
+			"exact": "+ 509,891",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 5.5m",
+			"exact": "- 5,507,718",
+			"percent": "- 13%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.8m",
+			"exact": "- 8,801,381",
+			"percent": "- 19%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 6.9m",
+			"exact": "- 6,939,629",
+			"percent": "- 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-03 13:00:13",
+		"unix": 1664794813667
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "37.1m",
+		"exact": "37,065,091"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "198.8k",
+			"exact": "+ 198,827",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 4.0m",
+			"exact": "- 3,968,716",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.4m",
+			"exact": "- 8,384,139",
+			"percent": "- 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.9m",
+			"exact": "- 5,947,883",
+			"percent": "- 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-04 13:00:14",
+		"unix": 1664881214269
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "37.0m",
+		"exact": "36,959,681"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 105.4k",
+			"exact": "- 105,410",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 4.2m",
+			"exact": "- 4,218,104",
+			"percent": "- 10%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.3m",
+			"exact": "- 9,314,128",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.6m",
+			"exact": "- 5,570,951",
+			"percent": "- 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-05 13:00:11",
+		"unix": 1664967611529
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "37.0m",
+		"exact": "36,959,681"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 4.0m",
+			"exact": "- 3,966,456",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.5m",
+			"exact": "- 9,479,080",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.3m",
+			"exact": "- 5,284,855",
+			"percent": "- 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-06 13:00:13",
+		"unix": 1665054013515
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "36.3m",
+		"exact": "36,294,408"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 665.3k",
+			"exact": "- 665,273",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 4.6m",
+			"exact": "- 4,631,729",
+			"percent": "- 11%"
+		},
+		"quarterlyChange": {
+			"rough": "- 10.1m",
+			"exact": "- 10,144,353",
+			"percent": "- 21%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 6.0m",
+			"exact": "- 5,950,128",
+			"percent": "- 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-07 13:00:14",
+		"unix": 1665140414660
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "33.9m",
+		"exact": "33,876,637"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,054,384",
+			"percent": "- 3%"
+		},
+		"montlyChange": {
+			"rough": "- 6.1m",
+			"exact": "- 6,102,589",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 12.2m",
+			"exact": "- 12,179,397",
+			"percent": "- 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,137,560",
+			"percent": "- 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-08 13:00:11",
+		"unix": 1665226811929
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "33.9m",
+		"exact": "33,876,637"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,054,384",
+			"percent": "- 3%"
+		},
+		"montlyChange": {
+			"rough": "- 6.1m",
+			"exact": "- 6,102,589",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 12.2m",
+			"exact": "- 12,179,397",
+			"percent": "- 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,137,560",
+			"percent": "- 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-09 13:00:12",
+		"unix": 1665313212869
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "33.7m",
+		"exact": "33,656,537"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 220.1k",
+			"exact": "- 220,100",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 5.6m",
+			"exact": "- 5,638,337",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 12.1m",
+			"exact": "- 12,104,656",
+			"percent": "- 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 8.6m",
+			"exact": "- 8,637,039",
+			"percent": "- 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-10 13:00:12",
+		"unix": 1665399612055
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "34.1m",
+		"exact": "34,066,796"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 5.6m",
+			"exact": "- 5,561,992",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 11.2m",
+			"exact": "- 11,206,635",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 7.9m",
+			"exact": "- 7,915,464",
+			"percent": "- 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-11 13:00:13",
+		"unix": 1665486013006
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "34.0m",
+		"exact": "33,960,245"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 272.8k",
+			"exact": "- 272,753",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 5.1m",
+			"exact": "- 5,112,152",
+			"percent": "- 13%"
+		},
+		"quarterlyChange": {
+			"rough": "- 10.8m",
+			"exact": "- 10,797,285",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 8.5m",
+			"exact": "- 8,455,942",
+			"percent": "- 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-12 13:00:12",
+		"unix": 1665572412326
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "33.3m",
+		"exact": "33,281,459"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 678.8k",
+			"exact": "- 678,786",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 4.5m",
+			"exact": "- 4,532,017",
+			"percent": "- 11%"
+		},
+		"quarterlyChange": {
+			"rough": "- 11.1m",
+			"exact": "- 11,075,497",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 10.0m",
+			"exact": "- 10,024,053",
+			"percent": "- 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-13 13:00:17",
+		"unix": 1665658817361
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "33.3m",
+		"exact": "33,281,459"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 678.8k",
+			"exact": "- 678,786",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 4.5m",
+			"exact": "- 4,532,017",
+			"percent": "- 11%"
+		},
+		"quarterlyChange": {
+			"rough": "- 11.1m",
+			"exact": "- 11,075,497",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 10.0m",
+			"exact": "- 10,024,053",
+			"percent": "- 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-14 13:00:12",
+		"unix": 1665745212991
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.5m",
+		"exact": "30,503,396"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.4m",
+			"exact": "- 1,432,283",
+			"percent": "- 4%"
+		},
+		"montlyChange": {
+			"rough": "- 6.4m",
+			"exact": "- 6,421,078",
+			"percent": "- 17%"
+		},
+		"quarterlyChange": {
+			"rough": "- 14.8m",
+			"exact": "- 14,842,522",
+			"percent": "- 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 12.7m",
+			"exact": "- 12,717,246",
+			"percent": "- 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-15 13:00:13",
+		"unix": 1665831613420
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.6m",
+		"exact": "30,623,417"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "120.0k",
+			"exact": "+ 120,021",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 6.0m",
+			"exact": "- 5,959,404",
+			"percent": "- 16%"
+		},
+		"quarterlyChange": {
+			"rough": "- 14.3m",
+			"exact": "- 14,291,969",
+			"percent": "- 31%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 12.1m",
+			"exact": "- 12,145,907",
+			"percent": "- 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-16 13:00:13",
+		"unix": 1665918013546
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.6m",
+		"exact": "30,623,417"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "120.0k",
+			"exact": "+ 120,021",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 6.0m",
+			"exact": "- 5,959,404",
+			"percent": "- 16%"
+		},
+		"quarterlyChange": {
+			"rough": "- 14.3m",
+			"exact": "- 14,291,969",
+			"percent": "- 31%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 12.1m",
+			"exact": "- 12,145,907",
+			"percent": "- 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-17 13:00:12",
+		"unix": 1666004412506
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "31.3m",
+		"exact": "31,343,503"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 4.4m",
+			"exact": "- 4,401,080",
+			"percent": "- 12%"
+		},
+		"quarterlyChange": {
+			"rough": "- 17.7m",
+			"exact": "- 17,679,676",
+			"percent": "- 36%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 11.0m",
+			"exact": "- 11,047,600",
+			"percent": "- 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-18 13:00:14",
+		"unix": 1666090814530
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "31.8m",
+		"exact": "31,844,164"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "500.7k",
+			"exact": "+ 500,661",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 3.9m",
+			"exact": "- 3,900,419",
+			"percent": "- 10%"
+		},
+		"quarterlyChange": {
+			"rough": "- 17.2m",
+			"exact": "- 17,179,015",
+			"percent": "- 35%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 10.5m",
+			"exact": "- 10,546,939",
+			"percent": "- 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-19 13:00:12",
+		"unix": 1666177212942
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "32.0m",
+		"exact": "32,040,848"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "129.3k",
+			"exact": "+ 129,312",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,346,498",
+			"percent": "- 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 16.4m",
+			"exact": "- 16,394,060",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 10.3m",
+			"exact": "- 10,267,723",
+			"percent": "- 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-20 13:00:15",
+		"unix": 1666263615605
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "32.0m",
+		"exact": "32,040,848"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "129.3k",
+			"exact": "+ 129,312",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,346,498",
+			"percent": "- 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 16.4m",
+			"exact": "- 16,394,060",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 10.3m",
+			"exact": "- 10,267,723",
+			"percent": "- 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-21 13:00:11",
+		"unix": 1666350011632
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "32.4m",
+		"exact": "32,426,027"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 80.1k",
+			"exact": "- 80,120",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 78.9k",
+			"exact": "- 78,892",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 17.3m",
+			"exact": "- 17,297,912",
+			"percent": "- 34%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 9.4m",
+			"exact": "- 9,386,527",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-22 13:00:13",
+		"unix": 1666436413974
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "32.7m",
+		"exact": "32,713,032"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "287.0k",
+			"exact": "+ 287,005",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "458.9k",
+			"exact": "+ 458,927",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 16.7m",
+			"exact": "- 16,669,075",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 9.0m",
+			"exact": "- 8,997,325",
+			"percent": "- 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-23 13:00:11",
+		"unix": 1666522811943
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "32.7m",
+		"exact": "32,713,032"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "287.0k",
+			"exact": "+ 287,005",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "458.9k",
+			"exact": "+ 458,927",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 16.7m",
+			"exact": "- 16,669,075",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 9.0m",
+			"exact": "- 8,997,325",
+			"percent": "- 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-24 13:00:12",
+		"unix": 1666609212927
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "33.2m",
+		"exact": "33,203,430"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 985.4k",
+			"exact": "- 985,419",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 14.6m",
+			"exact": "- 14,593,929",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 9.4m",
+			"exact": "- 9,372,079",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-25 13:00:11",
+		"unix": 1666695611396
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "33.4m",
+		"exact": "33,351,970"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 351.2k",
+			"exact": "- 351,236",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 1.6m",
+			"exact": "- 1,596,143",
+			"percent": "- 4%"
+		},
+		"quarterlyChange": {
+			"rough": "- 13.9m",
+			"exact": "- 13,872,828",
+			"percent": "- 29%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 9.6m",
+			"exact": "- 9,592,476",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-26 13:00:12",
+		"unix": 1666782012337
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "33.4m",
+		"exact": "33,351,970"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.2m",
+			"exact": "- 2,243,971",
+			"percent": "- 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 14.3m",
+			"exact": "- 14,266,852",
+			"percent": "- 29%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 9.9m",
+			"exact": "- 9,908,116",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-27 13:00:13",
+		"unix": 1666868413277
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "33.1m",
+		"exact": "33,134,507"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "66.8k",
+			"exact": "+ 66,752",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,530,562",
+			"percent": "- 7%"
+		},
+		"quarterlyChange": {
+			"rough": "- 14.7m",
+			"exact": "- 14,733,539",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 9.7m",
+			"exact": "- 9,745,421",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-28 13:00:14",
+		"unix": 1666954814324
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "32.9m",
+		"exact": "32,866,761"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 267.7k",
+			"exact": "- 267,746",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.1m",
+			"exact": "- 3,067,875",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 15.5m",
+			"exact": "- 15,543,888",
+			"percent": "- 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 9.8m",
+			"exact": "- 9,812,180",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-29 13:00:12",
+		"unix": 1667041212615
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "32.4m",
+		"exact": "32,400,363"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 466.4k",
+			"exact": "- 466,398",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,335,949",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 15.8m",
+			"exact": "- 15,798,432",
+			"percent": "- 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 10.2m",
+			"exact": "- 10,178,228",
+			"percent": "- 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-30 13:00:12",
+		"unix": 1667131212192
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "32.4m",
+		"exact": "32,400,363"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 466.4k",
+			"exact": "- 466,398",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,335,949",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 15.8m",
+			"exact": "- 15,798,432",
+			"percent": "- 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 10.2m",
+			"exact": "- 10,178,228",
+			"percent": "- 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-31 13:00:11",
+		"unix": 1667217611808
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "31.6m",
+		"exact": "31,552,547"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 456.5k",
+			"exact": "- 456,501",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 5.3m",
+			"exact": "- 5,313,717",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 16.2m",
+			"exact": "- 16,244,541",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 11.1m",
+			"exact": "- 11,103,087",
+			"percent": "- 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-01 13:00:11",
+		"unix": 1667304011019
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.6m",
+		"exact": "30,601,048"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 951.5k",
+			"exact": "- 951,499",
+			"percent": "- 3%"
+		},
+		"montlyChange": {
+			"rough": "- 6.5m",
+			"exact": "- 6,464,043",
+			"percent": "- 17%"
+		},
+		"quarterlyChange": {
+			"rough": "- 18.2m",
+			"exact": "- 18,218,452",
+			"percent": "- 37%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 12.4m",
+			"exact": "- 12,386,749",
+			"percent": "- 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-02 13:00:10",
+		"unix": 1667390410835
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "29.9m",
+		"exact": "29,879,096"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 722.0k",
+			"exact": "- 721,952",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "- 7.1m",
+			"exact": "- 7,080,585",
+			"percent": "- 19%"
+		},
+		"quarterlyChange": {
+			"rough": "- 18.6m",
+			"exact": "- 18,567,658",
+			"percent": "- 38%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 13.6m",
+			"exact": "- 13,572,174",
+			"percent": "- 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-03 13:00:12",
+		"unix": 1667476812206
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.0m",
+		"exact": "30,003,304"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "124.2k",
+			"exact": "+ 124,208",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 6.3m",
+			"exact": "- 6,291,104",
+			"percent": "- 17%"
+		},
+		"quarterlyChange": {
+			"rough": "- 18.5m",
+			"exact": "- 18,488,965",
+			"percent": "- 38%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 13.3m",
+			"exact": "- 13,293,175",
+			"percent": "- 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-04 13:00:12",
+		"unix": 1667563212838
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.0m",
+		"exact": "30,003,304"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "124.2k",
+			"exact": "+ 124,208",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 6.3m",
+			"exact": "- 6,291,104",
+			"percent": "- 17%"
+		},
+		"quarterlyChange": {
+			"rough": "- 18.5m",
+			"exact": "- 18,488,965",
+			"percent": "- 38%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 13.3m",
+			"exact": "- 13,293,175",
+			"percent": "- 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-05 13:00:12",
+		"unix": 1667649612861
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.0m",
+		"exact": "29,957,559"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "265.1k",
+			"exact": "+ 265,098",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.9m",
+			"exact": "- 3,919,078",
+			"percent": "- 11%"
+		},
+		"quarterlyChange": {
+			"rough": "- 18.0m",
+			"exact": "- 17,983,203",
+			"percent": "- 37%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 12.9m",
+			"exact": "- 12,875,266",
+			"percent": "- 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-06 13:00:11",
+		"unix": 1667736011669
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.0m",
+		"exact": "30,035,103"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "77.5k",
+			"exact": "+ 77,544",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.6m",
+			"exact": "- 3,621,434",
+			"percent": "- 10%"
+		},
+		"quarterlyChange": {
+			"rough": "- 17.8m",
+			"exact": "- 17,769,024",
+			"percent": "- 37%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 12.7m",
+			"exact": "- 12,676,476",
+			"percent": "- 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-07 13:00:13",
+		"unix": 1667822413956
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.0m",
+		"exact": "30,035,103"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 4.0m",
+			"exact": "- 4,031,693",
+			"percent": "- 11%"
+		},
+		"quarterlyChange": {
+			"rough": "- 17.5m",
+			"exact": "- 17,517,471",
+			"percent": "- 36%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 12.6m",
+			"exact": "- 12,624,887",
+			"percent": "- 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-08 13:00:12",
+		"unix": 1667908812379
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.3m",
+		"exact": "30,315,627"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "307.2k",
+			"exact": "+ 307,227",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 3.9m",
+			"exact": "- 3,917,371",
+			"percent": "- 11%"
+		},
+		"quarterlyChange": {
+			"rough": "- 17.1m",
+			"exact": "- 17,062,192",
+			"percent": "- 36%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 12.3m",
+			"exact": "- 12,275,239",
+			"percent": "- 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-09 13:00:13",
+		"unix": 1667995213482
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.3m",
+		"exact": "30,315,627"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.6m",
+			"exact": "- 3,644,618",
+			"percent": "- 10%"
+		},
+		"quarterlyChange": {
+			"rough": "- 16.5m",
+			"exact": "- 16,544,753",
+			"percent": "- 35%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 12.2m",
+			"exact": "- 12,190,666",
+			"percent": "- 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-10 13:00:13",
+		"unix": 1668081613733
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.6m",
+		"exact": "30,590,878"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 255.0k",
+			"exact": "- 255,036",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,690,581",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 16.7m",
+			"exact": "- 16,715,155",
+			"percent": "- 35%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 11.8m",
+			"exact": "- 11,778,104",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-11 13:00:12",
+		"unix": 1668168012817
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.6m",
+		"exact": "30,590,878"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 255.0k",
+			"exact": "- 255,036",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,690,581",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 16.7m",
+			"exact": "- 16,715,155",
+			"percent": "- 35%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 11.8m",
+			"exact": "- 11,778,104",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-12 13:00:11",
+		"unix": 1668254411745
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.4m",
+		"exact": "30,436,864"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 320.0k",
+			"exact": "- 319,956",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 66.5k",
+			"exact": "- 66,532",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 14.7m",
+			"exact": "- 14,657,308",
+			"percent": "- 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 11.4m",
+			"exact": "- 11,424,909",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-13 13:00:11",
+		"unix": 1668340811763
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.3m",
+		"exact": "30,327,135"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 109.7k",
+			"exact": "- 109,729",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 296.3k",
+			"exact": "- 296,282",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 14.2m",
+			"exact": "- 14,230,106",
+			"percent": "- 31%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 11.3m",
+			"exact": "- 11,304,996",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-14 13:00:12",
+		"unix": 1668427212945
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.1m",
+		"exact": "30,066,458"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 260.7k",
+			"exact": "- 260,677",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.3m",
+			"exact": "- 1,277,045",
+			"percent": "- 4%"
+		},
+		"quarterlyChange": {
+			"rough": "- 13.2m",
+			"exact": "- 13,168,282",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 11.2m",
+			"exact": "- 11,201,909",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-15 13:00:12",
+		"unix": 1668513612871
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "29.9m",
+		"exact": "29,905,774"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 160.7k",
+			"exact": "- 160,684",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.9m",
+			"exact": "- 1,938,390",
+			"percent": "- 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 13.3m",
+			"exact": "- 13,316,332",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 10.9m",
+			"exact": "- 10,916,170",
+			"percent": "- 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-16 13:00:13",
+		"unix": 1668600013427
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "29.9m",
+		"exact": "29,905,774"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.0m",
+			"exact": "- 2,005,762",
+			"percent": "- 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 14.5m",
+			"exact": "- 14,456,038",
+			"percent": "- 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 11.1m",
+			"exact": "- 11,101,168",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-17 13:00:14",
+		"unix": 1668686414795
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "29.8m",
+		"exact": "29,777,385"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 242.9k",
+			"exact": "- 242,875",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,263,463",
+			"percent": "- 7%"
+		},
+		"quarterlyChange": {
+			"rough": "- 15.2m",
+			"exact": "- 15,217,461",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 11.1m",
+			"exact": "- 11,086,663",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-18 13:00:12",
+		"unix": 1668772812985
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "29.8m",
+		"exact": "29,761,387"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 16.0k",
+			"exact": "- 15,998",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,744,760",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 15.1m",
+			"exact": "- 15,099,006",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 11.1m",
+			"exact": "- 11,105,812",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-19 13:00:12",
+		"unix": 1668859212942
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "29.8m",
+		"exact": "29,761,387"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 16.0k",
+			"exact": "- 15,998",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,744,760",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 15.1m",
+			"exact": "- 15,099,006",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 11.1m",
+			"exact": "- 11,105,812",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-20 13:00:13",
+		"unix": 1668945613523
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.3m",
+		"exact": "30,349,757"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "405.0k",
+			"exact": "+ 404,974",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,363,275",
+			"percent": "- 7%"
+		},
+		"quarterlyChange": {
+			"rough": "- 14.1m",
+			"exact": "- 14,089,003",
+			"percent": "- 31%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 10.2m",
+			"exact": "- 10,243,505",
+			"percent": "- 25%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-21 13:00:14",
+		"unix": 1669032014182
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.2m",
+		"exact": "30,159,750"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 190.0k",
+			"exact": "- 190,007",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.0m",
+			"exact": "- 3,043,680",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 13.4m",
+			"exact": "- 13,449,657",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 10.6m",
+			"exact": "- 10,631,220",
+			"percent": "- 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-23 13:00:13",
+		"unix": 1669204813554
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "29.9m",
+		"exact": "29,864,770"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.5m",
+			"exact": "- 3,487,200",
+			"percent": "- 10%"
+		},
+		"quarterlyChange": {
+			"rough": "- 10.6m",
+			"exact": "- 10,603,090",
+			"percent": "- 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 12.3m",
+			"exact": "- 12,303,293",
+			"percent": "- 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-24 13:00:11",
+		"unix": 1669291211548
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "29.9m",
+		"exact": "29,892,547"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "27.8k",
+			"exact": "+ 27,777",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.2m",
+			"exact": "- 3,175,208",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.6m",
+			"exact": "- 9,639,568",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 12.7m",
+			"exact": "- 12,710,603",
+			"percent": "- 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-25 13:00:13",
+		"unix": 1669377613955
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "29.9m",
+		"exact": "29,892,547"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "27.8k",
+			"exact": "+ 27,777",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.2m",
+			"exact": "- 3,175,208",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.6m",
+			"exact": "- 9,639,568",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 12.7m",
+			"exact": "- 12,710,603",
+			"percent": "- 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-26 13:00:13",
+		"unix": 1669464013390
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.9m",
+		"exact": "30,854,973"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "218.2k",
+			"exact": "+ 218,205",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.0m",
+			"exact": "- 2,011,788",
+			"percent": "- 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,105,972",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 11.8m",
+			"exact": "- 11,806,941",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-27 13:00:13",
+		"unix": 1669550413987
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "31.3m",
+		"exact": "31,251,150"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "396.2k",
+			"exact": "+ 396,177",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,149,213",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,130,423",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 11.5m",
+			"exact": "- 11,536,038",
+			"percent": "- 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-28 13:00:12",
+		"unix": 1669636812854
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "31.6m",
+		"exact": "31,557,059"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "305.9k",
+			"exact": "+ 305,909",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 452.0k",
+			"exact": "- 451,989",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.2m",
+			"exact": "- 9,150,947",
+			"percent": "- 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 11.2m",
+			"exact": "- 11,222,073",
+			"percent": "- 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-29 13:00:13",
+		"unix": 1669723213603
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "31.6m",
+		"exact": "31,557,059"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "305.9k",
+			"exact": "+ 305,909",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 452.0k",
+			"exact": "- 451,989",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.2m",
+			"exact": "- 9,150,947",
+			"percent": "- 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 11.2m",
+			"exact": "- 11,222,073",
+			"percent": "- 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-30 13:00:13",
+		"unix": 1669809613849
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.9m",
+		"exact": "30,899,767"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "298.7k",
+			"exact": "+ 298,719",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 10.9m",
+			"exact": "- 10,854,154",
+			"percent": "- 25%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 12.4m",
+			"exact": "- 12,354,402",
+			"percent": "- 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-12-01 13:00:14",
+		"unix": 1669896014807
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "30.8m",
+		"exact": "30,824,189"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "326.2k",
+			"exact": "+ 326,228",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "945.1k",
+			"exact": "+ 945,093",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 10.6m",
+			"exact": "- 10,608,914",
+			"percent": "- 25%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 12.4m",
+			"exact": "- 12,402,659",
+			"percent": "- 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-12-02 13:00:12",
+		"unix": 1669982412105
+	},
+	"itemName": "Armadyl chestplate",
+	"currentPrice": {
+		"rough": "31.0m",
+		"exact": "31,023,575"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "199.4k",
+			"exact": "+ 199,386",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,020,271",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 10.0m",
+			"exact": "- 10,010,232",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 12.2m",
+			"exact": "- 12,150,329",
+			"percent": "- 28%"
+		}
+	}
+},

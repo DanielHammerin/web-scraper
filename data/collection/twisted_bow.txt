@@ -1,0 +1,6435 @@
+{
+	"date": {
+		"dateString": "2022-04-25 14:34:19",
+		"unix": 1650890059327
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,105,333,644"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 358.0k",
+			"exact": "- 357,979",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "43.1m",
+			"exact": "+ 43,139,529",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "126.5m",
+			"exact": "+ 126,534,767",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "301.3m",
+			"exact": "+ 301,341,729",
+			"percent": "+ 37%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-27 08:20:03",
+		"unix": 1651040403509
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,103,846,915"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.5m",
+			"exact": "- 1,486,729",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "40.9m",
+			"exact": "+ 40,931,452",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "119.9m",
+			"exact": "+ 119,906,234",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "310.4m",
+			"exact": "+ 310,424,271",
+			"percent": "+ 39%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-28 20:52:08",
+		"unix": 1651171928989
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,098,034,214"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 3.0m",
+			"exact": "- 2,967,769",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "39.9m",
+			"exact": "+ 39,853,406",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "111.0m",
+			"exact": "+ 110,996,442",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "308.9m",
+			"exact": "+ 308,894,116",
+			"percent": "+ 39%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-29 17:30:27",
+		"unix": 1651246227782
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,099,002,401"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "968.2k",
+			"exact": "+ 968,187",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "32.1m",
+			"exact": "+ 32,131,588",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "110.5m",
+			"exact": "+ 110,477,621",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "321.3m",
+			"exact": "+ 321,315,764",
+			"percent": "+ 41%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-30 12:07:37",
+		"unix": 1651313257057
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,099,002,401"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "968.2k",
+			"exact": "+ 968,187",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "32.1m",
+			"exact": "+ 32,131,588",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "110.5m",
+			"exact": "+ 110,477,621",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "321.3m",
+			"exact": "+ 321,315,764",
+			"percent": "+ 41%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-02 08:12:57",
+		"unix": 1651471977489
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,104,030,732"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,579,881",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "20.0m",
+			"exact": "+ 20,037,948",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "109.9m",
+			"exact": "+ 109,871,697",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "340.0m",
+			"exact": "+ 339,958,830",
+			"percent": "+ 44%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-05 11:05:34",
+		"unix": 1651741534563
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,107,603,187"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,523,557",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "20.8m",
+			"exact": "+ 20,796,150",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "112.0m",
+			"exact": "+ 111,957,493",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "289.5m",
+			"exact": "+ 289,498,438",
+			"percent": "+ 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-06 15:57:19",
+		"unix": 1651845439933
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,109,216,769"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "836.8k",
+			"exact": "+ 836,832",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "14.6m",
+			"exact": "+ 14,615,098",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "113.1m",
+			"exact": "+ 113,143,248",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "305.4m",
+			"exact": "+ 305,363,418",
+			"percent": "+ 37%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-08 10:09:45",
+		"unix": 1651997385421
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,115,515,709"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,445,330",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "25.9m",
+			"exact": "+ 25,920,996",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "120.2m",
+			"exact": "+ 120,217,462",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "324.3m",
+			"exact": "+ 324,327,699",
+			"percent": "+ 40%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-09 19:01:08",
+		"unix": 1652115668107
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,118,909,098"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,393,389",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "32.9m",
+			"exact": "+ 32,873,658",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "121.5m",
+			"exact": "+ 121,493,553",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "330.2m",
+			"exact": "+ 330,215,888",
+			"percent": "+ 41%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-10 14:06:01",
+		"unix": 1652184361054
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,118,909,098"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,393,389",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "32.9m",
+			"exact": "+ 32,873,658",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "121.5m",
+			"exact": "+ 121,493,553",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "330.2m",
+			"exact": "+ 330,215,888",
+			"percent": "+ 41%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-11 13:41:22",
+		"unix": 1652269282133
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,115,084,406"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,334,797",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "29.7m",
+			"exact": "+ 29,707,611",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "115.6m",
+			"exact": "+ 115,644,915",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "338.2m",
+			"exact": "+ 338,183,295",
+			"percent": "+ 43%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-12 13:07:07",
+		"unix": 1652353627054
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,111,827,929"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,256,477",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "26.0m",
+			"exact": "+ 26,004,155",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "112.9m",
+			"exact": "+ 112,914,349",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "326.4m",
+			"exact": "+ 326,413,066",
+			"percent": "+ 41%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-13 14:07:31",
+		"unix": 1652443651833
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,108,042,948"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,784,981",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "23.4m",
+			"exact": "+ 23,404,912",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "108.2m",
+			"exact": "+ 108,153,505",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "317.5m",
+			"exact": "+ 317,466,512",
+			"percent": "+ 40%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-14 16:34:26",
+		"unix": 1652538866929
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,108,042,948"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,784,981",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "23.4m",
+			"exact": "+ 23,404,912",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "108.2m",
+			"exact": "+ 108,153,505",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "317.5m",
+			"exact": "+ 317,466,512",
+			"percent": "+ 40%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-15 19:16:27",
+		"unix": 1652634987995
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,098,830,168"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 7.4m",
+			"exact": "- 7,387,982",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "13.4m",
+			"exact": "+ 13,370,370",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "100.8m",
+			"exact": "+ 100,784,792",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "309.9m",
+			"exact": "+ 309,935,466",
+			"percent": "+ 39%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-16 23:21:00",
+		"unix": 1652736060415
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,089,604,752"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 9.2m",
+			"exact": "- 9,225,416",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,521,231",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "90.9m",
+			"exact": "+ 90,916,048",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "284.3m",
+			"exact": "+ 284,287,109",
+			"percent": "+ 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-17 15:37:56",
+		"unix": 1652794676539
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,089,604,752"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 9.2m",
+			"exact": "- 9,225,416",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,521,231",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "90.9m",
+			"exact": "+ 90,916,048",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "284.3m",
+			"exact": "+ 284,287,109",
+			"percent": "+ 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-18 16:34:47",
+		"unix": 1652884487252
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,094,159,080"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "867.2k",
+			"exact": "+ 867,202",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.9m",
+			"exact": "+ 6,905,503",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "88.3m",
+			"exact": "+ 88,346,000",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "261.1m",
+			"exact": "+ 261,128,536",
+			"percent": "+ 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-19 23:57:49",
+		"unix": 1652997469630
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,094,468,953"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "309.9k",
+			"exact": "+ 309,873",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,198,992",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "85.8m",
+			"exact": "+ 85,810,012",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "247.8m",
+			"exact": "+ 247,802,194",
+			"percent": "+ 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-20 13:31:51",
+		"unix": 1653046311443
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,094,468,953"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "309.9k",
+			"exact": "+ 309,873",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,198,992",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "85.8m",
+			"exact": "+ 85,810,012",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "247.8m",
+			"exact": "+ 247,802,194",
+			"percent": "+ 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-21 10:37:05",
+		"unix": 1653122225410
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,096,298,078"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,468,605",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "929.3k",
+			"exact": "+ 929,338",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "86.2m",
+			"exact": "+ 86,222,028",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "235.7m",
+			"exact": "+ 235,697,269",
+			"percent": "+ 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-23 16:04:10",
+		"unix": 1653314650371
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,103,360,332"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "7.1m",
+			"exact": "+ 7,062,254",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.9m",
+			"exact": "+ 5,903,776",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "91.8m",
+			"exact": "+ 91,764,899",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "217.8m",
+			"exact": "+ 217,787,656",
+			"percent": "+ 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-24 17:12:07",
+		"unix": 1653405127189
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,111,792,775"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "8.4m",
+			"exact": "+ 8,432,443",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.1m",
+			"exact": "+ 6,101,152",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "98.2m",
+			"exact": "+ 98,184,332",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "245.8m",
+			"exact": "+ 245,798,881",
+			"percent": "+ 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-25 17:02:16",
+		"unix": 1653490936497
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,108,076,545"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,913,589",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.2m",
+			"exact": "+ 4,229,630",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "88.1m",
+			"exact": "+ 88,097,142",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "241.5m",
+			"exact": "+ 241,498,896",
+			"percent": "+ 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-26 18:15:09",
+		"unix": 1653581709933
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,110,251,211"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,174,666",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "9.2m",
+			"exact": "+ 9,249,228",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "78.1m",
+			"exact": "+ 78,050,296",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "246.2m",
+			"exact": "+ 246,196,432",
+			"percent": "+ 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-27 17:09:54",
+		"unix": 1653664194449
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,110,251,211"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,174,666",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "9.2m",
+			"exact": "+ 9,249,228",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "78.1m",
+			"exact": "+ 78,050,296",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "246.2m",
+			"exact": "+ 246,196,432",
+			"percent": "+ 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-28 21:18:13",
+		"unix": 1653765493543
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,112,815,650"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,480,157",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "13.8m",
+			"exact": "+ 13,813,249",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "65.0m",
+			"exact": "+ 64,987,942",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "237.9m",
+			"exact": "+ 237,938,550",
+			"percent": "+ 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-29 21:39:03",
+		"unix": 1653853143409
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,113,779,075"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "963.4k",
+			"exact": "+ 963,425",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "12.3m",
+			"exact": "+ 12,281,971",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "64.5m",
+			"exact": "+ 64,488,808",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "236.0m",
+			"exact": "+ 236,022,646",
+			"percent": "+ 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-30 18:12:27",
+		"unix": 1653927147563
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,113,729,676"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 49.4k",
+			"exact": "- 49,399",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "11.3m",
+			"exact": "+ 11,278,825",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "60.2m",
+			"exact": "+ 60,176,639",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "230.7m",
+			"exact": "+ 230,720,392",
+			"percent": "+ 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-31 13:37:30",
+		"unix": 1653997050811
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,113,729,676"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "9.7m",
+			"exact": "+ 9,698,944",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "58.8m",
+			"exact": "+ 58,821,185",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "222.6m",
+			"exact": "+ 222,587,527",
+			"percent": "+ 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-01 22:39:18",
+		"unix": 1654115958997
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,119,639,965"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,409,900",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "13.6m",
+			"exact": "+ 13,560,335",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "66.4m",
+			"exact": "+ 66,408,959",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "231.3m",
+			"exact": "+ 231,320,485",
+			"percent": "+ 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-02 20:53:00",
+		"unix": 1654195980345
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,125,772,947"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "6.1m",
+			"exact": "+ 6,132,982",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "18.2m",
+			"exact": "+ 18,169,760",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "84.7m",
+			"exact": "+ 84,695,176",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "231.7m",
+			"exact": "+ 231,653,518",
+			"percent": "+ 25%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-05 20:16:49",
+		"unix": 1654453009438
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,145,771,899"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,089,888",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "34.7m",
+			"exact": "+ 34,701,520",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "123.0m",
+			"exact": "+ 122,958,347",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "204.2m",
+			"exact": "+ 204,239,813",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-07 14:42:57",
+		"unix": 1654605777322
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,149,764,375"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 580.7k",
+			"exact": "- 580,723",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "30.9m",
+			"exact": "+ 30,855,277",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "123.4m",
+			"exact": "+ 123,432,811",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "208.6m",
+			"exact": "+ 208,579,496",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-08 16:52:35",
+		"unix": 1654699955774
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,152,259,343"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,494,968",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "33.8m",
+			"exact": "+ 33,840,140",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "123.1m",
+			"exact": "+ 123,083,333",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "169.9m",
+			"exact": "+ 169,853,348",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-09 13:03:38",
+		"unix": 1654772618842
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,161,132,297"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "8.9m",
+			"exact": "+ 8,872,954",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "46.0m",
+			"exact": "+ 46,047,891",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "129.7m",
+			"exact": "+ 129,658,438",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "192.9m",
+			"exact": "+ 192,921,005",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-10 15:51:46",
+		"unix": 1654869106065
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,161,132,297"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "8.9m",
+			"exact": "+ 8,872,954",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "46.0m",
+			"exact": "+ 46,047,891",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "129.7m",
+			"exact": "+ 129,658,438",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "192.9m",
+			"exact": "+ 192,921,005",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-11 15:34:55",
+		"unix": 1654954495893
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,165,001,307"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 2.1m",
+			"exact": "- 2,146,202",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "57.0m",
+			"exact": "+ 56,958,359",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "121.4m",
+			"exact": "+ 121,407,717",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "225.9m",
+			"exact": "+ 225,886,993",
+			"percent": "+ 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-13 08:58:25",
+		"unix": 1655103505373
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,159,309,359"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,898,522",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "60.5m",
+			"exact": "+ 60,479,191",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "115.3m",
+			"exact": "+ 115,262,924",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "222.8m",
+			"exact": "+ 222,830,060",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-13 17:25:03",
+		"unix": 1655133903765
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,159,309,359"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,898,522",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "60.5m",
+			"exact": "+ 60,479,191",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "115.3m",
+			"exact": "+ 115,262,924",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "222.8m",
+			"exact": "+ 222,830,060",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-14 14:22:55",
+		"unix": 1655209375373
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,159,309,359"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,898,522",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "60.5m",
+			"exact": "+ 60,479,191",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "115.3m",
+			"exact": "+ 115,262,924",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "222.8m",
+			"exact": "+ 222,830,060",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-15 16:15:29",
+		"unix": 1655302529601
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,165,077,555"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "4.2m",
+			"exact": "+ 4,231,199",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "71.8m",
+			"exact": "+ 71,785,677",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "110.6m",
+			"exact": "+ 110,599,615",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "205.1m",
+			"exact": "+ 205,126,106",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-16 23:31:40",
+		"unix": 1655415100481
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,168,456,209"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,378,654",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "74.3m",
+			"exact": "+ 74,297,129",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "118.3m",
+			"exact": "+ 118,283,875",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "192.9m",
+			"exact": "+ 192,918,358",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-17 20:09:57",
+		"unix": 1655489397529
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,172,956,105"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,499,896",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "78.5m",
+			"exact": "+ 78,487,152",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "125.4m",
+			"exact": "+ 125,413,935",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "191.9m",
+			"exact": "+ 191,886,339",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-18 11:37:26",
+		"unix": 1655545046984
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,172,956,105"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,499,896",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "78.5m",
+			"exact": "+ 78,487,152",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "125.4m",
+			"exact": "+ 125,413,935",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "191.9m",
+			"exact": "+ 191,886,339",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-19 00:09:16",
+		"unix": 1655590156468
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,174,117,266"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,161,161",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "80.3m",
+			"exact": "+ 80,287,793",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "127.3m",
+			"exact": "+ 127,316,633",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "185.7m",
+			"exact": "+ 185,729,058",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-19 22:43:10",
+		"unix": 1655671390807
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,175,462,629"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,345,363",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "79.2m",
+			"exact": "+ 79,164,551",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "124.6m",
+			"exact": "+ 124,625,832",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "181.1m",
+			"exact": "+ 181,065,571",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-21 12:55:52",
+		"unix": 1655808952377
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,183,306,518"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "7.3m",
+			"exact": "+ 7,327,039",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "71.5m",
+			"exact": "+ 71,513,743",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "132.7m",
+			"exact": "+ 132,676,261",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "180.0m",
+			"exact": "+ 179,993,636",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-22 09:34:48",
+		"unix": 1655883288253
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,183,306,518"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "7.3m",
+			"exact": "+ 7,327,039",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "71.5m",
+			"exact": "+ 71,513,743",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "132.7m",
+			"exact": "+ 132,676,261",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "180.0m",
+			"exact": "+ 179,993,636",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-22 13:00:06",
+		"unix": 1655895606627
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,183,306,518"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "7.3m",
+			"exact": "+ 7,327,039",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "71.5m",
+			"exact": "+ 71,513,743",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "132.7m",
+			"exact": "+ 132,676,261",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "180.0m",
+			"exact": "+ 179,993,636",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-23 13:00:05",
+		"unix": 1655982005842
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,184,806,731"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,500,213",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "79.6m",
+			"exact": "+ 79,643,775",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "129.8m",
+			"exact": "+ 129,785,438",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "161.3m",
+			"exact": "+ 161,271,888",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-24 13:00:05",
+		"unix": 1656068405783
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,186,474,936"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.4m",
+			"exact": "- 1,393,220",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "76.2m",
+			"exact": "+ 76,223,725",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "124.3m",
+			"exact": "+ 124,280,821",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "162.9m",
+			"exact": "+ 162,877,606",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-25 13:00:07",
+		"unix": 1656154807114
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,185,112,245"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.4m",
+			"exact": "- 1,362,691",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "73.8m",
+			"exact": "+ 73,776,752",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "122.2m",
+			"exact": "+ 122,196,782",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "173.9m",
+			"exact": "+ 173,862,510",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-26 13:00:06",
+		"unix": 1656241206462
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,185,460,038"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "347.8k",
+			"exact": "+ 347,793",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "72.6m",
+			"exact": "+ 72,644,388",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "127.3m",
+			"exact": "+ 127,313,515",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "176.1m",
+			"exact": "+ 176,121,227",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-27 13:00:07",
+		"unix": 1656327607134
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,192,016,540"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "6.6m",
+			"exact": "+ 6,556,502",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "78.2m",
+			"exact": "+ 78,237,465",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "133.8m",
+			"exact": "+ 133,835,732",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "205.0m",
+			"exact": "+ 205,028,314",
+			"percent": "+ 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-28 13:00:05",
+		"unix": 1656414005747
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,192,016,540"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "6.6m",
+			"exact": "+ 6,556,502",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "78.2m",
+			"exact": "+ 78,237,465",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "133.8m",
+			"exact": "+ 133,835,732",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "205.0m",
+			"exact": "+ 205,028,314",
+			"percent": "+ 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-29 13:00:06",
+		"unix": 1656500406152
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,191,389,059"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "76.2m",
+			"exact": "+ 76,158,994",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "114.4m",
+			"exact": "+ 114,427,299",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "198.2m",
+			"exact": "+ 198,218,262",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-30 13:00:05",
+		"unix": 1656586805590
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,192,435,451"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,046,392",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "77.2m",
+			"exact": "+ 77,205,386",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "115.5m",
+			"exact": "+ 115,473,691",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "199.3m",
+			"exact": "+ 199,264,654",
+			"percent": "+ 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-01 13:00:06",
+		"unix": 1656673206649
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,193,961,486"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,526,035",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "74.3m",
+			"exact": "+ 74,321,521",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "111.7m",
+			"exact": "+ 111,695,342",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "193.2m",
+			"exact": "+ 193,207,482",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-02 13:00:05",
+		"unix": 1656759605630
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,193,982,677"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "21.2k",
+			"exact": "+ 21,191",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "68.2m",
+			"exact": "+ 68,209,730",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "110.0m",
+			"exact": "+ 109,989,893",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "192.9m",
+			"exact": "+ 192,920,932",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-03 13:00:05",
+		"unix": 1656846005329
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,196,422,936"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,346,987",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "53.7m",
+			"exact": "+ 53,740,925",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "109.6m",
+			"exact": "+ 109,615,899",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "231.4m",
+			"exact": "+ 231,440,576",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-04 13:00:05",
+		"unix": 1656932405675
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,195,868,582"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 554.4k",
+			"exact": "- 554,354",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "50.1m",
+			"exact": "+ 50,096,683",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "103.8m",
+			"exact": "+ 103,819,032",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "205.5m",
+			"exact": "+ 205,531,429",
+			"percent": "+ 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-05 13:00:04",
+		"unix": 1657018804726
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,195,784,097"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 84.5k",
+			"exact": "- 84,485",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "45.4m",
+			"exact": "+ 45,438,999",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "101.2m",
+			"exact": "+ 101,182,426",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "206.9m",
+			"exact": "+ 206,934,603",
+			"percent": "+ 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-06 13:00:04",
+		"unix": 1657105204820
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,195,972,203"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "188.1k",
+			"exact": "+ 188,106",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "46.2m",
+			"exact": "+ 46,207,828",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "106.3m",
+			"exact": "+ 106,332,506",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "195.8m",
+			"exact": "+ 195,765,871",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-07 13:00:04",
+		"unix": 1657191604857
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,197,085,295"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,113,092",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "44.8m",
+			"exact": "+ 44,825,952",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "107.5m",
+			"exact": "+ 107,490,582",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "186.7m",
+			"exact": "+ 186,715,046",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-08 13:00:04",
+		"unix": 1657278004779
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,197,085,295"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,113,092",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "44.8m",
+			"exact": "+ 44,825,952",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "107.5m",
+			"exact": "+ 107,490,582",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "186.7m",
+			"exact": "+ 186,715,046",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-09 13:00:05",
+		"unix": 1657364405347
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,197,847,764"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 252.7k",
+			"exact": "- 252,708",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "30.7m",
+			"exact": "+ 30,700,255",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "111.9m",
+			"exact": "+ 111,913,184",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "209.1m",
+			"exact": "+ 209,076,576",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-10 13:00:05",
+		"unix": 1657450805572
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,200,934,739"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,086,975",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "35.9m",
+			"exact": "+ 35,933,432",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "115.6m",
+			"exact": "+ 115,557,944",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "220.8m",
+			"exact": "+ 220,837,677",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-11 13:00:04",
+		"unix": 1657537204912
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,201,412,054"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "477.3k",
+			"exact": "+ 477,315",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "46.0m",
+			"exact": "+ 46,001,217",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "115.6m",
+			"exact": "+ 115,588,280",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "210.9m",
+			"exact": "+ 210,872,397",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-12 13:00:05",
+		"unix": 1657623605667
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,201,412,054"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "477.3k",
+			"exact": "+ 477,315",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "46.0m",
+			"exact": "+ 46,001,217",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "115.6m",
+			"exact": "+ 115,588,280",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "210.9m",
+			"exact": "+ 210,872,397",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-13 13:00:05",
+		"unix": 1657710005053
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,204,282,955"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "892.8k",
+			"exact": "+ 892,809",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "43.4m",
+			"exact": "+ 43,436,599",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "118.8m",
+			"exact": "+ 118,768,811",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "217.5m",
+			"exact": "+ 217,461,103",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-14 13:00:05",
+		"unix": 1657796405039
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,207,381,908"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,098,953",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "42.3m",
+			"exact": "+ 42,304,353",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "121.9m",
+			"exact": "+ 121,922,110",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "217.9m",
+			"exact": "+ 217,880,564",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-15 13:00:05",
+		"unix": 1657882805795
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,197,242,337"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 10.1m",
+			"exact": "- 10,139,571",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "28.8m",
+			"exact": "+ 28,786,128",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "111.2m",
+			"exact": "+ 111,158,816",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "213.2m",
+			"exact": "+ 213,184,216",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-16 13:00:05",
+		"unix": 1657969205526
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,197,242,337"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 10.1m",
+			"exact": "- 10,139,571",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "28.8m",
+			"exact": "+ 28,786,128",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "111.2m",
+			"exact": "+ 111,158,816",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "213.2m",
+			"exact": "+ 213,184,216",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-17 13:00:06",
+		"unix": 1658055606690
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,166,364,056"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 30.9m",
+			"exact": "- 30,878,281",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "- 6.6m",
+			"exact": "- 6,592,049",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "79.2m",
+			"exact": "+ 79,179,238",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "222.6m",
+			"exact": "+ 222,558,177",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-18 13:00:05",
+		"unix": 1658142005105
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,156,904,409"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 9.5m",
+			"exact": "- 9,459,647",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 17.2m",
+			"exact": "- 17,212,857",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "69.7m",
+			"exact": "+ 69,650,832",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "228.8m",
+			"exact": "+ 228,796,865",
+			"percent": "+ 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-19 13:00:05",
+		"unix": 1658228405157
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,130,053,943"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 7.9m",
+			"exact": "- 7,939,822",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 45.9m",
+			"exact": "- 45,925,536",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "36.2m",
+			"exact": "+ 36,180,307",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "157.4m",
+			"exact": "+ 157,388,395",
+			"percent": "+ 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-20 13:00:05",
+		"unix": 1658314805743
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,130,053,943"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 53.3m",
+			"exact": "- 53,252,575",
+			"percent": "- 4%"
+		},
+		"quarterlyChange": {
+			"rough": "34.7m",
+			"exact": "+ 34,685,203",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "147.6m",
+			"exact": "+ 147,627,967",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-21 13:00:05",
+		"unix": 1658401205775
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,121,961,554"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,092,389",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 61.3m",
+			"exact": "- 61,344,964",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "26.6m",
+			"exact": "+ 26,592,814",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "139.5m",
+			"exact": "+ 139,535,578",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-22 13:00:07",
+		"unix": 1658487607471
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,135,778,961"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "8.8m",
+			"exact": "+ 8,764,358",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 52.1m",
+			"exact": "- 52,089,195",
+			"percent": "- 4%"
+		},
+		"quarterlyChange": {
+			"rough": "30.1m",
+			"exact": "+ 30,087,338",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "160.0m",
+			"exact": "+ 159,997,546",
+			"percent": "+ 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-23 13:00:06",
+		"unix": 1658574006253
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,155,041,009"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "19.3m",
+			"exact": "+ 19,262,048",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 31.4m",
+			"exact": "- 31,433,927",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "49.7m",
+			"exact": "+ 49,707,365",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "178.0m",
+			"exact": "+ 177,987,315",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-24 13:00:04",
+		"unix": 1658660404826
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,155,041,009"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "19.3m",
+			"exact": "+ 19,262,048",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 31.4m",
+			"exact": "- 31,433,927",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "49.7m",
+			"exact": "+ 49,707,365",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "178.0m",
+			"exact": "+ 177,987,315",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-25 13:00:04",
+		"unix": 1658746804988
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,169,313,059"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "14.3m",
+			"exact": "+ 14,272,050",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 15.8m",
+			"exact": "- 15,799,186",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "65.5m",
+			"exact": "+ 65,466,144",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "190.5m",
+			"exact": "+ 190,514,182",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-26 13:00:06",
+		"unix": 1658833206102
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,168,605,190"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,508,816",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 23.4m",
+			"exact": "- 23,411,350",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "70.6m",
+			"exact": "+ 70,570,976",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "183.1m",
+			"exact": "+ 183,061,486",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-27 13:00:06",
+		"unix": 1658919606107
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,167,139,929"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.5m",
+			"exact": "- 1,465,261",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 24.2m",
+			"exact": "- 24,249,130",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "68.1m",
+			"exact": "+ 68,137,528",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "180.1m",
+			"exact": "+ 180,102,157",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-28 13:00:06",
+		"unix": 1659006006065
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,171,415,303"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "4.3m",
+			"exact": "+ 4,275,374",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 21.0m",
+			"exact": "- 21,020,148",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "69.9m",
+			"exact": "+ 69,918,199",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "182.9m",
+			"exact": "+ 182,890,523",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-29 13:00:06",
+		"unix": 1659092406406
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,174,339,522"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,924,219",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 19.6m",
+			"exact": "- 19,621,964",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "71.9m",
+			"exact": "+ 71,888,671",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "182.4m",
+			"exact": "+ 182,398,389",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-30 13:00:09",
+		"unix": 1659178809131
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,174,339,522"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,924,219",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 19.6m",
+			"exact": "- 19,621,964",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "71.9m",
+			"exact": "+ 71,888,671",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "182.4m",
+			"exact": "+ 182,398,389",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-31 13:00:05",
+		"unix": 1659265205572
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,177,314,903"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,975,381",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 16.7m",
+			"exact": "- 16,667,774",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "73.3m",
+			"exact": "+ 73,284,171",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "183.5m",
+			"exact": "+ 183,472,565",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-01 13:00:05",
+		"unix": 1659351605634
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,180,069,235"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,754,332",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 15.0m",
+			"exact": "- 15,006,714",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "74.0m",
+			"exact": "+ 73,989,605",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "185.9m",
+			"exact": "+ 185,910,200",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-02 13:00:06",
+		"unix": 1659438006406
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,187,300,479"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "7.2m",
+			"exact": "+ 7,231,244",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 9.1m",
+			"exact": "- 9,122,457",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "79.7m",
+			"exact": "+ 79,697,292",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "191.9m",
+			"exact": "+ 191,903,765",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-03 13:00:06",
+		"unix": 1659524406488
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,191,362,258"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,294,011",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 4.4m",
+			"exact": "- 4,421,839",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "82.1m",
+			"exact": "+ 82,145,489",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "195.2m",
+			"exact": "+ 195,206,025",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-20 13:18:47",
+		"unix": 1660994327658
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,134,649,959"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 13.6m",
+			"exact": "- 13,568,955",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "7.6m",
+			"exact": "+ 7,635,356",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "31.3m",
+			"exact": "+ 31,289,627",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "124.6m",
+			"exact": "+ 124,573,909",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-21 13:00:07",
+		"unix": 1661079607732
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,120,169,454"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 14.5m",
+			"exact": "- 14,480,505",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 15.6m",
+			"exact": "- 15,609,507",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "8.4m",
+			"exact": "+ 8,376,679",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "108.6m",
+			"exact": "+ 108,574,021",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-22 13:00:06",
+		"unix": 1661166006895
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,108,901,709"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 11.3m",
+			"exact": "- 11,267,745",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 46.1m",
+			"exact": "- 46,139,300",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,738,753",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "95.3m",
+			"exact": "+ 95,293,266",
+			"percent": "+ 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-23 13:00:06",
+		"unix": 1661252406161
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,085,090,263"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 23.8m",
+			"exact": "- 23,811,446",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "- 84.2m",
+			"exact": "- 84,222,796",
+			"percent": "- 7%"
+		},
+		"quarterlyChange": {
+			"rough": "- 23.0m",
+			"exact": "- 22,986,282",
+			"percent": "- 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "70.1m",
+			"exact": "+ 70,115,099",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-24 13:00:06",
+		"unix": 1661338806271
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,094,791,109"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "6.4m",
+			"exact": "+ 6,357,991",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 73.8m",
+			"exact": "- 73,814,081",
+			"percent": "- 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 16.5m",
+			"exact": "- 16,544,384",
+			"percent": "- 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "62.6m",
+			"exact": "+ 62,590,194",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-25 13:00:06",
+		"unix": 1661425206022
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,094,791,109"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "6.4m",
+			"exact": "+ 6,357,991",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 73.8m",
+			"exact": "- 73,814,081",
+			"percent": "- 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 16.5m",
+			"exact": "- 16,544,384",
+			"percent": "- 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "62.6m",
+			"exact": "+ 62,590,194",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-26 13:00:07",
+		"unix": 1661511607211
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.1b ",
+		"exact": "1,113,864,325"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 57.6m",
+			"exact": "- 57,550,978",
+			"percent": "- 4%"
+		},
+		"quarterlyChange": {
+			"rough": "85.3k",
+			"exact": "+ 85,250",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "66.0m",
+			"exact": "+ 66,036,617",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-27 13:00:06",
+		"unix": 1661598006150
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,187,194,925"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "27.7m",
+			"exact": "+ 27,710,262",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "12.9m",
+			"exact": "+ 12,855,403",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "73.5m",
+			"exact": "+ 73,465,249",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "137.9m",
+			"exact": "+ 137,904,658",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-28 13:00:06",
+		"unix": 1661684406258
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,184,013,933"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 3.2m",
+			"exact": "- 3,180,992",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.7m",
+			"exact": "+ 6,699,030",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "68.8m",
+			"exact": "+ 68,783,868",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "130.5m",
+			"exact": "+ 130,460,896",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-29 13:00:05",
+		"unix": 1661770805140
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,188,168,973"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "4.2m",
+			"exact": "+ 4,155,040",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "8.1m",
+			"exact": "+ 8,099,738",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "68.5m",
+			"exact": "+ 68,529,008",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "133.3m",
+			"exact": "+ 133,260,482",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-30 13:00:05",
+		"unix": 1661857205985
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,192,957,324"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,788,351",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,656,845",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "67.2m",
+			"exact": "+ 67,184,377",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "139.7m",
+			"exact": "+ 139,726,318",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-31 13:00:07",
+		"unix": 1661943607238
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,195,726,067"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,768,743",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.7m",
+			"exact": "+ 6,657,820",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "65.9m",
+			"exact": "+ 65,890,745",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "154.6m",
+			"exact": "+ 154,648,296",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-01 13:00:06",
+		"unix": 1662030006225
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,195,726,067"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,363,809",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "53.0m",
+			"exact": "+ 53,044,056",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "168.2m",
+			"exact": "+ 168,181,816",
+			"percent": "+ 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-02 13:00:07",
+		"unix": 1662116407137
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,209,621,812"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 3.2m",
+			"exact": "- 3,175,003",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "19.6m",
+			"exact": "+ 19,613,031",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "63.8m",
+			"exact": "+ 63,849,913",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "180.7m",
+			"exact": "+ 180,651,068",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-03 13:00:06",
+		"unix": 1662202806124
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,209,621,812"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 3.2m",
+			"exact": "- 3,175,003",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "19.6m",
+			"exact": "+ 19,613,031",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "63.8m",
+			"exact": "+ 63,849,913",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "180.7m",
+			"exact": "+ 180,651,068",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-04 13:00:06",
+		"unix": 1662289206699
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,222,872,650"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "13.3m",
+			"exact": "+ 13,250,838",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "37.8m",
+			"exact": "+ 37,806,038",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "72.5m",
+			"exact": "+ 72,527,552",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "200.1m",
+			"exact": "+ 200,059,098",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-05 13:00:06",
+		"unix": 1662375606193
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,237,123,006"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "54.1m",
+			"exact": "+ 54,148,391",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "84.9m",
+			"exact": "+ 84,863,663",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "210.8m",
+			"exact": "+ 210,791,442",
+			"percent": "+ 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-06 13:00:06",
+		"unix": 1662462006885
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,270,625,007"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "15.0m",
+			"exact": "+ 14,951,151",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "93.7m",
+			"exact": "+ 93,734,628",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "109.5m",
+			"exact": "+ 109,492,710",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "241.4m",
+			"exact": "+ 241,448,997",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-07 13:00:05",
+		"unix": 1662548405345
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,270,625,007"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "15.0m",
+			"exact": "+ 14,951,151",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "93.7m",
+			"exact": "+ 93,734,628",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "109.5m",
+			"exact": "+ 109,492,710",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "241.4m",
+			"exact": "+ 241,448,997",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-08 13:00:05",
+		"unix": 1662634805746
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,265,709,424"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "110.5m",
+			"exact": "+ 110,546,331",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "100.7m",
+			"exact": "+ 100,708,117",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "226.5m",
+			"exact": "+ 226,499,857",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-09 13:00:07",
+		"unix": 1662721207698
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,263,662,234"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 8.3m",
+			"exact": "- 8,265,493",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "102.5m",
+			"exact": "+ 102,506,574",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "108.3m",
+			"exact": "+ 108,251,397",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "220.1m",
+			"exact": "+ 220,068,644",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-10 13:00:06",
+		"unix": 1662807606219
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,263,662,234"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 8.3m",
+			"exact": "- 8,265,493",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "102.5m",
+			"exact": "+ 102,506,574",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "108.3m",
+			"exact": "+ 108,251,397",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "220.1m",
+			"exact": "+ 220,068,644",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-11 13:00:07",
+		"unix": 1662894007067
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,276,726,577"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "13.1m",
+			"exact": "+ 13,064,343",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "115.5m",
+			"exact": "+ 115,505,125",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "117.4m",
+			"exact": "+ 117,417,218",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "238.2m",
+			"exact": "+ 238,185,045",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-12 13:00:05",
+		"unix": 1662980405463
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,282,362,232"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 5.3m",
+			"exact": "- 5,258,936",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "124.0m",
+			"exact": "+ 123,955,228",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "117.3m",
+			"exact": "+ 117,284,677",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "236.1m",
+			"exact": "+ 236,101,960",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-13 13:00:05",
+		"unix": 1663066805995
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,282,362,232"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 5.3m",
+			"exact": "- 5,258,936",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "124.0m",
+			"exact": "+ 123,955,228",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "117.3m",
+			"exact": "+ 117,284,677",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "236.1m",
+			"exact": "+ 236,101,960",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-14 13:00:05",
+		"unix": 1663153205961
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,278,585,598"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "858.8k",
+			"exact": "+ 858,829",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "126.6m",
+			"exact": "+ 126,640,181",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "105.6m",
+			"exact": "+ 105,629,493",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "228.4m",
+			"exact": "+ 228,413,264",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-15 13:00:06",
+		"unix": 1663239606596
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,279,984,429"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,398,831",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "131.6m",
+			"exact": "+ 131,558,835",
+			"percent": "+ 11%"
+		},
+		"quarterlyChange": {
+			"rough": "105.9m",
+			"exact": "+ 105,867,163",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "232.4m",
+			"exact": "+ 232,442,259",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-16 13:00:06",
+		"unix": 1663326006544
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,279,984,429"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,398,831",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "131.6m",
+			"exact": "+ 131,558,835",
+			"percent": "+ 11%"
+		},
+		"quarterlyChange": {
+			"rough": "105.9m",
+			"exact": "+ 105,867,163",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "232.4m",
+			"exact": "+ 232,442,259",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-17 13:00:07",
+		"unix": 1663412407168
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,282,757,716"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,773,287",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "134.5m",
+			"exact": "+ 134,538,802",
+			"percent": "+ 11%"
+		},
+		"quarterlyChange": {
+			"rough": "107.3m",
+			"exact": "+ 107,295,087",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "236.0m",
+			"exact": "+ 235,957,083",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-21 13:00:06",
+		"unix": 1663758006304
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,281,876,616"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "193.4m",
+			"exact": "+ 193,443,498",
+			"percent": "+ 17%"
+		},
+		"quarterlyChange": {
+			"rough": "95.4m",
+			"exact": "+ 95,401,680",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "224.9m",
+			"exact": "+ 224,861,283",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-21 14:21:26",
+		"unix": 1663762886727
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,281,876,616"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "193.4m",
+			"exact": "+ 193,443,498",
+			"percent": "+ 17%"
+		},
+		"quarterlyChange": {
+			"rough": "95.4m",
+			"exact": "+ 95,401,680",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "224.9m",
+			"exact": "+ 224,861,283",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-22 13:00:05",
+		"unix": 1663844405715
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,273,685,414"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 8.2m",
+			"exact": "- 8,191,202",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "185.3m",
+			"exact": "+ 185,252,296",
+			"percent": "+ 17%"
+		},
+		"quarterlyChange": {
+			"rough": "87.2m",
+			"exact": "+ 87,210,478",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "216.7m",
+			"exact": "+ 216,670,081",
+			"percent": "+ 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-23 13:00:07",
+		"unix": 1663930807293
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,220,787,480"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 52.9m",
+			"exact": "- 52,897,934",
+			"percent": "- 4%"
+		},
+		"montlyChange": {
+			"rough": "126.0m",
+			"exact": "+ 125,996,371",
+			"percent": "+ 11%"
+		},
+		"quarterlyChange": {
+			"rough": "35.7m",
+			"exact": "+ 35,675,235",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "158.6m",
+			"exact": "+ 158,593,365",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-24 13:00:05",
+		"unix": 1664017205766
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,194,983,886"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "14.8m",
+			"exact": "+ 14,756,363",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "35.5m",
+			"exact": "+ 35,499,223",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,967,346",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "136.8m",
+			"exact": "+ 136,837,363",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-25 13:00:06",
+		"unix": 1664103606752
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,213,659,332"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "18.7m",
+			"exact": "+ 18,675,446",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "26.5m",
+			"exact": "+ 26,464,407",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "22.3m",
+			"exact": "+ 22,270,273",
+			"percent": "+ 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "155.5m",
+			"exact": "+ 155,478,524",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-26 13:00:05",
+		"unix": 1664190005228
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,213,659,332"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "18.7m",
+			"exact": "+ 18,675,446",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "26.5m",
+			"exact": "+ 26,464,407",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "22.3m",
+			"exact": "+ 22,270,273",
+			"percent": "+ 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "155.5m",
+			"exact": "+ 155,478,524",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-27 13:00:05",
+		"unix": 1664276405991
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,230,618,350"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "17.0m",
+			"exact": "+ 16,959,018",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "46.6m",
+			"exact": "+ 46,604,417",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "38.2m",
+			"exact": "+ 38,182,899",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "163.7m",
+			"exact": "+ 163,747,537",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-28 13:00:06",
+		"unix": 1664362806580
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,240,958,419"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "48.0m",
+			"exact": "+ 48,001,095",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "47.0m",
+			"exact": "+ 46,975,742",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "158.7m",
+			"exact": "+ 158,692,275",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-29 13:00:05",
+		"unix": 1664449205883
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,249,444,880"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,663,496",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "53.7m",
+			"exact": "+ 53,718,813",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "54.4m",
+			"exact": "+ 54,368,931",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "165.5m",
+			"exact": "+ 165,452,096",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-30 13:00:07",
+		"unix": 1664535607174
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,257,774,119"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "8.3m",
+			"exact": "+ 8,329,239",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "45.0m",
+			"exact": "+ 44,977,304",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "61.4m",
+			"exact": "+ 61,351,183",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "168.9m",
+			"exact": "+ 168,884,275",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-01 13:00:06",
+		"unix": 1664622006396
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,263,241,889"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "5.5m",
+			"exact": "+ 5,467,770",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "53.6m",
+			"exact": "+ 53,620,077",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "67.4m",
+			"exact": "+ 67,373,307",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "176.4m",
+			"exact": "+ 176,434,852",
+			"percent": "+ 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-02 13:00:06",
+		"unix": 1664708406668
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,263,241,889"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "5.5m",
+			"exact": "+ 5,467,770",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "53.6m",
+			"exact": "+ 53,620,077",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "67.4m",
+			"exact": "+ 67,373,307",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "176.4m",
+			"exact": "+ 176,434,852",
+			"percent": "+ 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-03 13:00:05",
+		"unix": 1664794805592
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,272,690,871"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "387.4k",
+			"exact": "+ 387,397",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "35.6m",
+			"exact": "+ 35,567,865",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "76.7m",
+			"exact": "+ 76,718,668",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "178.1m",
+			"exact": "+ 178,089,200",
+			"percent": "+ 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-04 13:00:06",
+		"unix": 1664881206921
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,277,907,140"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,216,269",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "22.2m",
+			"exact": "+ 22,233,284",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "80.8m",
+			"exact": "+ 80,821,845",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "188.3m",
+			"exact": "+ 188,267,443",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-05 13:00:06",
+		"unix": 1664967606633
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,277,907,140"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "7.3m",
+			"exact": "+ 7,282,133",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "79.8m",
+			"exact": "+ 79,806,668",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "188.3m",
+			"exact": "+ 188,312,427",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-06 13:00:06",
+		"unix": 1665054006460
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,273,256,172"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 4.7m",
+			"exact": "- 4,650,968",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,631,165",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "75.2m",
+			"exact": "+ 75,155,700",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "183.7m",
+			"exact": "+ 183,661,459",
+			"percent": "+ 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-07 13:00:06",
+		"unix": 1665140406773
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,273,919,321"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,283,426",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,991,594",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "73.0m",
+			"exact": "+ 72,984,582",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "188.0m",
+			"exact": "+ 187,984,741",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-08 13:00:05",
+		"unix": 1665226805817
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,273,919,321"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,283,426",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,991,594",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "73.0m",
+			"exact": "+ 72,984,582",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "188.0m",
+			"exact": "+ 187,984,741",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-09 13:00:07",
+		"unix": 1665313207041
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,275,624,289"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,704,968",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "12.0m",
+			"exact": "+ 11,962,055",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "74.2m",
+			"exact": "+ 74,212,235",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "190.2m",
+			"exact": "+ 190,247,494",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-10 13:00:05",
+		"unix": 1665399605600
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,277,346,773"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 10.3m",
+			"exact": "- 10,274,395",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "73.1m",
+			"exact": "+ 73,063,818",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "192.7m",
+			"exact": "+ 192,708,737",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-11 13:00:06",
+		"unix": 1665486006381
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,275,804,885"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,281,264",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 6.6m",
+			"exact": "- 6,557,347",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "68.4m",
+			"exact": "+ 68,422,977",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "190.3m",
+			"exact": "+ 190,290,741",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-12 13:00:05",
+		"unix": 1665572405989
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,269,173,538"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 6.6m",
+			"exact": "- 6,631,347",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 8.6m",
+			"exact": "- 8,553,231",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "71.9m",
+			"exact": "+ 71,931,201",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "183.7m",
+			"exact": "+ 183,713,740",
+			"percent": "+ 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-13 13:00:10",
+		"unix": 1665658810035
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,269,173,538"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 6.6m",
+			"exact": "- 6,631,347",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 8.6m",
+			"exact": "- 8,553,231",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "71.9m",
+			"exact": "+ 71,931,201",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "183.7m",
+			"exact": "+ 183,713,740",
+			"percent": "+ 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-14 13:00:06",
+		"unix": 1665745206223
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,234,679,804"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 10.9m",
+			"exact": "- 10,946,883",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 45.3m",
+			"exact": "- 45,304,625",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "77.8m",
+			"exact": "+ 77,775,395",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "147.5m",
+			"exact": "+ 147,494,986",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-15 13:00:06",
+		"unix": 1665831606641
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,241,053,178"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "6.4m",
+			"exact": "+ 6,373,374",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 41.7m",
+			"exact": "- 41,704,538",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "103.1m",
+			"exact": "+ 103,059,413",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "153.8m",
+			"exact": "+ 153,799,601",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-16 13:00:06",
+		"unix": 1665918006391
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,241,053,178"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "6.4m",
+			"exact": "+ 6,373,374",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 41.7m",
+			"exact": "- 41,704,538",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "103.1m",
+			"exact": "+ 103,059,413",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "153.8m",
+			"exact": "+ 153,799,601",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-17 13:00:05",
+		"unix": 1666004405910
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,236,499,850"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 48.8m",
+			"exact": "- 48,829,065",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "114.5m",
+			"exact": "+ 114,538,296",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "142.6m",
+			"exact": "+ 142,626,214",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-18 13:00:07",
+		"unix": 1666090807371
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,236,945,140"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "445.3k",
+			"exact": "+ 445,290",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 48.4m",
+			"exact": "- 48,383,775",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "115.0m",
+			"exact": "+ 114,983,586",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "143.1m",
+			"exact": "+ 143,071,504",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-19 13:00:06",
+		"unix": 1666177206167
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,239,201,350"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,713,893",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 42.7m",
+			"exact": "- 42,675,266",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "103.4m",
+			"exact": "+ 103,422,389",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "141.7m",
+			"exact": "+ 141,744,794",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-20 13:00:07",
+		"unix": 1666263607587
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,239,201,350"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,713,893",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 42.7m",
+			"exact": "- 42,675,266",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "103.4m",
+			"exact": "+ 103,422,389",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "141.7m",
+			"exact": "+ 141,744,794",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-21 13:00:06",
+		"unix": 1666350006356
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,238,308,394"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,090,256",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "17.5m",
+			"exact": "+ 17,520,914",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "69.0m",
+			"exact": "+ 68,995,335",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "133.0m",
+			"exact": "+ 132,974,750",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-22 13:00:07",
+		"unix": 1666436407422
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,242,174,111"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,865,717",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "61.9m",
+			"exact": "+ 61,946,588",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "71.1m",
+			"exact": "+ 71,060,105",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "138.3m",
+			"exact": "+ 138,327,196",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-23 13:00:05",
+		"unix": 1666522805813
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,242,174,111"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,865,717",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "61.9m",
+			"exact": "+ 61,946,588",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "71.1m",
+			"exact": "+ 71,060,105",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "138.3m",
+			"exact": "+ 138,327,196",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-24 13:00:06",
+		"unix": 1666609206657
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,250,750,540"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "37.1m",
+			"exact": "+ 37,091,208",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "83.6m",
+			"exact": "+ 83,610,611",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "152.7m",
+			"exact": "+ 152,716,326",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-25 13:00:05",
+		"unix": 1666695605968
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,255,570,777"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,165,020",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "25.0m",
+			"exact": "+ 24,952,427",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "84.2m",
+			"exact": "+ 84,155,474",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "156.6m",
+			"exact": "+ 156,568,376",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-26 13:00:05",
+		"unix": 1666782005512
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,255,570,777"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "14.6m",
+			"exact": "+ 14,612,358",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "81.2m",
+			"exact": "+ 81,231,255",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "154.1m",
+			"exact": "+ 154,073,673",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-27 13:00:06",
+		"unix": 1666868406522
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,263,640,895"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "127.3k",
+			"exact": "+ 127,265",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "18.9m",
+			"exact": "+ 18,859,511",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "86.3m",
+			"exact": "+ 86,325,992",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "161.2m",
+			"exact": "+ 161,190,044",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-28 13:00:07",
+		"unix": 1666954807467
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,264,865,866"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,224,971",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "15.4m",
+			"exact": "+ 15,420,986",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "84.8m",
+			"exact": "+ 84,796,631",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "160.8m",
+			"exact": "+ 160,835,134",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-29 13:00:06",
+		"unix": 1667041206675
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,266,269,033"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,403,167",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "8.5m",
+			"exact": "+ 8,494,914",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "79.0m",
+			"exact": "+ 78,968,554",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "160.2m",
+			"exact": "+ 160,189,403",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-30 13:00:06",
+		"unix": 1667131206561
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,266,269,033"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,403,167",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "8.5m",
+			"exact": "+ 8,494,914",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "79.0m",
+			"exact": "+ 78,968,554",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "160.2m",
+			"exact": "+ 160,189,403",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-31 13:00:06",
+		"unix": 1667217606090
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,269,316,908"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "853.6k",
+			"exact": "+ 853,630",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.0m",
+			"exact": "- 2,986,566",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "78.0m",
+			"exact": "+ 77,954,650",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "160.9m",
+			"exact": "+ 160,936,971",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-01 13:00:05",
+		"unix": 1667304005795
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,269,808,592"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "491.7k",
+			"exact": "+ 491,684",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.9m",
+			"exact": "- 2,882,279",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "79.8m",
+			"exact": "+ 79,799,811",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "160.6m",
+			"exact": "+ 160,591,823",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-02 13:00:05",
+		"unix": 1667390405520
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,267,947,559"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.9m",
+			"exact": "- 1,861,033",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 10.0m",
+			"exact": "- 9,959,581",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "82.9m",
+			"exact": "+ 82,880,947",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "156.9m",
+			"exact": "+ 156,877,180",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-03 13:00:06",
+		"unix": 1667476806461
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,268,878,254"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "930.7k",
+			"exact": "+ 930,695",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 4.4m",
+			"exact": "- 4,377,918",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "85.3m",
+			"exact": "+ 85,318,173",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "153.4m",
+			"exact": "+ 153,362,545",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-04 13:00:06",
+		"unix": 1667563206387
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,268,878,254"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "930.7k",
+			"exact": "+ 930,695",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 4.4m",
+			"exact": "- 4,377,918",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "85.3m",
+			"exact": "+ 85,318,173",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "153.4m",
+			"exact": "+ 153,362,545",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-05 13:00:06",
+		"unix": 1667649606921
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,266,801,882"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 251.7k",
+			"exact": "- 251,678",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 7.1m",
+			"exact": "- 7,117,439",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "89.9m",
+			"exact": "+ 89,911,503",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "148.4m",
+			"exact": "+ 148,382,679",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-06 13:00:05",
+		"unix": 1667736005575
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,267,013,565"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "211.7k",
+			"exact": "+ 211,683",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 8.6m",
+			"exact": "- 8,610,724",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "99.7m",
+			"exact": "+ 99,673,476",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "151.9m",
+			"exact": "+ 151,929,159",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-07 13:00:06",
+		"unix": 1667822406983
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,267,013,565"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 10.3m",
+			"exact": "- 10,333,208",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "111.9m",
+			"exact": "+ 111,850,472",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "155.2m",
+			"exact": "+ 155,185,636",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-08 13:00:06",
+		"unix": 1667908806185
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,271,457,115"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,401,687",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 6.6m",
+			"exact": "- 6,629,034",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "110.3m",
+			"exact": "+ 110,301,455",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "163.4m",
+			"exact": "+ 163,414,167",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-09 13:00:06",
+		"unix": 1667995206851
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,271,457,115"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 4.3m",
+			"exact": "- 4,347,770",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "110.2m",
+			"exact": "+ 110,235,663",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "165.2m",
+			"exact": "+ 165,238,965",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-10 13:00:06",
+		"unix": 1668081606723
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,268,287,743"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 704.4k",
+			"exact": "- 704,384",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 885.8k",
+			"exact": "- 885,795",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "110.6m",
+			"exact": "+ 110,648,270",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "169.5m",
+			"exact": "+ 169,457,575",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-11 13:00:06",
+		"unix": 1668168006062
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,268,287,743"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 704.4k",
+			"exact": "- 704,384",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 885.8k",
+			"exact": "- 885,795",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "110.6m",
+			"exact": "+ 110,648,270",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "169.5m",
+			"exact": "+ 169,457,575",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-12 13:00:06",
+		"unix": 1668254406200
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,262,277,481"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 399.7k",
+			"exact": "- 399,726",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "27.6m",
+			"exact": "+ 27,597,677",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "109.8m",
+			"exact": "+ 109,786,522",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "169.0m",
+			"exact": "+ 168,985,603",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-13 13:00:05",
+		"unix": 1668340805979
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,264,745,720"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,468,239",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "23.7m",
+			"exact": "+ 23,692,542",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "112.8m",
+			"exact": "+ 112,800,303",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "170.6m",
+			"exact": "+ 170,586,640",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-14 13:00:06",
+		"unix": 1668427206706
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,266,617,621"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,871,901",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "30.1m",
+			"exact": "+ 30,117,771",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "118.2m",
+			"exact": "+ 118,192,027",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "172.1m",
+			"exact": "+ 172,148,668",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-15 13:00:05",
+		"unix": 1668513605805
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,268,879,252"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,261,631",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "31.9m",
+			"exact": "+ 31,934,112",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "120.7m",
+			"exact": "+ 120,660,338",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "175.0m",
+			"exact": "+ 175,049,779",
+			"percent": "+ 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-16 13:00:06",
+		"unix": 1668600006745
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,268,879,252"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "31.4m",
+			"exact": "+ 31,391,795",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "134.2m",
+			"exact": "+ 134,229,293",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "172.6m",
+			"exact": "+ 172,581,174",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-17 13:00:07",
+		"unix": 1668686407117
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,266,511,019"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,128,991",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "27.3m",
+			"exact": "+ 27,309,669",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "146.3m",
+			"exact": "+ 146,341,565",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "163.2m",
+			"exact": "+ 163,150,687",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-18 13:00:05",
+		"unix": 1668772805820
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,266,456,784"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 54.2k",
+			"exact": "- 54,235",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "27.1m",
+			"exact": "+ 27,058,134",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "157.6m",
+			"exact": "+ 157,555,075",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "154.7m",
+			"exact": "+ 154,664,009",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-19 13:00:06",
+		"unix": 1668859206082
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,266,456,784"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 54.2k",
+			"exact": "- 54,235",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "27.1m",
+			"exact": "+ 27,058,134",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "157.6m",
+			"exact": "+ 157,555,075",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "154.7m",
+			"exact": "+ 154,664,009",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-20 13:00:06",
+		"unix": 1668945606496
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,267,092,013"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 215.3k",
+			"exact": "- 215,275",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "24.9m",
+			"exact": "+ 24,917,902",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "178.7m",
+			"exact": "+ 178,658,895",
+			"percent": "+ 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "159.0m",
+			"exact": "+ 159,015,468",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-21 13:00:06",
+		"unix": 1669032006478
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,266,837,145"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 254.9k",
+			"exact": "- 254,868",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "16.1m",
+			"exact": "+ 16,086,605",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "172.0m",
+			"exact": "+ 172,046,036",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "156.6m",
+			"exact": "+ 156,585,934",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-23 13:00:07",
+		"unix": 1669204807719
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,264,619,385"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "9.0m",
+			"exact": "+ 9,048,608",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "105.1m",
+			"exact": "+ 105,134,722",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "151.8m",
+			"exact": "+ 151,803,735",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-24 13:00:06",
+		"unix": 1669291206113
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,261,901,679"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,717,706",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.6m",
+			"exact": "- 1,611,951",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "74.7m",
+			"exact": "+ 74,706,754",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "148.1m",
+			"exact": "+ 148,122,604",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-25 13:00:06",
+		"unix": 1669377606622
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,261,901,679"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,717,706",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.6m",
+			"exact": "- 1,611,951",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "74.7m",
+			"exact": "+ 74,706,754",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "148.1m",
+			"exact": "+ 148,122,604",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-26 13:00:06",
+		"unix": 1669464006524
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.3b ",
+		"exact": "1,250,161,301"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 9.0m",
+			"exact": "- 9,034,195",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 14.7m",
+			"exact": "- 14,704,565",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "62.0m",
+			"exact": "+ 61,992,328",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "134.9m",
+			"exact": "+ 134,931,236",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-27 13:00:06",
+		"unix": 1669550406566
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,243,635,871"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 6.5m",
+			"exact": "- 6,525,430",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 22.6m",
+			"exact": "- 22,633,162",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "50.7m",
+			"exact": "+ 50,678,547",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "124.0m",
+			"exact": "+ 123,995,906",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-28 13:00:06",
+		"unix": 1669636806113
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,232,571,780"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 11.1m",
+			"exact": "- 11,064,091",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 35.9m",
+			"exact": "- 35,891,498",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "36.8m",
+			"exact": "+ 36,845,713",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "106.8m",
+			"exact": "+ 106,798,833",
+			"percent": "+ 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-29 13:00:06",
+		"unix": 1669723206438
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,232,571,780"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 11.1m",
+			"exact": "- 11,064,091",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 35.9m",
+			"exact": "- 35,891,498",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "36.8m",
+			"exact": "+ 36,845,713",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "106.8m",
+			"exact": "+ 106,798,833",
+			"percent": "+ 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-30 13:00:06",
+		"unix": 1669809606987
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,220,132,864"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 49.7m",
+			"exact": "- 49,675,728",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "10.5m",
+			"exact": "+ 10,511,052",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "77.5m",
+			"exact": "+ 77,450,853",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-12-01 13:00:08",
+		"unix": 1669896008047
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,231,168,956"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "9.9m",
+			"exact": "+ 9,934,976",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 36.8m",
+			"exact": "- 36,778,603",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "8.3m",
+			"exact": "+ 8,296,306",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "85.4m",
+			"exact": "+ 85,397,057",
+			"percent": "+ 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-12-02 13:00:05",
+		"unix": 1669982405314
+	},
+	"itemName": "Twisted bow",
+	"currentPrice": {
+		"rough": "1.2b ",
+		"exact": "1,239,825,424"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "8.7m",
+			"exact": "+ 8,656,468",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 29.1m",
+			"exact": "- 29,052,830",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,702,418",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "89.5m",
+			"exact": "+ 89,480,326",
+			"percent": "+ 7%"
+		}
+	}
+},

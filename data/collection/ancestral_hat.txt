@@ -1,0 +1,6435 @@
+{
+	"date": {
+		"dateString": "2022-04-25 14:34:21",
+		"unix": 1650890061277
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "11.2m",
+		"exact": "11,193,137"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "65.9k",
+			"exact": "+ 65,943",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "70.4k",
+			"exact": "+ 70,357",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,554,721",
+			"percent": "+ 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,498,339",
+			"percent": "+ 45%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-27 08:20:05",
+		"unix": 1651040405671
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "11.1m",
+		"exact": "11,073,907"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 119.2k",
+			"exact": "- 119,230",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 431.9k",
+			"exact": "- 431,905",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,514,290",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.6m",
+			"exact": "+ 3,600,681",
+			"percent": "+ 48%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-28 20:52:11",
+		"unix": 1651171931134
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "11.1m",
+		"exact": "11,056,734"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 63.4k",
+			"exact": "- 63,432",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 63.2k",
+			"exact": "- 63,160",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "900.4k",
+			"exact": "+ 900,442",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,883,935",
+			"percent": "+ 54%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-29 17:30:30",
+		"unix": 1651246230133
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "11.2m",
+		"exact": "11,207,994"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "151.3k",
+			"exact": "+ 151,260",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "573.8k",
+			"exact": "+ 573,762",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,281,663",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.1m",
+			"exact": "+ 4,141,545",
+			"percent": "+ 58%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-30 12:07:39",
+		"unix": 1651313259309
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "11.2m",
+		"exact": "11,207,994"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "151.3k",
+			"exact": "+ 151,260",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "573.8k",
+			"exact": "+ 573,762",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,281,663",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.1m",
+			"exact": "+ 4,141,545",
+			"percent": "+ 58%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-02 08:12:59",
+		"unix": 1651471979614
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "11.3m",
+		"exact": "11,303,499"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 3,588",
+			"exact": "- 3,588",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "854.1k",
+			"exact": "+ 854,080",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,697,980",
+			"percent": "+ 17%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,616,713",
+			"percent": "+ 69%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-05 11:05:36",
+		"unix": 1651741536361
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "11.1m",
+		"exact": "11,104,069"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 149.1k",
+			"exact": "- 149,066",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "651.7k",
+			"exact": "+ 651,745",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,700,934",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,863,029",
+			"percent": "+ 53%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-06 15:57:21",
+		"unix": 1651845441848
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "10.9m",
+		"exact": "10,888,783"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 100.2k",
+			"exact": "- 100,233",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "152.5k",
+			"exact": "+ 152,465",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,306,227",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,251,273",
+			"percent": "+ 42%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-08 10:09:47",
+		"unix": 1651997387675
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "11.0m",
+		"exact": "10,951,678"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 61.4k",
+			"exact": "- 61,419",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 213.0k",
+			"exact": "- 212,974",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,499,914",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,381,979",
+			"percent": "+ 44%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-09 19:01:09",
+		"unix": 1652115669946
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "10.8m",
+		"exact": "10,834,039"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 117.6k",
+			"exact": "- 117,639",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 324.6k",
+			"exact": "- 324,594",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,468,394",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,416,240",
+			"percent": "+ 46%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-10 14:06:03",
+		"unix": 1652184363434
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "10.8m",
+		"exact": "10,834,039"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 117.6k",
+			"exact": "- 117,639",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 324.6k",
+			"exact": "- 324,594",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,468,394",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,416,240",
+			"percent": "+ 46%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-11 13:41:24",
+		"unix": 1652269284286
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "10.8m",
+		"exact": "10,812,284"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "28.4k",
+			"exact": "+ 28,366",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 111.4k",
+			"exact": "- 111,440",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,471,196",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,253,295",
+			"percent": "+ 43%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-12 13:07:09",
+		"unix": 1652353629087
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "10.7m",
+		"exact": "10,725,285"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 87.0k",
+			"exact": "- 86,999",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 199.6k",
+			"exact": "- 199,615",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,185,437",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,391,074",
+			"percent": "+ 46%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-13 14:07:33",
+		"unix": 1652443653472
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "10.8m",
+		"exact": "10,754,623"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "29.3k",
+			"exact": "+ 29,338",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 214.6k",
+			"exact": "- 214,640",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,283,498",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,491,041",
+			"percent": "+ 48%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-14 16:34:29",
+		"unix": 1652538869488
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "10.8m",
+		"exact": "10,754,623"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "29.3k",
+			"exact": "+ 29,338",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 214.6k",
+			"exact": "- 214,640",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,283,498",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,491,041",
+			"percent": "+ 48%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-15 19:16:30",
+		"unix": 1652634990043
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "11.8m",
+		"exact": "11,790,453"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "561.5k",
+			"exact": "+ 561,451",
+			"percent": "+ 5%"
+		},
+		"montlyChange": {
+			"rough": "799.8k",
+			"exact": "+ 799,827",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,279,303",
+			"percent": "+ 23%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,644,537",
+			"percent": "+ 64%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-16 23:21:02",
+		"unix": 1652736062064
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "12.4m",
+		"exact": "12,379,976"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "589.5k",
+			"exact": "+ 589,523",
+			"percent": "+ 5%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,272,940",
+			"percent": "+ 11%"
+		},
+		"quarterlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 3,001,888",
+			"percent": "+ 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.1m",
+			"exact": "+ 5,056,992",
+			"percent": "+ 69%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-17 15:37:58",
+		"unix": 1652794678481
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "12.4m",
+		"exact": "12,379,976"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "589.5k",
+			"exact": "+ 589,523",
+			"percent": "+ 5%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,272,940",
+			"percent": "+ 11%"
+		},
+		"quarterlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 3,001,888",
+			"percent": "+ 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.1m",
+			"exact": "+ 5,056,992",
+			"percent": "+ 69%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-18 16:34:49",
+		"unix": 1652884489450
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "13.6m",
+		"exact": "13,648,924"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "649.9k",
+			"exact": "+ 649,949",
+			"percent": "+ 5%"
+		},
+		"montlyChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,787,605",
+			"percent": "+ 25%"
+		},
+		"quarterlyChange": {
+			"rough": "4.3m",
+			"exact": "+ 4,297,827",
+			"percent": "+ 45%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,245,865",
+			"percent": "+ 84%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-19 23:57:51",
+		"unix": 1652997471547
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.3m",
+		"exact": "14,331,371"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "682.4k",
+			"exact": "+ 682,447",
+			"percent": "+ 5%"
+		},
+		"montlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,518,213",
+			"percent": "+ 32%"
+		},
+		"quarterlyChange": {
+			"rough": "5.0m",
+			"exact": "+ 4,951,778",
+			"percent": "+ 52%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.9m",
+			"exact": "+ 6,905,851",
+			"percent": "+ 93%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-20 13:31:53",
+		"unix": 1653046313335
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.3m",
+		"exact": "14,331,371"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "682.4k",
+			"exact": "+ 682,447",
+			"percent": "+ 5%"
+		},
+		"montlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,518,213",
+			"percent": "+ 32%"
+		},
+		"quarterlyChange": {
+			"rough": "5.0m",
+			"exact": "+ 4,951,778",
+			"percent": "+ 52%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.9m",
+			"exact": "+ 6,905,851",
+			"percent": "+ 93%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-21 10:37:07",
+		"unix": 1653122227349
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.4m",
+		"exact": "15,402,961"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "427.0k",
+			"exact": "+ 426,960",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,549,962",
+			"percent": "+ 41%"
+		},
+		"quarterlyChange": {
+			"rough": "5.8m",
+			"exact": "+ 5,790,515",
+			"percent": "+ 60%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.2m",
+			"exact": "+ 8,153,541",
+			"percent": "+ 112%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-23 16:04:12",
+		"unix": 1653314652326
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.7m",
+		"exact": "15,703,431"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "300.5k",
+			"exact": "+ 300,470",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,817,916",
+			"percent": "+ 44%"
+		},
+		"quarterlyChange": {
+			"rough": "5.9m",
+			"exact": "+ 5,944,906",
+			"percent": "+ 60%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.5m",
+			"exact": "+ 8,474,779",
+			"percent": "+ 117%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-24 17:12:08",
+		"unix": 1653405128855
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.1m",
+		"exact": "16,090,670"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "387.2k",
+			"exact": "+ 387,239",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "5.0m",
+			"exact": "+ 4,963,476",
+			"percent": "+ 44%"
+		},
+		"quarterlyChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,202,380",
+			"percent": "+ 62%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.8m",
+			"exact": "+ 8,773,480",
+			"percent": "+ 119%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-25 17:02:18",
+		"unix": 1653490938436
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.8m",
+		"exact": "16,756,507"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "492.9k",
+			"exact": "+ 492,861",
+			"percent": "+ 3%"
+		},
+		"montlyChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,682,600",
+			"percent": "+ 51%"
+		},
+		"quarterlyChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,189,591",
+			"percent": "+ 58%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.4m",
+			"exact": "+ 9,426,828",
+			"percent": "+ 128%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-26 18:15:11",
+		"unix": 1653581711704
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.4m",
+		"exact": "17,416,083"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "659.6k",
+			"exact": "+ 659,576",
+			"percent": "+ 3%"
+		},
+		"montlyChange": {
+			"rough": "6.3m",
+			"exact": "+ 6,295,917",
+			"percent": "+ 56%"
+		},
+		"quarterlyChange": {
+			"rough": "6.5m",
+			"exact": "+ 6,471,699",
+			"percent": "+ 59%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.1m",
+			"exact": "+ 10,053,689",
+			"percent": "+ 136%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-27 17:09:55",
+		"unix": 1653664195798
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.4m",
+		"exact": "17,416,083"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "659.6k",
+			"exact": "+ 659,576",
+			"percent": "+ 3%"
+		},
+		"montlyChange": {
+			"rough": "6.3m",
+			"exact": "+ 6,295,917",
+			"percent": "+ 56%"
+		},
+		"quarterlyChange": {
+			"rough": "6.5m",
+			"exact": "+ 6,471,699",
+			"percent": "+ 59%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.1m",
+			"exact": "+ 10,053,689",
+			"percent": "+ 136%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-28 21:18:14",
+		"unix": 1653765494803
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.5m",
+		"exact": "17,484,150"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 428.7k",
+			"exact": "- 428,683",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "6.3m",
+			"exact": "+ 6,276,156",
+			"percent": "+ 55%"
+		},
+		"quarterlyChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,689,634",
+			"percent": "+ 48%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.0m",
+			"exact": "+ 10,048,003",
+			"percent": "+ 135%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-29 21:39:05",
+		"unix": 1653853145328
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.6m",
+		"exact": "17,570,381"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "86.2k",
+			"exact": "+ 86,231",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,180,359",
+			"percent": "+ 54%"
+		},
+		"quarterlyChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,219,094",
+			"percent": "+ 42%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.1m",
+			"exact": "+ 10,126,076",
+			"percent": "+ 136%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-30 18:12:29",
+		"unix": 1653927149431
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.5m",
+		"exact": "17,495,443"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 74.9k",
+			"exact": "- 74,938",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,188,356",
+			"percent": "+ 54%"
+		},
+		"quarterlyChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,690,655",
+			"percent": "+ 36%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.8m",
+			"exact": "+ 9,751,672",
+			"percent": "+ 125%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-31 13:37:32",
+		"unix": 1653997052821
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.5m",
+		"exact": "17,495,443"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,191,944",
+			"percent": "+ 54%"
+		},
+		"quarterlyChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,364,674",
+			"percent": "+ 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.7m",
+			"exact": "+ 9,675,005",
+			"percent": "+ 123%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-01 22:39:20",
+		"unix": 1654115960851
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.6m",
+		"exact": "16,572,852"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 542.7k",
+			"exact": "- 542,655",
+			"percent": "- 3%"
+		},
+		"montlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,319,717",
+			"percent": "+ 47%"
+		},
+		"quarterlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,534,450",
+			"percent": "+ 27%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.8m",
+			"exact": "+ 8,837,441",
+			"percent": "+ 114%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-02 20:53:02",
+		"unix": 1654195982280
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.4m",
+		"exact": "16,442,566"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 130.3k",
+			"exact": "- 130,286",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,338,497",
+			"percent": "+ 48%"
+		},
+		"quarterlyChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,432,993",
+			"percent": "+ 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.6m",
+			"exact": "+ 8,602,979",
+			"percent": "+ 109%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-05 20:16:51",
+		"unix": 1654453011425
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.0m",
+		"exact": "16,979,926"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "58.1k",
+			"exact": "+ 58,067",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.0m",
+			"exact": "+ 5,966,829",
+			"percent": "+ 54%"
+		},
+		"quarterlyChange": {
+			"rough": "4.0m",
+			"exact": "+ 3,999,477",
+			"percent": "+ 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.1m",
+			"exact": "+ 9,092,341",
+			"percent": "+ 115%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-07 14:43:00",
+		"unix": 1654605780112
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.3m",
+		"exact": "16,311,174"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 356.9k",
+			"exact": "- 356,866",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "5.5m",
+			"exact": "+ 5,477,135",
+			"percent": "+ 50%"
+		},
+		"quarterlyChange": {
+			"rough": "4.1m",
+			"exact": "+ 4,097,837",
+			"percent": "+ 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.2m",
+			"exact": "+ 8,163,867",
+			"percent": "+ 100%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-08 16:52:38",
+		"unix": 1654699958231
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.3m",
+		"exact": "16,347,046"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "35.9k",
+			"exact": "+ 35,872",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,563,128",
+			"percent": "+ 51%"
+		},
+		"quarterlyChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,365,041",
+			"percent": "+ 36%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.9m",
+			"exact": "+ 7,856,228",
+			"percent": "+ 92%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-09 13:03:40",
+		"unix": 1654772620578
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.3m",
+		"exact": "16,310,084"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 37.0k",
+			"exact": "- 36,962",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.5m",
+			"exact": "+ 5,497,800",
+			"percent": "+ 50%"
+		},
+		"quarterlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,550,669",
+			"percent": "+ 38%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.6m",
+			"exact": "+ 7,571,726",
+			"percent": "+ 86%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-10 15:51:48",
+		"unix": 1654869108314
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.3m",
+		"exact": "16,310,084"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 37.0k",
+			"exact": "- 36,962",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.5m",
+			"exact": "+ 5,497,800",
+			"percent": "+ 50%"
+		},
+		"quarterlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,550,669",
+			"percent": "+ 38%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.6m",
+			"exact": "+ 7,571,726",
+			"percent": "+ 86%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-11 15:34:57",
+		"unix": 1654954497531
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.4m",
+		"exact": "16,422,041"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "44",
+			"exact": "+ 44",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,667,418",
+			"percent": "+ 52%"
+		},
+		"quarterlyChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,180,210",
+			"percent": "+ 46%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.4m",
+			"exact": "+ 7,381,779",
+			"percent": "+ 81%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-13 08:58:27",
+		"unix": 1655103507459
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.3m",
+		"exact": "16,303,222"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 252.5k",
+			"exact": "- 252,538",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,512,769",
+			"percent": "+ 38%"
+		},
+		"quarterlyChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,589,177",
+			"percent": "+ 52%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.6m",
+			"exact": "+ 7,598,938",
+			"percent": "+ 87%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-13 17:25:05",
+		"unix": 1655133905801
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.3m",
+		"exact": "16,303,222"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 252.5k",
+			"exact": "- 252,538",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,512,769",
+			"percent": "+ 38%"
+		},
+		"quarterlyChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,589,177",
+			"percent": "+ 52%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.6m",
+			"exact": "+ 7,598,938",
+			"percent": "+ 87%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-14 14:22:57",
+		"unix": 1655209377006
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.3m",
+		"exact": "16,303,222"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 252.5k",
+			"exact": "- 252,538",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,512,769",
+			"percent": "+ 38%"
+		},
+		"quarterlyChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,589,177",
+			"percent": "+ 52%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.6m",
+			"exact": "+ 7,598,938",
+			"percent": "+ 87%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-15 16:15:31",
+		"unix": 1655302531675
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.3m",
+		"exact": "15,260,275"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 466.6k",
+			"exact": "- 466,587",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,261,300",
+			"percent": "+ 17%"
+		},
+		"quarterlyChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,883,339",
+			"percent": "+ 47%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.3m",
+			"exact": "+ 6,305,574",
+			"percent": "+ 70%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-16 23:31:42",
+		"unix": 1655415102080
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.0m",
+		"exact": "14,976,230"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 284.0k",
+			"exact": "- 284,045",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,327,306",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,698,779",
+			"percent": "+ 45%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,718,983",
+			"percent": "+ 61%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-17 20:09:59",
+		"unix": 1655489399689
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.0m",
+		"exact": "15,005,720"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "29.5k",
+			"exact": "+ 29,490",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "674.3k",
+			"exact": "+ 674,349",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "4.3m",
+			"exact": "+ 4,287,174",
+			"percent": "+ 39%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.5m",
+			"exact": "+ 5,509,916",
+			"percent": "+ 58%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-18 11:37:28",
+		"unix": 1655545048751
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.0m",
+		"exact": "15,005,720"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "29.5k",
+			"exact": "+ 29,490",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "674.3k",
+			"exact": "+ 674,349",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "4.3m",
+			"exact": "+ 4,287,174",
+			"percent": "+ 39%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.5m",
+			"exact": "+ 5,509,916",
+			"percent": "+ 58%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-19 00:09:18",
+		"unix": 1655590158015
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.1m",
+		"exact": "15,114,665"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "108.9k",
+			"exact": "+ 108,945",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "138.7k",
+			"exact": "+ 138,664",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,661,365",
+			"percent": "+ 44%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.9m",
+			"exact": "+ 5,904,182",
+			"percent": "+ 64%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-19 22:43:12",
+		"unix": 1655671392654
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.1m",
+		"exact": "15,100,678"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 14.0k",
+			"exact": "- 13,987",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 302.3k",
+			"exact": "- 302,283",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,682,199",
+			"percent": "+ 44%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.8m",
+			"exact": "+ 5,779,896",
+			"percent": "+ 62%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-21 12:55:54",
+		"unix": 1655808954025
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.2m",
+		"exact": "15,238,195"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "10.0k",
+			"exact": "+ 10,049",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 852.5k",
+			"exact": "- 852,475",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,842,611",
+			"percent": "+ 46%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.9m",
+			"exact": "+ 5,940,291",
+			"percent": "+ 63%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-22 09:34:49",
+		"unix": 1655883289948
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.2m",
+		"exact": "15,238,195"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "10.0k",
+			"exact": "+ 10,049",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 852.5k",
+			"exact": "- 852,475",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,842,611",
+			"percent": "+ 46%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.9m",
+			"exact": "+ 5,940,291",
+			"percent": "+ 63%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-22 13:00:09",
+		"unix": 1655895609014
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.2m",
+		"exact": "15,238,195"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "10.0k",
+			"exact": "+ 10,049",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 852.5k",
+			"exact": "- 852,475",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,842,611",
+			"percent": "+ 46%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.9m",
+			"exact": "+ 5,940,291",
+			"percent": "+ 63%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-23 13:00:07",
+		"unix": 1655982007897
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.3m",
+		"exact": "15,252,230"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "14.0k",
+			"exact": "+ 14,035",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.0m",
+			"exact": "- 1,011,416",
+			"percent": "- 6%"
+		},
+		"quarterlyChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,668,634",
+			"percent": "+ 44%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.1m",
+			"exact": "+ 6,115,942",
+			"percent": "+ 66%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-24 13:00:07",
+		"unix": 1656068407733
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.0m",
+		"exact": "14,973,817"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 69.7k",
+			"exact": "- 69,697",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,442,266",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,851,037",
+			"percent": "+ 34%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.9m",
+			"exact": "+ 5,898,146",
+			"percent": "+ 64%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-25 13:00:09",
+		"unix": 1656154809162
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.8m",
+		"exact": "14,805,247"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 168.6k",
+			"exact": "- 168,570",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 3.1m",
+			"exact": "- 3,107,586",
+			"percent": "- 17%"
+		},
+		"quarterlyChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,299,435",
+			"percent": "+ 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,626,105",
+			"percent": "+ 61%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-26 13:00:08",
+		"unix": 1656241208291
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.9m",
+		"exact": "14,908,713"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "103.5k",
+			"exact": "+ 103,466",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,575,437",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "3.6m",
+			"exact": "+ 3,574,001",
+			"percent": "+ 31%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.8m",
+			"exact": "+ 5,816,806",
+			"percent": "+ 63%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-27 13:00:09",
+		"unix": 1656327609483
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.8m",
+		"exact": "14,844,259"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 64.5k",
+			"exact": "- 64,454",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,726,122",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,724,365",
+			"percent": "+ 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.8m",
+			"exact": "+ 5,766,661",
+			"percent": "+ 63%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-28 13:00:07",
+		"unix": 1656414007338
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.8m",
+		"exact": "14,844,259"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 64.5k",
+			"exact": "- 64,454",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,726,122",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,724,365",
+			"percent": "+ 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.8m",
+			"exact": "+ 5,766,661",
+			"percent": "+ 63%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-29 13:00:07",
+		"unix": 1656500407768
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.7m",
+		"exact": "14,691,701"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,423,806",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,391,155",
+			"percent": "+ 42%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,645,061",
+			"percent": "+ 62%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-30 13:00:07",
+		"unix": 1656586807683
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.6m",
+		"exact": "14,560,750"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 131.0k",
+			"exact": "- 130,951",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,554,757",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "4.3m",
+			"exact": "+ 4,260,204",
+			"percent": "+ 41%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.5m",
+			"exact": "+ 5,514,110",
+			"percent": "+ 60%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-01 13:00:08",
+		"unix": 1656673208608
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.9m",
+		"exact": "14,940,572"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "379.8k",
+			"exact": "+ 379,822",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 1.6m",
+			"exact": "- 1,632,280",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,475,944",
+			"percent": "+ 42%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.8m",
+			"exact": "+ 5,772,672",
+			"percent": "+ 62%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-02 13:00:07",
+		"unix": 1656759607572
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.6m",
+		"exact": "15,577,799"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "637.2k",
+			"exact": "+ 637,227",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "- 864.8k",
+			"exact": "- 864,767",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "5.1m",
+			"exact": "+ 5,128,380",
+			"percent": "+ 49%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.5m",
+			"exact": "+ 6,531,936",
+			"percent": "+ 72%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-03 13:00:06",
+		"unix": 1656846006769
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.6m",
+		"exact": "16,586,704"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "313.7k",
+			"exact": "+ 313,749",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 335.2k",
+			"exact": "- 335,155",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "6.1m",
+			"exact": "+ 6,134,380",
+			"percent": "+ 58%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.4m",
+			"exact": "+ 7,439,479",
+			"percent": "+ 81%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-04 13:00:07",
+		"unix": 1656932407477
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.1m",
+		"exact": "16,108,614"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 478.1k",
+			"exact": "- 478,090",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "- 871.3k",
+			"exact": "- 871,312",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "5.5m",
+			"exact": "+ 5,521,466",
+			"percent": "+ 52%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.8m",
+			"exact": "+ 6,788,645",
+			"percent": "+ 72%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-05 13:00:06",
+		"unix": 1657018806666
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.6m",
+		"exact": "15,586,399"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 522.2k",
+			"exact": "- 522,215",
+			"percent": "- 3%"
+		},
+		"montlyChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,081,641",
+			"percent": "- 6%"
+		},
+		"quarterlyChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,850,081",
+			"percent": "+ 45%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.7m",
+			"exact": "+ 6,718,224",
+			"percent": "+ 75%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-06 13:00:06",
+		"unix": 1657105206478
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.5m",
+		"exact": "15,499,656"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 86.7k",
+			"exact": "- 86,743",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 811.5k",
+			"exact": "- 811,518",
+			"percent": "- 4%"
+		},
+		"quarterlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,479,796",
+			"percent": "+ 40%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.0m",
+			"exact": "+ 6,991,137",
+			"percent": "+ 82%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-07 13:00:06",
+		"unix": 1657191606599
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.9m",
+		"exact": "15,890,304"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "390.6k",
+			"exact": "+ 390,648",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 456.7k",
+			"exact": "- 456,742",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,725,652",
+			"percent": "+ 42%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.7m",
+			"exact": "+ 7,665,295",
+			"percent": "+ 93%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-08 13:00:07",
+		"unix": 1657278007047
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.9m",
+		"exact": "15,890,304"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "390.6k",
+			"exact": "+ 390,648",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 456.7k",
+			"exact": "- 456,742",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,725,652",
+			"percent": "+ 42%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.7m",
+			"exact": "+ 7,665,295",
+			"percent": "+ 93%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-09 13:00:06",
+		"unix": 1657364406991
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.2m",
+		"exact": "16,239,329"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 21.5k",
+			"exact": "- 21,527",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 182.7k",
+			"exact": "- 182,668",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,312,155",
+			"percent": "+ 48%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.4m",
+			"exact": "+ 8,441,920",
+			"percent": "+ 108%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-10 13:00:07",
+		"unix": 1657450807609
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.1m",
+		"exact": "16,136,022"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 103.3k",
+			"exact": "- 103,307",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 286.0k",
+			"exact": "- 286,019",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,212,298",
+			"percent": "+ 47%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.2m",
+			"exact": "+ 8,197,413",
+			"percent": "+ 103%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-11 13:00:06",
+		"unix": 1657537206648
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.5m",
+		"exact": "16,525,454"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "389.4k",
+			"exact": "+ 389,432",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 30.3k",
+			"exact": "- 30,306",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,600,554",
+			"percent": "+ 51%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.5m",
+			"exact": "+ 8,543,284",
+			"percent": "+ 107%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-12 13:00:07",
+		"unix": 1657623607502
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.5m",
+		"exact": "16,525,454"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "389.4k",
+			"exact": "+ 389,432",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 30.3k",
+			"exact": "- 30,306",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,600,554",
+			"percent": "+ 51%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.5m",
+			"exact": "+ 8,543,284",
+			"percent": "+ 107%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-13 13:00:06",
+		"unix": 1657710006875
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.1m",
+		"exact": "16,139,321"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 138.1k",
+			"exact": "- 138,118",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "412.5k",
+			"exact": "+ 412,459",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "5.1m",
+			"exact": "+ 5,107,938",
+			"percent": "+ 46%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.2m",
+			"exact": "+ 8,167,318",
+			"percent": "+ 102%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-14 13:00:07",
+		"unix": 1657796407088
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.3m",
+		"exact": "16,323,459"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "184.1k",
+			"exact": "+ 184,138",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,063,184",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,332,833",
+			"percent": "+ 48%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.2m",
+			"exact": "+ 8,207,448",
+			"percent": "+ 101%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-15 13:00:08",
+		"unix": 1657882808257
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.7m",
+		"exact": "16,659,564"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "336.1k",
+			"exact": "+ 336,105",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,683,334",
+			"percent": "+ 11%"
+		},
+		"quarterlyChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,552,528",
+			"percent": "+ 49%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.5m",
+			"exact": "+ 8,458,946",
+			"percent": "+ 103%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-16 13:00:07",
+		"unix": 1657969207575
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.7m",
+		"exact": "16,659,564"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "336.1k",
+			"exact": "+ 336,105",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,683,334",
+			"percent": "+ 11%"
+		},
+		"quarterlyChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,552,528",
+			"percent": "+ 49%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.5m",
+			"exact": "+ 8,458,946",
+			"percent": "+ 103%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-17 13:00:08",
+		"unix": 1658055608743
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.5m",
+		"exact": "16,474,943"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 184.6k",
+			"exact": "- 184,621",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,469,223",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,322,398",
+			"percent": "+ 47%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.4m",
+			"exact": "+ 8,405,201",
+			"percent": "+ 104%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-18 13:00:07",
+		"unix": 1658142007041
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.5m",
+		"exact": "16,495,316"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "20.4k",
+			"exact": "+ 20,373",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,380,651",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,633,997",
+			"percent": "+ 51%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.5m",
+			"exact": "+ 8,540,319",
+			"percent": "+ 107%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-19 13:00:07",
+		"unix": 1658228407290
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.2m",
+		"exact": "16,224,330"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 183.1k",
+			"exact": "- 183,055",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "996.2k",
+			"exact": "+ 996,184",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "5.4m",
+			"exact": "+ 5,412,633",
+			"percent": "+ 50%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.7m",
+			"exact": "+ 7,665,808",
+			"percent": "+ 89%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-20 13:00:07",
+		"unix": 1658314807282
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.2m",
+		"exact": "16,224,330"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "986.1k",
+			"exact": "+ 986,135",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "5.4m",
+			"exact": "+ 5,371,331",
+			"percent": "+ 49%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.5m",
+			"exact": "+ 7,511,259",
+			"percent": "+ 86%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-21 13:00:07",
+		"unix": 1658401207892
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.9m",
+		"exact": "15,876,033"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 348.3k",
+			"exact": "- 348,297",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "637.8k",
+			"exact": "+ 637,838",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "5.0m",
+			"exact": "+ 5,023,034",
+			"percent": "+ 46%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.2m",
+			"exact": "+ 7,162,962",
+			"percent": "+ 82%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-22 13:00:09",
+		"unix": 1658487609519
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.8m",
+		"exact": "15,773,574"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "20.3k",
+			"exact": "+ 20,332",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "730.1k",
+			"exact": "+ 730,060",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,646,380",
+			"percent": "+ 41%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.6m",
+			"exact": "+ 6,631,922",
+			"percent": "+ 72%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-23 13:00:07",
+		"unix": 1658574007901
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.8m",
+		"exact": "15,752,446"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 21.1k",
+			"exact": "- 21,128",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "778.6k",
+			"exact": "+ 778,629",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,559,309",
+			"percent": "+ 40%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.3m",
+			"exact": "+ 6,320,754",
+			"percent": "+ 67%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-24 13:00:06",
+		"unix": 1658660406801
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.8m",
+		"exact": "15,752,446"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 21.1k",
+			"exact": "- 21,128",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "778.6k",
+			"exact": "+ 778,629",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,559,309",
+			"percent": "+ 40%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.3m",
+			"exact": "+ 6,320,754",
+			"percent": "+ 67%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-25 13:00:07",
+		"unix": 1658746807147
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.3m",
+		"exact": "16,287,850"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "535.4k",
+			"exact": "+ 535,404",
+			"percent": "+ 3%"
+		},
+		"montlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,482,603",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,213,943",
+			"percent": "+ 47%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.6m",
+			"exact": "+ 6,649,434",
+			"percent": "+ 68%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-26 13:00:07",
+		"unix": 1658833207885
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.4m",
+		"exact": "17,414,509"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "474.0k",
+			"exact": "+ 473,966",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,570,250",
+			"percent": "+ 17%"
+		},
+		"quarterlyChange": {
+			"rough": "6.4m",
+			"exact": "+ 6,357,775",
+			"percent": "+ 57%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.6m",
+			"exact": "+ 7,593,097",
+			"percent": "+ 77%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-27 13:00:08",
+		"unix": 1658919608154
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.3m",
+		"exact": "17,262,895"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 151.6k",
+			"exact": "- 151,614",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,571,194",
+			"percent": "+ 17%"
+		},
+		"quarterlyChange": {
+			"rough": "6.1m",
+			"exact": "+ 6,054,901",
+			"percent": "+ 54%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.1m",
+			"exact": "+ 7,106,603",
+			"percent": "+ 69%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-28 13:00:08",
+		"unix": 1659006008106
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.4m",
+		"exact": "17,395,320"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "132.4k",
+			"exact": "+ 132,425",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,834,570",
+			"percent": "+ 19%"
+		},
+		"quarterlyChange": {
+			"rough": "6.0m",
+			"exact": "+ 6,005,298",
+			"percent": "+ 52%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.5m",
+			"exact": "+ 7,468,989",
+			"percent": "+ 75%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-29 13:00:08",
+		"unix": 1659092408151
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.6m",
+		"exact": "17,559,117"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "163.8k",
+			"exact": "+ 163,797",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,618,545",
+			"percent": "+ 17%"
+		},
+		"quarterlyChange": {
+			"rough": "6.3m",
+			"exact": "+ 6,252,030",
+			"percent": "+ 55%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.7m",
+			"exact": "+ 7,727,005",
+			"percent": "+ 78%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-30 13:00:12",
+		"unix": 1659178812292
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.6m",
+		"exact": "17,559,117"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "163.8k",
+			"exact": "+ 163,797",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,618,545",
+			"percent": "+ 17%"
+		},
+		"quarterlyChange": {
+			"rough": "6.3m",
+			"exact": "+ 6,252,030",
+			"percent": "+ 55%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.7m",
+			"exact": "+ 7,727,005",
+			"percent": "+ 78%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-31 13:00:07",
+		"unix": 1659265207327
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.7m",
+		"exact": "17,708,926"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "149.8k",
+			"exact": "+ 149,809",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,131,127",
+			"percent": "+ 13%"
+		},
+		"quarterlyChange": {
+			"rough": "6.4m",
+			"exact": "+ 6,405,427",
+			"percent": "+ 56%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.0m",
+			"exact": "+ 8,040,185",
+			"percent": "+ 83%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-01 13:00:07",
+		"unix": 1659351607886
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.9m",
+		"exact": "17,854,104"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "145.2k",
+			"exact": "+ 145,178",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,581,149",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "6.6m",
+			"exact": "+ 6,600,969",
+			"percent": "+ 58%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.2m",
+			"exact": "+ 8,248,585",
+			"percent": "+ 85%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-02 13:00:08",
+		"unix": 1659438008295
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.4m",
+		"exact": "17,443,028"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 411.1k",
+			"exact": "- 411,076",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "856.3k",
+			"exact": "+ 856,324",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "6.3m",
+			"exact": "+ 6,338,959",
+			"percent": "+ 57%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.1m",
+			"exact": "+ 8,063,865",
+			"percent": "+ 85%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-03 13:00:08",
+		"unix": 1659524408167
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.5m",
+		"exact": "17,462,481"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "305.5k",
+			"exact": "+ 305,540",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,876,082",
+			"percent": "+ 12%"
+		},
+		"quarterlyChange": {
+			"rough": "6.6m",
+			"exact": "+ 6,573,698",
+			"percent": "+ 60%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.0m",
+			"exact": "+ 7,958,443",
+			"percent": "+ 83%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-20 13:18:49",
+		"unix": 1660994329706
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.5m",
+		"exact": "16,533,899"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 650.1k",
+			"exact": "- 650,089",
+			"percent": "- 3%"
+		},
+		"montlyChange": {
+			"rough": "780.7k",
+			"exact": "+ 780,657",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "830.5k",
+			"exact": "+ 830,468",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.9m",
+			"exact": "+ 6,921,453",
+			"percent": "+ 72%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-21 13:00:09",
+		"unix": 1661079609114
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.2m",
+		"exact": "16,167,426"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 366.5k",
+			"exact": "- 366,473",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "393.9k",
+			"exact": "+ 393,852",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "76.8k",
+			"exact": "+ 76,756",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.4m",
+			"exact": "+ 6,408,901",
+			"percent": "+ 65%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-22 13:00:08",
+		"unix": 1661166008560
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.5m",
+		"exact": "15,475,259"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 692.2k",
+			"exact": "- 692,167",
+			"percent": "- 4%"
+		},
+		"montlyChange": {
+			"rough": "- 277.2k",
+			"exact": "- 277,187",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 788.4k",
+			"exact": "- 788,387",
+			"percent": "- 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,586,969",
+			"percent": "+ 56%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-23 13:00:08",
+		"unix": 1661252408199
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.7m",
+		"exact": "14,727,232"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 748.0k",
+			"exact": "- 748,027",
+			"percent": "- 4%"
+		},
+		"montlyChange": {
+			"rough": "- 1.6m",
+			"exact": "- 1,560,618",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.0m",
+			"exact": "- 2,029,275",
+			"percent": "- 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,536,094",
+			"percent": "+ 44%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-24 13:00:08",
+		"unix": 1661338808032
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.6m",
+		"exact": "14,645,978"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 185.3k",
+			"exact": "- 185,273",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 2.8m",
+			"exact": "- 2,768,531",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,266,855",
+			"percent": "- 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,701,594",
+			"percent": "+ 33%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-25 13:00:07",
+		"unix": 1661425207763
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.6m",
+		"exact": "14,645,978"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 185.3k",
+			"exact": "- 185,273",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 2.8m",
+			"exact": "- 2,768,531",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,266,855",
+			"percent": "- 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,701,594",
+			"percent": "+ 33%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-26 13:00:09",
+		"unix": 1661511609137
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "13.9m",
+		"exact": "13,914,330"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.5m",
+			"exact": "- 3,480,990",
+			"percent": "- 20%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.7m",
+			"exact": "- 3,656,051",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,119,814",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-27 13:00:07",
+		"unix": 1661598007797
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "12.6m",
+		"exact": "12,557,682"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 660.9k",
+			"exact": "- 660,931",
+			"percent": "- 5%"
+		},
+		"montlyChange": {
+			"rough": "- 5.0m",
+			"exact": "- 5,001,435",
+			"percent": "- 28%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.9m",
+			"exact": "- 4,937,761",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "206.4k",
+			"exact": "+ 206,395",
+			"percent": "+ 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-28 13:00:08",
+		"unix": 1661684408395
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "11.9m",
+		"exact": "11,929,797"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 627.9k",
+			"exact": "- 627,885",
+			"percent": "- 5%"
+		},
+		"montlyChange": {
+			"rough": "- 5.8m",
+			"exact": "- 5,779,129",
+			"percent": "- 32%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.2m",
+			"exact": "- 5,185,710",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 875.0k",
+			"exact": "- 874,991",
+			"percent": "- 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-29 13:00:06",
+		"unix": 1661770806703
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "11.3m",
+		"exact": "11,333,307"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 596.5k",
+			"exact": "- 596,490",
+			"percent": "- 5%"
+		},
+		"montlyChange": {
+			"rough": "- 6.5m",
+			"exact": "- 6,520,797",
+			"percent": "- 36%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.2m",
+			"exact": "- 5,239,545",
+			"percent": "- 31%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.8m",
+			"exact": "- 1,797,462",
+			"percent": "- 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-30 13:00:07",
+		"unix": 1661857207581
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "10.8m",
+		"exact": "10,766,641"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 566.7k",
+			"exact": "- 566,666",
+			"percent": "- 5%"
+		},
+		"montlyChange": {
+			"rough": "- 6.7m",
+			"exact": "- 6,676,387",
+			"percent": "- 38%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.7m",
+			"exact": "- 5,675,925",
+			"percent": "- 34%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,271,761",
+			"percent": "- 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-31 13:00:09",
+		"unix": 1661943609080
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "10.2m",
+		"exact": "10,228,308"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 538.3k",
+			"exact": "- 538,333",
+			"percent": "- 5%"
+		},
+		"montlyChange": {
+			"rough": "- 6.9m",
+			"exact": "- 6,928,633",
+			"percent": "- 40%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.3m",
+			"exact": "- 6,342,288",
+			"percent": "- 38%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.8m",
+			"exact": "- 2,781,265",
+			"percent": "- 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-01 13:00:08",
+		"unix": 1662030008437
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "10.2m",
+		"exact": "10,228,308"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 7.2m",
+			"exact": "- 7,234,173",
+			"percent": "- 41%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.7m",
+			"exact": "- 6,693,551",
+			"percent": "- 39%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.8m",
+			"exact": "- 2,771,138",
+			"percent": "- 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-02 13:00:08",
+		"unix": 1662116408810
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "9.5m",
+		"exact": "9,519,951"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 212.8k",
+			"exact": "- 212,807",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "- 8.6m",
+			"exact": "- 8,552,698",
+			"percent": "- 47%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.5m",
+			"exact": "- 7,459,975",
+			"percent": "- 43%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.5m",
+			"exact": "- 3,474,057",
+			"percent": "- 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-03 13:00:08",
+		"unix": 1662202808165
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "9.5m",
+		"exact": "9,519,951"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 212.8k",
+			"exact": "- 212,807",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "- 8.6m",
+			"exact": "- 8,552,698",
+			"percent": "- 47%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.5m",
+			"exact": "- 7,459,975",
+			"percent": "- 43%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.5m",
+			"exact": "- 3,474,057",
+			"percent": "- 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-04 13:00:08",
+		"unix": 1662289208849
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "9.6m",
+		"exact": "9,636,223"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "116.3k",
+			"exact": "+ 116,272",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 8.7m",
+			"exact": "- 8,694,148",
+			"percent": "- 47%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.0m",
+			"exact": "- 7,031,817",
+			"percent": "- 42%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,344,226",
+			"percent": "- 25%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-05 13:00:08",
+		"unix": 1662375608101
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "9.5m",
+		"exact": "9,495,343"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 9.1m",
+			"exact": "- 9,144,204",
+			"percent": "- 49%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.9m",
+			"exact": "- 6,851,703",
+			"percent": "- 41%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,717,994",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-06 13:00:08",
+		"unix": 1662462008978
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "9.5m",
+		"exact": "9,543,657"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "11.3k",
+			"exact": "+ 11,337",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 8.9m",
+			"exact": "- 8,941,638",
+			"percent": "- 48%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.8m",
+			"exact": "- 6,766,427",
+			"percent": "- 41%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,438,348",
+			"percent": "- 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-07 13:00:07",
+		"unix": 1662548407389
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "9.5m",
+		"exact": "9,543,657"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "11.3k",
+			"exact": "+ 11,337",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 8.9m",
+			"exact": "- 8,941,638",
+			"percent": "- 48%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.8m",
+			"exact": "- 6,766,427",
+			"percent": "- 41%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,438,348",
+			"percent": "- 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-08 13:00:06",
+		"unix": 1662634806981
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "9.4m",
+		"exact": "9,387,352"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 9.3m",
+			"exact": "- 9,260,323",
+			"percent": "- 49%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.0m",
+			"exact": "- 7,034,689",
+			"percent": "- 42%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.2m",
+			"exact": "- 2,208,356",
+			"percent": "- 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-09 13:00:09",
+		"unix": 1662721209850
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "9.6m",
+		"exact": "9,567,254"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "190.1k",
+			"exact": "+ 190,111",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 9.7m",
+			"exact": "- 9,685,365",
+			"percent": "- 50%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.0m",
+			"exact": "- 6,988,506",
+			"percent": "- 42%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,674,577",
+			"percent": "- 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-10 13:00:08",
+		"unix": 1662807608265
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "9.6m",
+		"exact": "9,567,254"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "190.1k",
+			"exact": "+ 190,111",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 9.7m",
+			"exact": "- 9,685,365",
+			"percent": "- 50%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.0m",
+			"exact": "- 6,988,506",
+			"percent": "- 42%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,674,577",
+			"percent": "- 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-11 13:00:08",
+		"unix": 1662894008826
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "9.3m",
+		"exact": "9,265,084"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 302.2k",
+			"exact": "- 302,170",
+			"percent": "- 3%"
+		},
+		"montlyChange": {
+			"rough": "- 10.2m",
+			"exact": "- 10,153,660",
+			"percent": "- 52%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.0m",
+			"exact": "- 7,038,138",
+			"percent": "- 43%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.9m",
+			"exact": "- 1,872,252",
+			"percent": "- 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-12 13:00:07",
+		"unix": 1662980407658
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "9.0m",
+		"exact": "9,016,170"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 38.6k",
+			"exact": "- 38,557",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 10.5m",
+			"exact": "- 10,480,491",
+			"percent": "- 53%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.2m",
+			"exact": "- 6,244,105",
+			"percent": "- 40%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,652,486",
+			"percent": "- 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-13 13:00:08",
+		"unix": 1663066808037
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "9.0m",
+		"exact": "9,016,170"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 38.6k",
+			"exact": "- 38,557",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 10.5m",
+			"exact": "- 10,480,491",
+			"percent": "- 53%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.2m",
+			"exact": "- 6,244,105",
+			"percent": "- 40%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,652,486",
+			"percent": "- 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-14 13:00:07",
+		"unix": 1663153207416
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "9.6m",
+		"exact": "9,598,879"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "271.0k",
+			"exact": "+ 271,016",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 8.8m",
+			"exact": "- 8,783,441",
+			"percent": "- 47%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.4m",
+			"exact": "- 5,406,841",
+			"percent": "- 36%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 678.6k",
+			"exact": "- 678,572",
+			"percent": "- 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-15 13:00:08",
+		"unix": 1663239608645
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "9.9m",
+		"exact": "9,928,621"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "329.7k",
+			"exact": "+ 329,742",
+			"percent": "+ 3%"
+		},
+		"montlyChange": {
+			"rough": "- 7.7m",
+			"exact": "- 7,722,711",
+			"percent": "- 43%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.2m",
+			"exact": "- 5,186,044",
+			"percent": "- 34%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 789.9k",
+			"exact": "- 789,925",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-16 13:00:08",
+		"unix": 1663326008587
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "9.9m",
+		"exact": "9,928,621"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "329.7k",
+			"exact": "+ 329,742",
+			"percent": "+ 3%"
+		},
+		"montlyChange": {
+			"rough": "- 7.7m",
+			"exact": "- 7,722,711",
+			"percent": "- 43%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.2m",
+			"exact": "- 5,186,044",
+			"percent": "- 34%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 789.9k",
+			"exact": "- 789,925",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-17 13:00:09",
+		"unix": 1663412409264
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "10.4m",
+		"exact": "10,366,599"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "438.0k",
+			"exact": "+ 437,978",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "- 6.8m",
+			"exact": "- 6,817,389",
+			"percent": "- 39%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.7m",
+			"exact": "- 4,734,079",
+			"percent": "- 31%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 86.7k",
+			"exact": "- 86,701",
+			"percent": "+ 0%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-21 13:00:07",
+		"unix": 1663758007946
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "11.8m",
+		"exact": "11,847,753"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.0m",
+			"exact": "- 2,983,498",
+			"percent": "- 20%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.1m",
+			"exact": "- 3,126,064",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,129,627",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-21 14:21:28",
+		"unix": 1663762888369
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "11.8m",
+		"exact": "11,847,753"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.0m",
+			"exact": "- 2,983,498",
+			"percent": "- 20%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.1m",
+			"exact": "- 3,126,064",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,129,627",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-22 13:00:07",
+		"unix": 1663844407746
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "12.3m",
+		"exact": "12,309,014"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "461.3k",
+			"exact": "+ 461,261",
+			"percent": "+ 3%"
+		},
+		"montlyChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,522,237",
+			"percent": "- 17%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,664,803",
+			"percent": "- 17%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,590,888",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-23 13:00:08",
+		"unix": 1663930808910
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "12.3m",
+		"exact": "12,270,803"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 38.2k",
+			"exact": "- 38,211",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,375,175",
+			"percent": "- 16%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,534,444",
+			"percent": "- 17%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,148,023",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-24 13:00:08",
+		"unix": 1664017208146
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "12.2m",
+		"exact": "12,203,560"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 314.3k",
+			"exact": "- 314,301",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "- 1.0m",
+			"exact": "- 1,015,053",
+			"percent": "- 7%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,640,699",
+			"percent": "- 17%"
+		},
+		"semiAnnualChange": {
+			"rough": "868.8k",
+			"exact": "+ 868,848",
+			"percent": "+ 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-25 13:00:09",
+		"unix": 1664103609128
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "12.3m",
+		"exact": "12,318,597"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "115.0k",
+			"exact": "+ 115,037",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 239.1k",
+			"exact": "- 239,085",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,373,104",
+			"percent": "- 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,198,703",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-26 13:00:07",
+		"unix": 1664190007530
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "12.3m",
+		"exact": "12,318,597"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "115.0k",
+			"exact": "+ 115,037",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 239.1k",
+			"exact": "- 239,085",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,373,104",
+			"percent": "- 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,198,703",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-27 13:00:08",
+		"unix": 1664276408378
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "12.3m",
+		"exact": "12,251,790"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 66.8k",
+			"exact": "- 66,807",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "322.0k",
+			"exact": "+ 321,993",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,308,960",
+			"percent": "- 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,617,558",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-28 13:00:09",
+		"unix": 1664362809033
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "12.2m",
+		"exact": "12,185,913"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,419,272",
+			"percent": "+ 13%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.4m",
+			"exact": "- 3,391,886",
+			"percent": "- 21%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,721,285",
+			"percent": "+ 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-29 13:00:08",
+		"unix": 1664449208350
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "11.8m",
+		"exact": "11,810,096"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 202.7k",
+			"exact": "- 202,673",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,581,788",
+			"percent": "+ 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.5m",
+			"exact": "- 4,462,859",
+			"percent": "- 27%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,360,677",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-30 13:00:09",
+		"unix": 1664535609223
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "12.1m",
+		"exact": "12,108,865"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "298.8k",
+			"exact": "+ 298,769",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,376,107",
+			"percent": "+ 24%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.5m",
+			"exact": "- 4,477,839",
+			"percent": "- 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,597,906",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-01 13:00:09",
+		"unix": 1664622009059
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "12.1m",
+		"exact": "12,102,320"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 6,545",
+			"exact": "- 6,545",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,582,369",
+			"percent": "+ 27%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.0m",
+			"exact": "- 4,006,294",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,649,996",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-02 13:00:08",
+		"unix": 1664708408782
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "12.1m",
+		"exact": "12,102,320"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 6,545",
+			"exact": "- 6,545",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,582,369",
+			"percent": "+ 27%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.0m",
+			"exact": "- 4,006,294",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,649,996",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-03 13:00:08",
+		"unix": 1664794808543
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "12.8m",
+		"exact": "12,807,696"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "549.6k",
+			"exact": "+ 549,588",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,312,353",
+			"percent": "+ 34%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,691,960",
+			"percent": "- 17%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,071,378",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-04 13:00:09",
+		"unix": 1664881209250
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "13.3m",
+		"exact": "13,271,183"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "463.5k",
+			"exact": "+ 463,487",
+			"percent": "+ 3%"
+		},
+		"montlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,738,863",
+			"percent": "+ 39%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,619,121",
+			"percent": "- 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,251,323",
+			"percent": "+ 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-05 13:00:08",
+		"unix": 1664967608072
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "13.3m",
+		"exact": "13,271,183"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,727,526",
+			"percent": "+ 39%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.0m",
+			"exact": "- 2,989,673",
+			"percent": "- 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,106,531",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-06 13:00:08",
+		"unix": 1665054008592
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "13.6m",
+		"exact": "13,649,667"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "378.5k",
+			"exact": "+ 378,484",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "4.1m",
+			"exact": "+ 4,106,010",
+			"percent": "+ 43%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,611,189",
+			"percent": "- 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,485,015",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-07 13:00:09",
+		"unix": 1665140409851
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.7m",
+		"exact": "14,673,288"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "373.7k",
+			"exact": "+ 373,665",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,296,145",
+			"percent": "+ 56%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.5m",
+			"exact": "- 1,462,734",
+			"percent": "- 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,746,114",
+			"percent": "+ 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-08 13:00:07",
+		"unix": 1665226807616
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.7m",
+		"exact": "14,673,288"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "373.7k",
+			"exact": "+ 373,665",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,296,145",
+			"percent": "+ 56%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.5m",
+			"exact": "- 1,462,734",
+			"percent": "- 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,746,114",
+			"percent": "+ 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-09 13:00:08",
+		"unix": 1665313208870
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.8m",
+		"exact": "14,820,009"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "146.7k",
+			"exact": "+ 146,721",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,252,755",
+			"percent": "+ 54%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,705,445",
+			"percent": "- 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,896,285",
+			"percent": "+ 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-10 13:00:07",
+		"unix": 1665399607970
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.7m",
+		"exact": "14,727,686"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,672,959",
+			"percent": "+ 62%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.4m",
+			"exact": "- 1,411,635",
+			"percent": "- 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,758,423",
+			"percent": "+ 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-11 13:00:08",
+		"unix": 1665486008718
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.8m",
+		"exact": "14,824,174"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "285.0k",
+			"exact": "+ 284,958",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "5.8m",
+			"exact": "+ 5,808,004",
+			"percent": "+ 64%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.5m",
+			"exact": "- 1,499,285",
+			"percent": "- 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,792,791",
+			"percent": "+ 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-12 13:00:08",
+		"unix": 1665572408013
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.9m",
+		"exact": "14,879,074"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "54.9k",
+			"exact": "+ 54,900",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,551,211",
+			"percent": "+ 59%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.8m",
+			"exact": "- 1,780,490",
+			"percent": "- 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,888,448",
+			"percent": "+ 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-13 13:00:13",
+		"unix": 1665658813067
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "14.9m",
+		"exact": "14,879,074"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "54.9k",
+			"exact": "+ 54,900",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,551,211",
+			"percent": "+ 59%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.8m",
+			"exact": "- 1,780,490",
+			"percent": "- 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,888,448",
+			"percent": "+ 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-14 13:00:08",
+		"unix": 1665745208171
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.1m",
+		"exact": "15,134,844"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 83.6k",
+			"exact": "- 83,608",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,206,223",
+			"percent": "+ 52%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.4m",
+			"exact": "- 1,360,472",
+			"percent": "- 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.0m",
+			"exact": "+ 3,982,299",
+			"percent": "+ 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-15 13:00:08",
+		"unix": 1665831608403
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.3m",
+		"exact": "15,266,629"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "131.8k",
+			"exact": "+ 131,785",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,900,030",
+			"percent": "+ 47%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,140,756",
+			"percent": "- 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,405,310",
+			"percent": "+ 40%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-16 13:00:08",
+		"unix": 1665918008733
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.3m",
+		"exact": "15,266,629"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "131.8k",
+			"exact": "+ 131,785",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,900,030",
+			"percent": "+ 47%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,140,756",
+			"percent": "- 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,405,310",
+			"percent": "+ 40%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-17 13:00:08",
+		"unix": 1666004408162
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "15.8m",
+		"exact": "15,823,399"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,421,976",
+			"percent": "+ 38%"
+		},
+		"quarterlyChange": {
+			"rough": "- 52.6k",
+			"exact": "- 52,634",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.0m",
+			"exact": "+ 5,011,702",
+			"percent": "+ 46%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-18 13:00:09",
+		"unix": 1666090809309
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "16.5m",
+		"exact": "16,454,001"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "630.6k",
+			"exact": "+ 630,602",
+			"percent": "+ 3%"
+		},
+		"montlyChange": {
+			"rough": "5.1m",
+			"exact": "+ 5,052,578",
+			"percent": "+ 44%"
+		},
+		"quarterlyChange": {
+			"rough": "578.0k",
+			"exact": "+ 577,968",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,642,304",
+			"percent": "+ 52%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-19 13:00:08",
+		"unix": 1666177208521
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.0m",
+		"exact": "16,973,050"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "422.6k",
+			"exact": "+ 422,601",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "5.1m",
+			"exact": "+ 5,125,297",
+			"percent": "+ 43%"
+		},
+		"quarterlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,199,476",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.1m",
+			"exact": "+ 6,087,535",
+			"percent": "+ 55%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-20 13:00:10",
+		"unix": 1666263610229
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.0m",
+		"exact": "16,973,050"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "422.6k",
+			"exact": "+ 422,601",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "5.1m",
+			"exact": "+ 5,125,297",
+			"percent": "+ 43%"
+		},
+		"quarterlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,199,476",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.1m",
+			"exact": "+ 6,087,535",
+			"percent": "+ 55%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-21 13:00:08",
+		"unix": 1666350008298
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "18.2m",
+		"exact": "18,167,473"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "705.9k",
+			"exact": "+ 705,853",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "5.9m",
+			"exact": "+ 5,896,670",
+			"percent": "+ 48%"
+		},
+		"quarterlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,879,623",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.0m",
+			"exact": "+ 6,974,336",
+			"percent": "+ 62%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-22 13:00:09",
+		"unix": 1666436409674
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "18.9m",
+		"exact": "18,924,861"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "757.4k",
+			"exact": "+ 757,388",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "6.4m",
+			"exact": "+ 6,407,000",
+			"percent": "+ 51%"
+		},
+		"quarterlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,984,318",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.9m",
+			"exact": "+ 7,850,954",
+			"percent": "+ 70%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-23 13:00:07",
+		"unix": 1666522807484
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "18.9m",
+		"exact": "18,924,861"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "757.4k",
+			"exact": "+ 757,388",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "6.4m",
+			"exact": "+ 6,407,000",
+			"percent": "+ 51%"
+		},
+		"quarterlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,984,318",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.9m",
+			"exact": "+ 7,850,954",
+			"percent": "+ 70%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-24 13:00:08",
+		"unix": 1666609208704
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.2m",
+		"exact": "19,202,186"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.9m",
+			"exact": "+ 6,883,589",
+			"percent": "+ 55%"
+		},
+		"quarterlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,939,291",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.1m",
+			"exact": "+ 8,145,452",
+			"percent": "+ 73%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-25 13:00:07",
+		"unix": 1666695607341
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "18.4m",
+		"exact": "18,445,396"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 120.9k",
+			"exact": "- 120,862",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,193,606",
+			"percent": "+ 50%"
+		},
+		"quarterlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,050,076",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.2m",
+			"exact": "+ 7,237,402",
+			"percent": "+ 64%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-26 13:00:07",
+		"unix": 1666782007420
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "18.4m",
+		"exact": "18,445,396"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.3m",
+			"exact": "+ 6,259,483",
+			"percent": "+ 51%"
+		},
+		"quarterlyChange": {
+			"rough": "886.3k",
+			"exact": "+ 886,279",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.1m",
+			"exact": "+ 7,055,374",
+			"percent": "+ 61%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-27 13:00:08",
+		"unix": 1666868408742
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.8m",
+		"exact": "17,835,866"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 438.1k",
+			"exact": "- 438,100",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "5.8m",
+			"exact": "+ 5,823,097",
+			"percent": "+ 48%"
+		},
+		"quarterlyChange": {
+			"rough": "126.9k",
+			"exact": "+ 126,940",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.5m",
+			"exact": "+ 6,528,779",
+			"percent": "+ 57%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-28 13:00:09",
+		"unix": 1666954809923
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "18.3m",
+		"exact": "18,332,815"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "496.9k",
+			"exact": "+ 496,949",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "6.5m",
+			"exact": "+ 6,522,719",
+			"percent": "+ 55%"
+		},
+		"quarterlyChange": {
+			"rough": "478.7k",
+			"exact": "+ 478,711",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.0m",
+			"exact": "+ 7,029,316",
+			"percent": "+ 62%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-29 13:00:08",
+		"unix": 1667041208621
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.5m",
+		"exact": "17,473,503"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 859.3k",
+			"exact": "- 859,312",
+			"percent": "- 4%"
+		},
+		"montlyChange": {
+			"rough": "5.4m",
+			"exact": "+ 5,364,638",
+			"percent": "+ 44%"
+		},
+		"quarterlyChange": {
+			"rough": "30.5k",
+			"exact": "+ 30,475",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,220,368",
+			"percent": "+ 55%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-30 13:00:08",
+		"unix": 1667131208211
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.5m",
+		"exact": "17,473,503"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 859.3k",
+			"exact": "- 859,312",
+			"percent": "- 4%"
+		},
+		"montlyChange": {
+			"rough": "5.4m",
+			"exact": "+ 5,364,638",
+			"percent": "+ 44%"
+		},
+		"quarterlyChange": {
+			"rough": "30.5k",
+			"exact": "+ 30,475",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,220,368",
+			"percent": "+ 55%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-31 13:00:08",
+		"unix": 1667217608027
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.8m",
+		"exact": "17,837,702"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "803.8k",
+			"exact": "+ 803,813",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,579,594",
+			"percent": "+ 45%"
+		},
+		"quarterlyChange": {
+			"rough": "375.2k",
+			"exact": "+ 375,221",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.8m",
+			"exact": "+ 6,848,686",
+			"percent": "+ 62%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-01 13:00:07",
+		"unix": 1667304007242
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.6m",
+		"exact": "17,623,333"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 214.4k",
+			"exact": "- 214,369",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,815,637",
+			"percent": "+ 37%"
+		},
+		"quarterlyChange": {
+			"rough": "- 449.3k",
+			"exact": "- 449,316",
+			"percent": "- 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.7m",
+			"exact": "+ 6,734,550",
+			"percent": "+ 61%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-02 13:00:07",
+		"unix": 1667390407262
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "17.6m",
+		"exact": "17,571,522"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 51.8k",
+			"exact": "- 51,811",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.3m",
+			"exact": "+ 4,300,339",
+			"percent": "+ 32%"
+		},
+		"quarterlyChange": {
+			"rough": "- 758.8k",
+			"exact": "- 758,849",
+			"percent": "- 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.6m",
+			"exact": "+ 6,558,425",
+			"percent": "+ 59%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-03 13:00:08",
+		"unix": 1667476808293
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "18.3m",
+		"exact": "18,309,799"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "738.3k",
+			"exact": "+ 738,277",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,660,132",
+			"percent": "+ 34%"
+		},
+		"quarterlyChange": {
+			"rough": "- 403.4k",
+			"exact": "- 403,352",
+			"percent": "- 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.4m",
+			"exact": "+ 7,358,121",
+			"percent": "+ 67%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-04 13:00:08",
+		"unix": 1667563208743
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "18.3m",
+		"exact": "18,309,799"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "738.3k",
+			"exact": "+ 738,277",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,660,132",
+			"percent": "+ 34%"
+		},
+		"quarterlyChange": {
+			"rough": "- 403.4k",
+			"exact": "- 403,352",
+			"percent": "- 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.4m",
+			"exact": "+ 7,358,121",
+			"percent": "+ 67%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-05 13:00:09",
+		"unix": 1667649609448
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.1m",
+		"exact": "19,101,013"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 4,656",
+			"exact": "- 4,656",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,427,725",
+			"percent": "+ 30%"
+		},
+		"quarterlyChange": {
+			"rough": "615.7k",
+			"exact": "+ 615,718",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.3m",
+			"exact": "+ 8,317,095",
+			"percent": "+ 77%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-06 13:00:07",
+		"unix": 1667736007363
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.5m",
+		"exact": "19,480,253"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "379.2k",
+			"exact": "+ 379,240",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,660,244",
+			"percent": "+ 31%"
+		},
+		"quarterlyChange": {
+			"rough": "952.1k",
+			"exact": "+ 952,101",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.7m",
+			"exact": "+ 8,667,969",
+			"percent": "+ 80%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-07 13:00:09",
+		"unix": 1667822409647
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.5m",
+		"exact": "19,480,253"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,752,567",
+			"percent": "+ 32%"
+		},
+		"quarterlyChange": {
+			"rough": "832.6k",
+			"exact": "+ 832,578",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.8m",
+			"exact": "+ 8,754,968",
+			"percent": "+ 81%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-08 13:00:08",
+		"unix": 1667908808341
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.4m",
+		"exact": "19,440,973"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "13.1k",
+			"exact": "+ 13,074",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,901,757",
+			"percent": "+ 33%"
+		},
+		"quarterlyChange": {
+			"rough": "188.4k",
+			"exact": "+ 188,354",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.7m",
+			"exact": "+ 8,686,350",
+			"percent": "+ 80%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-09 13:00:08",
+		"unix": 1667995208874
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.4m",
+		"exact": "19,440,973"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,616,799",
+			"percent": "+ 31%"
+		},
+		"quarterlyChange": {
+			"rough": "22.2k",
+			"exact": "+ 22,229",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.2m",
+			"exact": "+ 8,211,971",
+			"percent": "+ 73%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-10 13:00:08",
+		"unix": 1668081608944
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "18.9m",
+		"exact": "18,886,161"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 260.6k",
+			"exact": "- 260,594",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "4.0m",
+			"exact": "+ 4,007,087",
+			"percent": "+ 26%"
+		},
+		"quarterlyChange": {
+			"rough": "- 354.9k",
+			"exact": "- 354,858",
+			"percent": "- 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.1m",
+			"exact": "+ 7,095,708",
+			"percent": "+ 60%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-11 13:00:08",
+		"unix": 1668168008412
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "18.9m",
+		"exact": "18,886,161"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 260.6k",
+			"exact": "- 260,594",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "4.0m",
+			"exact": "+ 4,007,087",
+			"percent": "+ 26%"
+		},
+		"quarterlyChange": {
+			"rough": "- 354.9k",
+			"exact": "- 354,858",
+			"percent": "- 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.1m",
+			"exact": "+ 7,095,708",
+			"percent": "+ 60%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-12 13:00:08",
+		"unix": 1668254408146
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "18.3m",
+		"exact": "18,326,144"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 138.2k",
+			"exact": "- 138,170",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,191,300",
+			"percent": "+ 21%"
+		},
+		"quarterlyChange": {
+			"rough": "- 400.2k",
+			"exact": "- 400,156",
+			"percent": "- 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,327,169",
+			"percent": "+ 40%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-13 13:00:07",
+		"unix": 1668340807683
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "18.5m",
+		"exact": "18,504,843"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "178.7k",
+			"exact": "+ 178,699",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,238,214",
+			"percent": "+ 21%"
+		},
+		"quarterlyChange": {
+			"rough": "122.5k",
+			"exact": "+ 122,523",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,855,919",
+			"percent": "+ 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-14 13:00:08",
+		"unix": 1668427208439
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.3m",
+		"exact": "19,320,307"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "815.5k",
+			"exact": "+ 815,464",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,496,908",
+			"percent": "+ 22%"
+		},
+		"quarterlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,668,975",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.0m",
+			"exact": "+ 4,988,936",
+			"percent": "+ 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-15 13:00:08",
+		"unix": 1668513608062
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.0m",
+		"exact": "18,970,335"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 350.0k",
+			"exact": "- 349,972",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,516,334",
+			"percent": "+ 15%"
+		},
+		"quarterlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,786,347",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.0m",
+			"exact": "+ 3,994,334",
+			"percent": "+ 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-16 13:00:08",
+		"unix": 1668600008719
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.0m",
+		"exact": "18,970,335"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,419,886",
+			"percent": "+ 14%"
+		},
+		"quarterlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,436,436",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.6m",
+			"exact": "+ 3,567,374",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-17 13:00:09",
+		"unix": 1668686409689
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.2m",
+		"exact": "19,210,161"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 127.0k",
+			"exact": "- 126,993",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,237,111",
+			"percent": "+ 13%"
+		},
+		"quarterlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 3,042,735",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,506,730",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-18 13:00:08",
+		"unix": 1668772808074
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.2m",
+		"exact": "19,222,476"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "12.3k",
+			"exact": "+ 12,315",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,760,856",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,747,217",
+			"percent": "+ 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,131,806",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-19 13:00:08",
+		"unix": 1668859208533
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.2m",
+		"exact": "19,222,476"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "12.3k",
+			"exact": "+ 12,315",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,760,856",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,747,217",
+			"percent": "+ 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,131,806",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-20 13:00:08",
+		"unix": 1668945608806
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.1m",
+		"exact": "19,148,366"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "24.1k",
+			"exact": "+ 24,050",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "223.5k",
+			"exact": "+ 223,505",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "4.3m",
+			"exact": "+ 4,317,115",
+			"percent": "+ 29%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,391,859",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-21 13:00:08",
+		"unix": 1669032008854
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.0m",
+		"exact": "18,978,393"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 170.0k",
+			"exact": "- 169,973",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 223.8k",
+			"exact": "- 223,793",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "4.3m",
+			"exact": "+ 4,332,415",
+			"percent": "+ 29%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,562,310",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-23 13:00:09",
+		"unix": 1669204809770
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.5m",
+		"exact": "19,469,611"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "350.0k",
+			"exact": "+ 349,982",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,024,215",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "6.3m",
+			"exact": "+ 6,250,998",
+			"percent": "+ 47%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,985,461",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-24 13:00:07",
+		"unix": 1669291207758
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.3m",
+		"exact": "19,330,857"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 138.8k",
+			"exact": "- 138,754",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,056,891",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "6.8m",
+			"exact": "+ 6,773,175",
+			"percent": "+ 53%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,760,476",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-25 13:00:08",
+		"unix": 1669377608534
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.3m",
+		"exact": "19,330,857"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 138.8k",
+			"exact": "- 138,754",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,056,891",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "6.8m",
+			"exact": "+ 6,773,175",
+			"percent": "+ 53%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,760,476",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-26 13:00:09",
+		"unix": 1669464009090
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "20.3m",
+		"exact": "20,291,321"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "575.3k",
+			"exact": "+ 575,314",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,958,506",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "9.0m",
+			"exact": "+ 8,958,014",
+			"percent": "+ 79%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,175,814",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-27 13:00:08",
+		"unix": 1669550408719
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "20.0m",
+		"exact": "19,953,038"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 338.3k",
+			"exact": "- 338,283",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,479,535",
+			"percent": "+ 14%"
+		},
+		"quarterlyChange": {
+			"rough": "9.2m",
+			"exact": "+ 9,186,397",
+			"percent": "+ 85%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,380,186",
+			"percent": "+ 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-28 13:00:08",
+		"unix": 1669636808348
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.7m",
+		"exact": "19,712,770"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 240.3k",
+			"exact": "- 240,268",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,678,881",
+			"percent": "+ 15%"
+		},
+		"quarterlyChange": {
+			"rough": "9.5m",
+			"exact": "+ 9,484,462",
+			"percent": "+ 92%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,270,204",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-29 13:00:08",
+		"unix": 1669723208788
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.7m",
+		"exact": "19,712,770"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 240.3k",
+			"exact": "- 240,268",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,678,881",
+			"percent": "+ 15%"
+		},
+		"quarterlyChange": {
+			"rough": "9.5m",
+			"exact": "+ 9,484,462",
+			"percent": "+ 92%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,270,204",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-30 13:00:09",
+		"unix": 1669809609028
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "19.9m",
+		"exact": "19,850,623"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,227,290",
+			"percent": "+ 12%"
+		},
+		"quarterlyChange": {
+			"rough": "10.3m",
+			"exact": "+ 10,330,672",
+			"percent": "+ 108%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,928,764",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-12-01 13:00:10",
+		"unix": 1669896010199
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "20.5m",
+		"exact": "20,543,260"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "513.7k",
+			"exact": "+ 513,696",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,971,738",
+			"percent": "+ 16%"
+		},
+		"quarterlyChange": {
+			"rough": "10.9m",
+			"exact": "+ 10,907,037",
+			"percent": "+ 113%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.6m",
+			"exact": "+ 3,563,334",
+			"percent": "+ 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-12-02 13:00:07",
+		"unix": 1669982407414
+	},
+	"itemName": "Ancestral hat",
+	"currentPrice": {
+		"rough": "21.2m",
+		"exact": "21,218,589"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "675.3k",
+			"exact": "+ 675,329",
+			"percent": "+ 3%"
+		},
+		"montlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,908,790",
+			"percent": "+ 15%"
+		},
+		"quarterlyChange": {
+			"rough": "11.7m",
+			"exact": "+ 11,723,246",
+			"percent": "+ 123%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,550,549",
+			"percent": "+ 27%"
+		}
+	}
+},

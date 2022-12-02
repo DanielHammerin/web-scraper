@@ -1,0 +1,6435 @@
+{
+	"date": {
+		"dateString": "2022-04-25 14:34:29",
+		"unix": 1650890069155
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.6m",
+		"exact": "25,561,605"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 197.0k",
+			"exact": "- 197,043",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "766.6k",
+			"exact": "+ 766,610",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,795,980",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,449,576",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-27 08:20:13",
+		"unix": 1651040413763
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.5m",
+		"exact": "25,521,285"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 40.3k",
+			"exact": "- 40,320",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "625.9k",
+			"exact": "+ 625,921",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,780,515",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,927,971",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-28 20:52:19",
+		"unix": 1651171939812
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.4m",
+		"exact": "25,433,692"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 190.2k",
+			"exact": "- 190,219",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "457.6k",
+			"exact": "+ 457,587",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,815,170",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,171,164",
+			"percent": "+ 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-29 17:30:40",
+		"unix": 1651246240576
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.8m",
+		"exact": "25,832,585"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "398.9k",
+			"exact": "+ 398,893",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "833.5k",
+			"exact": "+ 833,463",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,282,397",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,750,443",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-30 12:07:47",
+		"unix": 1651313267808
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.8m",
+		"exact": "25,832,585"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "398.9k",
+			"exact": "+ 398,893",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "833.5k",
+			"exact": "+ 833,463",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,282,397",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,750,443",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-02 08:13:08",
+		"unix": 1651471988113
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.2m",
+		"exact": "26,244,303"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 286.7k",
+			"exact": "- 286,743",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "627.7k",
+			"exact": "+ 627,748",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,625,667",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,763,628",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-05 11:05:43",
+		"unix": 1651741543952
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.4m",
+		"exact": "26,396,842"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "156.8k",
+			"exact": "+ 156,763",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "885.7k",
+			"exact": "+ 885,679",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,675,589",
+			"percent": "+ 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,295,803",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-06 15:57:29",
+		"unix": 1651845449835
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.4m",
+		"exact": "26,359,296"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 374.4k",
+			"exact": "- 374,445",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "925.6k",
+			"exact": "+ 925,614",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,091,014",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,094,235",
+			"percent": "+ 4%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-08 10:09:56",
+		"unix": 1651997396883
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.3m",
+		"exact": "26,343,155"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "17.1k",
+			"exact": "+ 17,100",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "779.4k",
+			"exact": "+ 779,382",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,275,557",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,304,395",
+			"percent": "+ 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-09 19:01:19",
+		"unix": 1652115679635
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.1m",
+		"exact": "26,144,368"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 198.8k",
+			"exact": "- 198,787",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "468.9k",
+			"exact": "+ 468,864",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,914,003",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,429,327",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-10 14:06:12",
+		"unix": 1652184372925
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.1m",
+		"exact": "26,144,368"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 198.8k",
+			"exact": "- 198,787",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "468.9k",
+			"exact": "+ 468,864",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,914,003",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,429,327",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-11 13:41:32",
+		"unix": 1652269292736
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.8m",
+		"exact": "25,836,158"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 79.9k",
+			"exact": "- 79,886",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "81.3k",
+			"exact": "+ 81,347",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,268,287",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,966,073",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-12 13:07:18",
+		"unix": 1652353638214
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.8m",
+		"exact": "25,804,766"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 31.4k",
+			"exact": "- 31,392",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "210.0k",
+			"exact": "+ 210,039",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,206,145",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,986,936",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-13 14:07:42",
+		"unix": 1652443662051
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.7m",
+		"exact": "25,680,399"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 124.4k",
+			"exact": "- 124,367",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "183.3k",
+			"exact": "+ 183,272",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,913,461",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.0m",
+			"exact": "+ 2,028,734",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-14 16:34:40",
+		"unix": 1652538880243
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.7m",
+		"exact": "25,680,399"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 124.4k",
+			"exact": "- 124,367",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "183.3k",
+			"exact": "+ 183,272",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,913,461",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.0m",
+			"exact": "+ 2,028,734",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-15 19:16:38",
+		"unix": 1652634998749
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.6m",
+		"exact": "25,635,935"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 149.1k",
+			"exact": "- 149,064",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 487.1k",
+			"exact": "- 487,122",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,929,638",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,693,249",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-16 23:21:10",
+		"unix": 1652736070373
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.7m",
+		"exact": "25,709,706"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "73.8k",
+			"exact": "+ 73,771",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 463.2k",
+			"exact": "- 463,189",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,796,610",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,810,862",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-17 15:38:08",
+		"unix": 1652794688013
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.7m",
+		"exact": "25,709,706"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "73.8k",
+			"exact": "+ 73,771",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 463.2k",
+			"exact": "- 463,189",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,796,610",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,810,862",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-18 16:34:58",
+		"unix": 1652884498974
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.8m",
+		"exact": "25,780,795"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "119.6k",
+			"exact": "+ 119,639",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 519.5k",
+			"exact": "- 519,463",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,885,118",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,904,904",
+			"percent": "+ 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-19 23:58:01",
+		"unix": 1652997481480
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.9m",
+		"exact": "25,873,444"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "92.6k",
+			"exact": "+ 92,649",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 323.8k",
+			"exact": "- 323,822",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,928,143",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.0m",
+			"exact": "+ 2,049,732",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-20 13:32:02",
+		"unix": 1653046322130
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.9m",
+		"exact": "25,873,444"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "92.6k",
+			"exact": "+ 92,649",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 323.8k",
+			"exact": "- 323,822",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,928,143",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.0m",
+			"exact": "+ 2,049,732",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-21 10:37:16",
+		"unix": 1653122236662
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.2m",
+		"exact": "26,197,975"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "415.9k",
+			"exact": "+ 415,893",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "415.1k",
+			"exact": "+ 415,068",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,254,920",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,608,738",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-23 16:04:22",
+		"unix": 1653314662582
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.1m",
+		"exact": "26,118,182"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 79.8k",
+			"exact": "- 79,793",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "332.5k",
+			"exact": "+ 332,482",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,171,338",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,362,159",
+			"percent": "+ 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-24 17:12:18",
+		"unix": 1653405138964
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.4m",
+		"exact": "26,371,975"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "253.8k",
+			"exact": "+ 253,793",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "613.3k",
+			"exact": "+ 613,327",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,470,725",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,583,561",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-25 17:02:26",
+		"unix": 1653490946726
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.8m",
+		"exact": "25,837,801"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 98.4k",
+			"exact": "- 98,379",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "316.5k",
+			"exact": "+ 316,516",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,705,911",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,996,947",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-26 18:15:19",
+		"unix": 1653581719593
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.8m",
+		"exact": "25,813,413"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 24.4k",
+			"exact": "- 24,388",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "189.5k",
+			"exact": "+ 189,502",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,616,755",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,998,261",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-27 17:10:01",
+		"unix": 1653664201500
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "25.8m",
+		"exact": "25,813,413"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 24.4k",
+			"exact": "- 24,388",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "189.5k",
+			"exact": "+ 189,502",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,616,755",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,998,261",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-28 21:18:21",
+		"unix": 1653765501325
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.2m",
+		"exact": "26,198,529"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "244.5k",
+			"exact": "+ 244,511",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "365.9k",
+			"exact": "+ 365,944",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,841,366",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,941,755",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-29 21:39:13",
+		"unix": 1653853153787
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.6m",
+		"exact": "26,561,686"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "363.2k",
+			"exact": "+ 363,157",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "104.4k",
+			"exact": "+ 104,444",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,056,536",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,507,210",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-30 18:12:38",
+		"unix": 1653927158237
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.8m",
+		"exact": "26,846,900"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "285.2k",
+			"exact": "+ 285,214",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "315.9k",
+			"exact": "+ 315,854",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,163,072",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,873,266",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-31 13:37:42",
+		"unix": 1653997062248
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.8m",
+		"exact": "26,846,900"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "602.6k",
+			"exact": "+ 602,597",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,218,725",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,981,497",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-01 22:39:30",
+		"unix": 1654115970124
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.9m",
+		"exact": "26,913,605"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 212.9k",
+			"exact": "- 212,913",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "673.5k",
+			"exact": "+ 673,526",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 2,010,579",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.0m",
+			"exact": "+ 3,003,734",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-02 20:53:12",
+		"unix": 1654195992624
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.9m",
+		"exact": "26,855,719"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 57.9k",
+			"exact": "- 57,886",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "458.9k",
+			"exact": "+ 458,877",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,634,361",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,939,152",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-05 20:17:00",
+		"unix": 1654453020534
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.8m",
+		"exact": "27,820,573"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 113.0k",
+			"exact": "- 113,043",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,494,518",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,671,838",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,591,209",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-07 14:43:09",
+		"unix": 1654605789280
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.6m",
+		"exact": "27,638,928"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 413.9k",
+			"exact": "- 413,940",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,494,560",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,542,301",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,409,749",
+			"percent": "+ 5%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-08 16:52:46",
+		"unix": 1654699966914
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.4m",
+		"exact": "27,415,755"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 223.2k",
+			"exact": "- 223,173",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,499,711",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,319,128",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 108.9k",
+			"exact": "- 108,913",
+			"percent": "+ 0%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-09 13:03:48",
+		"unix": 1654772628173
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.3m",
+		"exact": "27,268,564"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 147.2k",
+			"exact": "- 147,191",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,432,406",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,731,614",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 421.7k",
+			"exact": "- 421,712",
+			"percent": "- 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-10 15:51:57",
+		"unix": 1654869117534
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.3m",
+		"exact": "27,268,564"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 147.2k",
+			"exact": "- 147,191",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,432,406",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,731,614",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 421.7k",
+			"exact": "- 421,712",
+			"percent": "- 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-11 15:35:06",
+		"unix": 1654954506334
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.4m",
+		"exact": "27,390,185"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "19.5k",
+			"exact": "+ 19,523",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,709,786",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,976,150",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "313.1k",
+			"exact": "+ 313,129",
+			"percent": "+ 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-13 08:58:36",
+		"unix": 1655103516236
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.3m",
+		"exact": "27,285,138"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 148.9k",
+			"exact": "- 148,859",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,649,203",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,279,704",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,292,054",
+			"percent": "+ 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-13 17:25:12",
+		"unix": 1655133912628
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.3m",
+		"exact": "27,285,138"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 148.9k",
+			"exact": "- 148,859",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,649,203",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,279,704",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,292,054",
+			"percent": "+ 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-14 14:23:04",
+		"unix": 1655209384468
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.3m",
+		"exact": "27,285,138"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 148.9k",
+			"exact": "- 148,859",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,649,203",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,279,704",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,292,054",
+			"percent": "+ 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-15 16:15:39",
+		"unix": 1655302539972
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.0m",
+		"exact": "26,971,715"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 87.3k",
+			"exact": "- 87,299",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,310,559",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,465,982",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,185,490",
+			"percent": "+ 4%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-16 23:31:50",
+		"unix": 1655415110376
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.0m",
+		"exact": "26,978,562"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "6,847",
+			"exact": "+ 6,847",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,197,767",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,539,982",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,321,306",
+			"percent": "+ 5%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-17 20:10:07",
+		"unix": 1655489407467
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.0m",
+		"exact": "27,010,397"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "31.8k",
+			"exact": "+ 31,835",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,136,953",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,528,514",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,640,060",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-18 11:37:36",
+		"unix": 1655545056169
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.0m",
+		"exact": "27,010,397"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "31.8k",
+			"exact": "+ 31,835",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,136,953",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,528,514",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,640,060",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-19 00:09:24",
+		"unix": 1655590164920
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.1m",
+		"exact": "27,062,285"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "51.9k",
+			"exact": "+ 51,888",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,280,203",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,349,416",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,303,800",
+			"percent": "+ 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-19 22:43:19",
+		"unix": 1655671399778
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.2m",
+		"exact": "27,171,855"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "109.6k",
+			"exact": "+ 109,570",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "973.9k",
+			"exact": "+ 973,880",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,311,762",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,742,952",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-21 12:56:02",
+		"unix": 1655808962179
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.8m",
+		"exact": "26,849,802"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 99.9k",
+			"exact": "- 99,907",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "477.8k",
+			"exact": "+ 477,827",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,316,561",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.0m",
+			"exact": "+ 3,975,428",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-22 09:34:58",
+		"unix": 1655883298455
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.8m",
+		"exact": "26,849,802"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 99.9k",
+			"exact": "- 99,907",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "477.8k",
+			"exact": "+ 477,827",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,316,561",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.0m",
+			"exact": "+ 3,975,428",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-22 13:00:19",
+		"unix": 1655895619350
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.8m",
+		"exact": "26,849,802"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 99.9k",
+			"exact": "- 99,907",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "477.8k",
+			"exact": "+ 477,827",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,316,561",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.0m",
+			"exact": "+ 3,975,428",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-23 13:00:17",
+		"unix": 1655982017093
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.9m",
+		"exact": "26,942,733"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "92.9k",
+			"exact": "+ 92,931",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,006,553",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,401,073",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,425,761",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-24 13:00:16",
+		"unix": 1656068416194
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.0m",
+		"exact": "26,973,253"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 25.4k",
+			"exact": "- 25,420",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,159,840",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,178,258",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,156,876",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-25 13:00:17",
+		"unix": 1656154817055
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.0m",
+		"exact": "26,969,116"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 4,137",
+			"exact": "- 4,137",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,015,098",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,073,752",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,143,385",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-26 13:00:16",
+		"unix": 1656241216344
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.1m",
+		"exact": "27,076,566"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "107.5k",
+			"exact": "+ 107,450",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "878.0k",
+			"exact": "+ 878,037",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,075,704",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,471,311",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-27 13:00:19",
+		"unix": 1656327619524
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.0m",
+		"exact": "27,016,475"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 60.1k",
+			"exact": "- 60,091",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "454.8k",
+			"exact": "+ 454,789",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 2,040,370",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,548,925",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-28 13:00:16",
+		"unix": 1656414016858
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.0m",
+		"exact": "27,016,475"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 60.1k",
+			"exact": "- 60,091",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "454.8k",
+			"exact": "+ 454,789",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 2,040,370",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,548,925",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-29 13:00:18",
+		"unix": 1656500418012
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.4m",
+		"exact": "27,356,081"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "229.6k",
+			"exact": "+ 229,563",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,272,947",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,773,567",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-30 13:00:17",
+		"unix": 1656586817819
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.0m",
+		"exact": "27,976,333"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "620.3k",
+			"exact": "+ 620,252",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "849.8k",
+			"exact": "+ 849,815",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,893,199",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.4m",
+			"exact": "+ 5,393,819",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-01 13:00:18",
+		"unix": 1656673218030
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.9m",
+		"exact": "27,943,665"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 32.7k",
+			"exact": "- 32,668",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,030,060",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,532,106",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,288,238",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-02 13:00:15",
+		"unix": 1656759615457
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.0m",
+		"exact": "27,981,279"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "37.6k",
+			"exact": "+ 37,614",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,125,560",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,364,724",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,177,175",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-03 13:00:15",
+		"unix": 1656846015164
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.4m",
+		"exact": "28,407,590"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 143.3k",
+			"exact": "- 143,328",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "474.0k",
+			"exact": "+ 473,974",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,896,427",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.7m",
+			"exact": "+ 6,693,089",
+			"percent": "+ 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-04 13:00:16",
+		"unix": 1656932416389
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.4m",
+		"exact": "28,400,268"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 7,322",
+			"exact": "- 7,322",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "579.7k",
+			"exact": "+ 579,695",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 3,029,523",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.8m",
+			"exact": "+ 7,771,154",
+			"percent": "+ 37%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-05 13:00:15",
+		"unix": 1657018815472
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.5m",
+		"exact": "28,527,495"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "127.2k",
+			"exact": "+ 127,227",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "474.6k",
+			"exact": "+ 474,627",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,093,813",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.6m",
+			"exact": "+ 8,619,006",
+			"percent": "+ 43%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-06 13:00:14",
+		"unix": 1657105214772
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "29.5m",
+		"exact": "29,496,362"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "968.9k",
+			"exact": "+ 968,867",
+			"percent": "+ 3%"
+		},
+		"montlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,857,434",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "4.1m",
+			"exact": "+ 4,068,288",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.3m",
+			"exact": "+ 9,344,505",
+			"percent": "+ 46%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-07 13:00:14",
+		"unix": 1657191614492
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "29.6m",
+		"exact": "29,640,034"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "143.7k",
+			"exact": "+ 143,672",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,224,279",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "4.1m",
+			"exact": "+ 4,076,261",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.5m",
+			"exact": "+ 9,513,740",
+			"percent": "+ 47%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-08 13:00:15",
+		"unix": 1657278015962
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "29.6m",
+		"exact": "29,640,034"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "143.7k",
+			"exact": "+ 143,672",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,224,279",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "4.1m",
+			"exact": "+ 4,076,261",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.5m",
+			"exact": "+ 9,513,740",
+			"percent": "+ 47%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-09 13:00:15",
+		"unix": 1657364415796
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "30.5m",
+		"exact": "30,502,748"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "535.1k",
+			"exact": "+ 535,065",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,132,086",
+			"percent": "+ 11%"
+		},
+		"quarterlyChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,894,715",
+			"percent": "+ 19%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.6m",
+			"exact": "+ 10,614,379",
+			"percent": "+ 53%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-10 13:00:18",
+		"unix": 1657450818285
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "30.7m",
+		"exact": "30,725,244"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "222.5k",
+			"exact": "+ 222,496",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,335,059",
+			"percent": "+ 12%"
+		},
+		"quarterlyChange": {
+			"rough": "5.0m",
+			"exact": "+ 4,970,433",
+			"percent": "+ 19%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.8m",
+			"exact": "+ 10,784,319",
+			"percent": "+ 54%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-11 13:00:15",
+		"unix": 1657537215659
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "30.4m",
+		"exact": "30,433,479"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 291.8k",
+			"exact": "- 291,765",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,999,482",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,838,752",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.5m",
+			"exact": "+ 10,533,581",
+			"percent": "+ 52%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-12 13:00:15",
+		"unix": 1657623615487
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "30.4m",
+		"exact": "30,433,479"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 291.8k",
+			"exact": "- 291,765",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,999,482",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,838,752",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.5m",
+			"exact": "+ 10,533,581",
+			"percent": "+ 52%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-13 13:00:15",
+		"unix": 1657710015509
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "29.8m",
+		"exact": "29,797,140"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 317.9k",
+			"exact": "- 317,880",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,738,126",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "4.2m",
+			"exact": "+ 4,185,987",
+			"percent": "+ 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.9m",
+			"exact": "+ 9,903,937",
+			"percent": "+ 49%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-14 13:00:15",
+		"unix": 1657796415690
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.6m",
+		"exact": "28,583,791"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,213,349",
+			"percent": "- 4%"
+		},
+		"montlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,612,076",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,460,734",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.5m",
+			"exact": "+ 8,498,801",
+			"percent": "+ 42%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-15 13:00:17",
+		"unix": 1657882817683
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.0m",
+		"exact": "27,987,792"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 596.0k",
+			"exact": "- 595,999",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,009,230",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,814,897",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.8m",
+			"exact": "+ 7,811,215",
+			"percent": "+ 38%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-16 13:00:18",
+		"unix": 1657969218635
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.0m",
+		"exact": "27,987,792"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 596.0k",
+			"exact": "- 595,999",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,009,230",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,814,897",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.8m",
+			"exact": "+ 7,811,215",
+			"percent": "+ 38%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-17 13:00:17",
+		"unix": 1658055617490
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.1m",
+		"exact": "27,064,844"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 922.9k",
+			"exact": "- 922,948",
+			"percent": "- 3%"
+		},
+		"montlyChange": {
+			"rough": "54.4k",
+			"exact": "+ 54,447",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "857.4k",
+			"exact": "+ 857,371",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.4m",
+			"exact": "+ 6,408,815",
+			"percent": "+ 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-18 13:00:17",
+		"unix": 1658142017181
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.4m",
+		"exact": "27,422,022"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "357.2k",
+			"exact": "+ 357,178",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "359.7k",
+			"exact": "+ 359,737",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,121,764",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.0m",
+			"exact": "+ 6,975,921",
+			"percent": "+ 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-19 13:00:16",
+		"unix": 1658228416075
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.4m",
+		"exact": "28,396,387"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "655.2k",
+			"exact": "+ 655,162",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,446,678",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,391,542",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.0m",
+			"exact": "+ 7,971,521",
+			"percent": "+ 39%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-20 13:00:15",
+		"unix": 1658314815268
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.4m",
+		"exact": "28,396,387"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,546,585",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,613,480",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.6m",
+			"exact": "+ 7,588,079",
+			"percent": "+ 36%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-21 13:00:16",
+		"unix": 1658401216392
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.5m",
+		"exact": "28,517,570"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "121.2k",
+			"exact": "+ 121,183",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,667,768",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,734,663",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.7m",
+			"exact": "+ 7,709,262",
+			"percent": "+ 37%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-22 13:00:19",
+		"unix": 1658487619970
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.1m",
+		"exact": "28,119,085"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 54.8k",
+			"exact": "- 54,841",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,120,412",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,360,437",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.8m",
+			"exact": "+ 5,835,534",
+			"percent": "+ 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-23 13:00:16",
+		"unix": 1658574016115
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.8m",
+		"exact": "27,833,285"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 285.8k",
+			"exact": "- 285,800",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "860.0k",
+			"exact": "+ 860,032",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,271,680",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,636,048",
+			"percent": "+ 25%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-24 13:00:16",
+		"unix": 1658660416424
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.8m",
+		"exact": "27,833,285"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 285.8k",
+			"exact": "- 285,800",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "860.0k",
+			"exact": "+ 860,032",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,271,680",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,636,048",
+			"percent": "+ 25%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-25 13:00:15",
+		"unix": 1658746815923
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.0m",
+		"exact": "27,981,740"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "148.5k",
+			"exact": "+ 148,455",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,012,624",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,460,455",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,216,115",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-26 13:00:17",
+		"unix": 1658833217215
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.4m",
+		"exact": "28,407,841"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "72.7k",
+			"exact": "+ 72,654",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,391,366",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,974,149",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,298,952",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-27 13:00:17",
+		"unix": 1658919617268
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.3m",
+		"exact": "28,255,175"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 152.7k",
+			"exact": "- 152,666",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "899.1k",
+			"exact": "+ 899,094",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,422,590",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,636,653",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-28 13:00:17",
+		"unix": 1659006017326
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "28.7m",
+		"exact": "28,680,605"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "425.4k",
+			"exact": "+ 425,430",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "704.3k",
+			"exact": "+ 704,272",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,223,363",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.1m",
+			"exact": "+ 5,130,417",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-29 13:00:16",
+		"unix": 1659092416753
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "29.2m",
+		"exact": "29,184,074"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "503.5k",
+			"exact": "+ 503,469",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,240,409",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,653,028",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,578,372",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-30 13:00:20",
+		"unix": 1659178820894
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "29.2m",
+		"exact": "29,184,074"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "503.5k",
+			"exact": "+ 503,469",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,240,409",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,653,028",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,578,372",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-31 13:00:14",
+		"unix": 1659265214798
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "29.5m",
+		"exact": "29,454,346"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "270.3k",
+			"exact": "+ 270,272",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,473,067",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,210,043",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.9m",
+			"exact": "+ 5,900,656",
+			"percent": "+ 25%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-01 13:00:17",
+		"unix": 1659351617723
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "29.8m",
+		"exact": "29,816,668"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "362.3k",
+			"exact": "+ 362,322",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,265,750",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "3.6m",
+			"exact": "+ 3,576,589",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,198,032",
+			"percent": "+ 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-02 13:00:16",
+		"unix": 1659438016635
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "29.5m",
+		"exact": "29,534,247"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 282.4k",
+			"exact": "- 282,421",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,126,657",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,137,405",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.5m",
+			"exact": "+ 6,453,776",
+			"percent": "+ 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-03 13:00:15",
+		"unix": 1659524415652
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "31.0m",
+		"exact": "30,980,763"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "765.7k",
+			"exact": "+ 765,699",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,453,268",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,621,467",
+			"percent": "+ 17%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.0m",
+			"exact": "+ 7,955,519",
+			"percent": "+ 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-20 13:18:57",
+		"unix": 1660994337827
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.8m",
+		"exact": "26,771,241"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 271.0k",
+			"exact": "- 271,010",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 1.4m",
+			"exact": "- 1,402,685",
+			"percent": "- 4%"
+		},
+		"quarterlyChange": {
+			"rough": "653.1k",
+			"exact": "+ 653,059",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,828,186",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-21 13:00:17",
+		"unix": 1661079617397
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.7m",
+		"exact": "26,698,456"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 72.8k",
+			"exact": "- 72,785",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.4m",
+			"exact": "- 1,420,629",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "326.5k",
+			"exact": "+ 326,481",
+			"percent": "+ 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,751,612",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-22 13:00:17",
+		"unix": 1661166017820
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "27.1m",
+		"exact": "27,134,640"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "436.2k",
+			"exact": "+ 436,184",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 698.6k",
+			"exact": "- 698,645",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,198,460",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,233,390",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-23 13:00:16",
+		"unix": 1661252416922
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "26.8m",
+		"exact": "26,834,826"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 299.8k",
+			"exact": "- 299,814",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,146,914",
+			"percent": "- 4%"
+		},
+		"quarterlyChange": {
+			"rough": "997.0k",
+			"exact": "+ 997,025",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,752,336",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-24 13:00:16",
+		"unix": 1661338816230
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "24.9m",
+		"exact": "24,889,511"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.3m",
+			"exact": "- 1,281,023",
+			"percent": "- 4%"
+		},
+		"montlyChange": {
+			"rough": "- 3.5m",
+			"exact": "- 3,518,330",
+			"percent": "- 12%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,064,507",
+			"percent": "- 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "692.9k",
+			"exact": "+ 692,853",
+			"percent": "+ 2%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-25 13:00:18",
+		"unix": 1661425218003
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "24.9m",
+		"exact": "24,889,511"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.3m",
+			"exact": "- 1,281,023",
+			"percent": "- 4%"
+		},
+		"montlyChange": {
+			"rough": "- 3.5m",
+			"exact": "- 3,518,330",
+			"percent": "- 12%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,064,507",
+			"percent": "- 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "692.9k",
+			"exact": "+ 692,853",
+			"percent": "+ 2%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-26 13:00:16",
+		"unix": 1661511616296
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "23.6m",
+		"exact": "23,646,412"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 5.0m",
+			"exact": "- 5,034,193",
+			"percent": "- 17%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.9m",
+			"exact": "- 2,915,274",
+			"percent": "- 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 710.8k",
+			"exact": "- 710,751",
+			"percent": "- 2%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-27 13:00:14",
+		"unix": 1661598014795
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "21.3m",
+		"exact": "21,340,886"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,123,205",
+			"percent": "- 5%"
+		},
+		"montlyChange": {
+			"rough": "- 7.8m",
+			"exact": "- 7,843,188",
+			"percent": "- 26%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.5m",
+			"exact": "- 5,506,014",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.2m",
+			"exact": "- 3,164,264",
+			"percent": "- 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-28 13:00:16",
+		"unix": 1661684416209
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.4m",
+		"exact": "20,363,956"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 976.9k",
+			"exact": "- 976,930",
+			"percent": "- 4%"
+		},
+		"montlyChange": {
+			"rough": "- 9.1m",
+			"exact": "- 9,090,390",
+			"percent": "- 30%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.8m",
+			"exact": "- 6,762,562",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.3m",
+			"exact": "- 4,319,872",
+			"percent": "- 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-29 13:00:13",
+		"unix": 1661770813990
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.2m",
+		"exact": "20,208,898"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 155.1k",
+			"exact": "- 155,058",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 9.6m",
+			"exact": "- 9,607,770",
+			"percent": "- 32%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.7m",
+			"exact": "- 6,704,707",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.4m",
+			"exact": "- 4,419,277",
+			"percent": "- 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-30 13:00:15",
+		"unix": 1661857215429
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "19.9m",
+		"exact": "19,866,450"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 342.4k",
+			"exact": "- 342,448",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 9.7m",
+			"exact": "- 9,667,797",
+			"percent": "- 32%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.0m",
+			"exact": "- 6,989,269",
+			"percent": "- 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.0m",
+			"exact": "- 5,036,576",
+			"percent": "- 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-31 13:00:18",
+		"unix": 1661943618607
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "19.8m",
+		"exact": "19,790,280"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 76.2k",
+			"exact": "- 76,170",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 10.4m",
+			"exact": "- 10,424,784",
+			"percent": "- 34%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.3m",
+			"exact": "- 7,336,570",
+			"percent": "- 27%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.4m",
+			"exact": "- 5,431,078",
+			"percent": "- 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-01 13:00:17",
+		"unix": 1662030017859
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "19.8m",
+		"exact": "19,790,280"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 11.2m",
+			"exact": "- 11,190,483",
+			"percent": "- 36%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,143,336",
+			"percent": "- 29%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.7m",
+			"exact": "- 5,702,596",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-02 13:00:18",
+		"unix": 1662116418624
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.4m",
+		"exact": "20,363,471"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "144.1k",
+			"exact": "+ 144,081",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 9.5m",
+			"exact": "- 9,494,744",
+			"percent": "- 31%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.5m",
+			"exact": "- 7,457,102",
+			"percent": "- 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.4m",
+			"exact": "- 5,422,312",
+			"percent": "- 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-03 13:00:17",
+		"unix": 1662202817368
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.4m",
+		"exact": "20,363,471"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "144.1k",
+			"exact": "+ 144,081",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 9.5m",
+			"exact": "- 9,494,744",
+			"percent": "- 31%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.5m",
+			"exact": "- 7,457,102",
+			"percent": "- 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.4m",
+			"exact": "- 5,422,312",
+			"percent": "- 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-04 13:00:19",
+		"unix": 1662289219313
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "21.2m",
+		"exact": "21,191,020"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "827.5k",
+			"exact": "+ 827,549",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "- 8.3m",
+			"exact": "- 8,349,460",
+			"percent": "- 28%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.9m",
+			"exact": "- 6,861,848",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.0m",
+			"exact": "- 4,957,715",
+			"percent": "- 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-05 13:00:15",
+		"unix": 1662375615065
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.7m",
+		"exact": "20,687,422"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 8.9m",
+			"exact": "- 8,895,834",
+			"percent": "- 30%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.7m",
+			"exact": "- 6,728,333",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.4m",
+			"exact": "- 5,409,205",
+			"percent": "- 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-06 13:00:19",
+		"unix": 1662462019019
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.0m",
+		"exact": "20,028,272"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 195.4k",
+			"exact": "- 195,350",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 9.4m",
+			"exact": "- 9,377,437",
+			"percent": "- 31%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.2m",
+			"exact": "- 7,240,292",
+			"percent": "- 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 6.1m",
+			"exact": "- 6,068,355",
+			"percent": "- 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-07 13:00:18",
+		"unix": 1662548418754
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.0m",
+		"exact": "20,028,272"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 195.4k",
+			"exact": "- 195,350",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 9.4m",
+			"exact": "- 9,377,437",
+			"percent": "- 31%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.2m",
+			"exact": "- 7,240,292",
+			"percent": "- 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 6.1m",
+			"exact": "- 6,068,355",
+			"percent": "- 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-08 13:00:13",
+		"unix": 1662634813788
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "19.7m",
+		"exact": "19,726,560"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 9.6m",
+			"exact": "- 9,584,708",
+			"percent": "- 32%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.7m",
+			"exact": "- 7,663,625",
+			"percent": "- 27%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.8m",
+			"exact": "- 5,822,322",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-09 13:00:18",
+		"unix": 1662721218449
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "19.7m",
+		"exact": "19,693,551"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 172.8k",
+			"exact": "- 172,831",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 9.4m",
+			"exact": "- 9,419,072",
+			"percent": "- 32%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.7m",
+			"exact": "- 7,740,446",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.7m",
+			"exact": "- 5,720,484",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-10 13:00:17",
+		"unix": 1662807617068
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "19.7m",
+		"exact": "19,693,551"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 172.8k",
+			"exact": "- 172,831",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 9.4m",
+			"exact": "- 9,419,072",
+			"percent": "- 32%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.7m",
+			"exact": "- 7,740,446",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.7m",
+			"exact": "- 5,720,484",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-11 13:00:17",
+		"unix": 1662894017558
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "19.5m",
+		"exact": "19,463,308"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 230.2k",
+			"exact": "- 230,243",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 9.3m",
+			"exact": "- 9,284,731",
+			"percent": "- 32%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.8m",
+			"exact": "- 7,821,830",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.7m",
+			"exact": "- 5,689,757",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-12 13:00:18",
+		"unix": 1662980418519
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "19.2m",
+		"exact": "19,213,214"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 74.7k",
+			"exact": "- 74,689",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 9.3m",
+			"exact": "- 9,277,108",
+			"percent": "- 32%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.8m",
+			"exact": "- 7,758,501",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.6m",
+			"exact": "- 5,575,409",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-13 13:00:16",
+		"unix": 1663066816393
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "19.2m",
+		"exact": "19,213,214"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 74.7k",
+			"exact": "- 74,689",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 9.3m",
+			"exact": "- 9,277,108",
+			"percent": "- 32%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.8m",
+			"exact": "- 7,758,501",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.6m",
+			"exact": "- 5,575,409",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-14 13:00:18",
+		"unix": 1663153218217
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "19.4m",
+		"exact": "19,392,906"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "235.5k",
+			"exact": "+ 235,538",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 8.3m",
+			"exact": "- 8,328,810",
+			"percent": "- 30%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.6m",
+			"exact": "- 7,617,491",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.0m",
+			"exact": "- 5,045,674",
+			"percent": "- 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-15 13:00:16",
+		"unix": 1663239616332
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "19.7m",
+		"exact": "19,734,944"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "342.0k",
+			"exact": "+ 342,038",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 7.7m",
+			"exact": "- 7,727,463",
+			"percent": "- 28%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.3m",
+			"exact": "- 7,327,341",
+			"percent": "- 27%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.7m",
+			"exact": "- 4,746,939",
+			"percent": "- 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-16 13:00:17",
+		"unix": 1663326017598
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "19.7m",
+		"exact": "19,734,944"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "342.0k",
+			"exact": "+ 342,038",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 7.7m",
+			"exact": "- 7,727,463",
+			"percent": "- 28%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.3m",
+			"exact": "- 7,327,341",
+			"percent": "- 27%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.7m",
+			"exact": "- 4,746,939",
+			"percent": "- 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-17 13:00:17",
+		"unix": 1663412417295
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "19.4m",
+		"exact": "19,429,334"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 305.6k",
+			"exact": "- 305,610",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 7.6m",
+			"exact": "- 7,612,917",
+			"percent": "- 28%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.7m",
+			"exact": "- 7,742,521",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.3m",
+			"exact": "- 5,283,535",
+			"percent": "- 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-21 13:00:16",
+		"unix": 1663758016032
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "18.9m",
+		"exact": "18,871,670"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 7.3m",
+			"exact": "- 7,298,864",
+			"percent": "- 27%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,101,583",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 6.0m",
+			"exact": "- 5,999,509",
+			"percent": "- 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-21 14:21:36",
+		"unix": 1663762896099
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "18.9m",
+		"exact": "18,871,670"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 7.3m",
+			"exact": "- 7,298,864",
+			"percent": "- 27%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,101,583",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 6.0m",
+			"exact": "- 5,999,509",
+			"percent": "- 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-22 13:00:18",
+		"unix": 1663844418095
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "18.9m",
+		"exact": "18,876,781"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "5,111",
+			"exact": "+ 5,111",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 7.3m",
+			"exact": "- 7,293,753",
+			"percent": "- 27%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,096,472",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 6.0m",
+			"exact": "- 5,994,398",
+			"percent": "- 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-23 13:00:17",
+		"unix": 1663930817366
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "19.3m",
+		"exact": "19,265,777"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "389.0k",
+			"exact": "+ 388,996",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 5.6m",
+			"exact": "- 5,623,734",
+			"percent": "- 22%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.7m",
+			"exact": "- 7,703,339",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.5m",
+			"exact": "- 5,529,218",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-24 13:00:18",
+		"unix": 1664017218996
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.4m",
+		"exact": "20,391,597"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "457.7k",
+			"exact": "+ 457,703",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 2.1m",
+			"exact": "- 2,072,494",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.6m",
+			"exact": "- 6,624,878",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.6m",
+			"exact": "- 4,609,265",
+			"percent": "- 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-25 13:00:19",
+		"unix": 1664103619557
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.3m",
+		"exact": "20,336,024"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 55.6k",
+			"exact": "- 55,573",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.0m",
+			"exact": "- 1,004,862",
+			"percent": "- 4%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.0m",
+			"exact": "- 7,020,057",
+			"percent": "- 25%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.6m",
+			"exact": "- 4,640,081",
+			"percent": "- 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-26 13:00:17",
+		"unix": 1664190017356
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.3m",
+		"exact": "20,336,024"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 55.6k",
+			"exact": "- 55,573",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.0m",
+			"exact": "- 1,004,862",
+			"percent": "- 4%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.0m",
+			"exact": "- 7,020,057",
+			"percent": "- 25%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.6m",
+			"exact": "- 4,640,081",
+			"percent": "- 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-27 13:00:19",
+		"unix": 1664276419044
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.0m",
+		"exact": "20,000,265"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 335.8k",
+			"exact": "- 335,759",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 363.7k",
+			"exact": "- 363,691",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.0m",
+			"exact": "- 7,976,068",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.0m",
+			"exact": "- 4,998,857",
+			"percent": "- 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-28 13:00:18",
+		"unix": 1664362818516
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "19.9m",
+		"exact": "19,886,631"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "20.2k",
+			"exact": "+ 20,181",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,094,648",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.5m",
+			"exact": "- 5,524,928",
+			"percent": "- 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-29 13:00:17",
+		"unix": 1664449217157
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.2m",
+		"exact": "20,224,035"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "213.9k",
+			"exact": "+ 213,932",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "433.8k",
+			"exact": "+ 433,755",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.3m",
+			"exact": "- 8,326,883",
+			"percent": "- 29%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.4m",
+			"exact": "- 5,392,520",
+			"percent": "- 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-30 13:00:19",
+		"unix": 1664535619876
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.4m",
+		"exact": "20,375,051"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "151.0k",
+			"exact": "+ 151,016",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "155.7k",
+			"exact": "+ 155,661",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.0m",
+			"exact": "- 8,032,539",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.0m",
+			"exact": "- 5,029,014",
+			"percent": "- 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-01 13:00:20",
+		"unix": 1664622020020
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.3m",
+		"exact": "20,318,659"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 56.4k",
+			"exact": "- 56,392",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 44.8k",
+			"exact": "- 44,812",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,081,609",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.2m",
+			"exact": "- 5,192,504",
+			"percent": "- 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-02 13:00:20",
+		"unix": 1664708420045
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.3m",
+		"exact": "20,318,659"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 56.4k",
+			"exact": "- 56,392",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 44.8k",
+			"exact": "- 44,812",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,081,609",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.2m",
+			"exact": "- 5,192,504",
+			"percent": "- 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-03 13:00:19",
+		"unix": 1664794819395
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.4m",
+		"exact": "20,433,325"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 51.3k",
+			"exact": "- 51,304",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 254.1k",
+			"exact": "- 254,097",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.1m",
+			"exact": "- 9,063,037",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.0m",
+			"exact": "- 5,000,357",
+			"percent": "- 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-04 13:00:18",
+		"unix": 1664881218355
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.3m",
+		"exact": "20,309,740"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 123.6k",
+			"exact": "- 123,585",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "86.1k",
+			"exact": "+ 86,118",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.3m",
+			"exact": "- 9,330,294",
+			"percent": "- 31%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.1m",
+			"exact": "- 5,118,334",
+			"percent": "- 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-05 13:00:17",
+		"unix": 1664967617707
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.3m",
+		"exact": "20,309,740"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "281.5k",
+			"exact": "+ 281,468",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.7m",
+			"exact": "- 9,657,943",
+			"percent": "- 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.3m",
+			"exact": "- 5,254,033",
+			"percent": "- 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-06 13:00:18",
+		"unix": 1665054018525
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.7m",
+		"exact": "20,699,405"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "389.7k",
+			"exact": "+ 389,665",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "671.1k",
+			"exact": "+ 671,133",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.3m",
+			"exact": "- 9,268,278",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.9m",
+			"exact": "- 4,864,368",
+			"percent": "- 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-07 13:00:20",
+		"unix": 1665140420290
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.4m",
+		"exact": "20,371,483"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 254.3k",
+			"exact": "- 254,250",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "505.1k",
+			"exact": "+ 505,101",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 10.4m",
+			"exact": "- 10,353,761",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.2m",
+			"exact": "- 5,236,550",
+			"percent": "- 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-08 13:00:16",
+		"unix": 1665226816833
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.4m",
+		"exact": "20,371,483"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 254.3k",
+			"exact": "- 254,250",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "505.1k",
+			"exact": "+ 505,101",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 10.4m",
+			"exact": "- 10,353,761",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.2m",
+			"exact": "- 5,236,550",
+			"percent": "- 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-09 13:00:16",
+		"unix": 1665313216859
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.4m",
+		"exact": "20,369,099"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 2,384",
+			"exact": "- 2,384",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "675.5k",
+			"exact": "+ 675,548",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 10.1m",
+			"exact": "- 10,064,380",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.4m",
+			"exact": "- 5,385,712",
+			"percent": "- 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-10 13:00:17",
+		"unix": 1665399617799
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.4m",
+		"exact": "20,415,778"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,127,875",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 9.4m",
+			"exact": "- 9,381,362",
+			"percent": "- 31%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.1m",
+			"exact": "- 5,081,349",
+			"percent": "- 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-11 13:00:18",
+		"unix": 1665486018131
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.5m",
+		"exact": "20,488,788"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 220.4k",
+			"exact": "- 220,355",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,275,574",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.1m",
+			"exact": "- 8,095,003",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.1m",
+			"exact": "- 5,122,365",
+			"percent": "- 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-12 13:00:17",
+		"unix": 1665572417738
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.3m",
+		"exact": "20,301,884"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 186.9k",
+			"exact": "- 186,904",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,144,516",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.7m",
+			"exact": "- 7,685,908",
+			"percent": "- 27%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.8m",
+			"exact": "- 5,821,173",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-13 13:00:23",
+		"unix": 1665658823020
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.3m",
+		"exact": "20,301,884"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 186.9k",
+			"exact": "- 186,904",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,144,516",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.7m",
+			"exact": "- 7,685,908",
+			"percent": "- 27%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.8m",
+			"exact": "- 5,821,173",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-14 13:00:18",
+		"unix": 1665745218117
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.3m",
+		"exact": "20,348,632"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "307.8k",
+			"exact": "+ 307,829",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "613.7k",
+			"exact": "+ 613,688",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.1m",
+			"exact": "- 7,073,390",
+			"percent": "- 25%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.9m",
+			"exact": "- 5,858,841",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-15 13:00:18",
+		"unix": 1665831618439
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.6m",
+		"exact": "20,562,210"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "213.6k",
+			"exact": "+ 213,578",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,132,876",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.2m",
+			"exact": "- 7,179,015",
+			"percent": "- 25%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.7m",
+			"exact": "- 5,738,048",
+			"percent": "- 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-16 13:00:18",
+		"unix": 1665918018070
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "20.6m",
+		"exact": "20,562,210"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "213.6k",
+			"exact": "+ 213,578",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,132,876",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.2m",
+			"exact": "- 7,179,015",
+			"percent": "- 25%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 5.7m",
+			"exact": "- 5,738,048",
+			"percent": "- 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-17 13:00:15",
+		"unix": 1666004415855
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "21.2m",
+		"exact": "21,214,453"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,891,931",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.3m",
+			"exact": "- 7,303,117",
+			"percent": "- 25%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.8m",
+			"exact": "- 4,790,392",
+			"percent": "- 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-18 13:00:21",
+		"unix": 1666090821399
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "21.2m",
+		"exact": "21,189,525"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 24.9k",
+			"exact": "- 24,928",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,867,003",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.3m",
+			"exact": "- 7,328,045",
+			"percent": "- 25%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.8m",
+			"exact": "- 4,815,320",
+			"percent": "- 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-19 13:00:18",
+		"unix": 1666177218555
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "21.7m",
+		"exact": "21,653,499"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "102.5k",
+			"exact": "+ 102,537",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,781,829",
+			"percent": "+ 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.5m",
+			"exact": "- 6,465,586",
+			"percent": "- 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.1m",
+			"exact": "- 4,132,201",
+			"percent": "- 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-20 13:00:21",
+		"unix": 1666263621410
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "21.7m",
+		"exact": "21,653,499"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "102.5k",
+			"exact": "+ 102,537",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,781,829",
+			"percent": "+ 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.5m",
+			"exact": "- 6,465,586",
+			"percent": "- 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.1m",
+			"exact": "- 4,132,201",
+			"percent": "- 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-21 13:00:15",
+		"unix": 1666350015975
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "22.1m",
+		"exact": "22,146,658"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 33.4k",
+			"exact": "- 33,436",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,880,881",
+			"percent": "+ 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.8m",
+			"exact": "- 5,835,082",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.4m",
+			"exact": "- 3,414,947",
+			"percent": "- 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-22 13:00:19",
+		"unix": 1666436419305
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "22.1m",
+		"exact": "22,076,038"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 70.6k",
+			"exact": "- 70,620",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,142,144",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.3m",
+			"exact": "- 6,259,149",
+			"percent": "- 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.4m",
+			"exact": "- 3,445,247",
+			"percent": "- 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-23 13:00:17",
+		"unix": 1666522817079
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "22.1m",
+		"exact": "22,076,038"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 70.6k",
+			"exact": "- 70,620",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,142,144",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.3m",
+			"exact": "- 6,259,149",
+			"percent": "- 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.4m",
+			"exact": "- 3,445,247",
+			"percent": "- 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-24 13:00:16",
+		"unix": 1666609216790
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "22.1m",
+		"exact": "22,112,427"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,776,403",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.1m",
+			"exact": "- 6,142,748",
+			"percent": "- 21%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,321,265",
+			"percent": "- 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-25 13:00:15",
+		"unix": 1666695615493
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "22.6m",
+		"exact": "22,563,380"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "187.6k",
+			"exact": "+ 187,568",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,563,115",
+			"percent": "+ 12%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.1m",
+			"exact": "- 6,117,225",
+			"percent": "- 21%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,269,205",
+			"percent": "- 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-26 13:00:18",
+		"unix": 1666782018388
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "22.6m",
+		"exact": "22,563,380"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,676,749",
+			"percent": "+ 13%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.6m",
+			"exact": "- 6,620,694",
+			"percent": "- 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.9m",
+			"exact": "- 3,893,862",
+			"percent": "- 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-27 13:00:17",
+		"unix": 1666868417937
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "22.6m",
+		"exact": "22,583,921"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 57.8k",
+			"exact": "- 57,839",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,573,818",
+			"percent": "+ 12%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.9m",
+			"exact": "- 6,870,425",
+			"percent": "- 23%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.9m",
+			"exact": "- 3,947,125",
+			"percent": "- 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-28 13:00:19",
+		"unix": 1666954819034
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "22.7m",
+		"exact": "22,706,751"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "122.8k",
+			"exact": "+ 122,830",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,482,716",
+			"percent": "+ 12%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.1m",
+			"exact": "- 7,109,917",
+			"percent": "- 23%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.5m",
+			"exact": "- 3,537,552",
+			"percent": "- 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-29 13:00:17",
+		"unix": 1667041217525
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "22.1m",
+		"exact": "22,076,425"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 630.3k",
+			"exact": "- 630,326",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,701,374",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.5m",
+			"exact": "- 7,457,822",
+			"percent": "- 25%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.2m",
+			"exact": "- 4,163,654",
+			"percent": "- 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-30 13:00:16",
+		"unix": 1667131216215
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "22.1m",
+		"exact": "22,076,425"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 630.3k",
+			"exact": "- 630,326",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,701,374",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.5m",
+			"exact": "- 7,457,822",
+			"percent": "- 25%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.2m",
+			"exact": "- 4,163,654",
+			"percent": "- 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-31 13:00:15",
+		"unix": 1667217615802
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "22.5m",
+		"exact": "22,465,336"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "101.4k",
+			"exact": "+ 101,407",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,980,707",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 8.5m",
+			"exact": "- 8,515,427",
+			"percent": "- 27%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.3m",
+			"exact": "- 4,268,405",
+			"percent": "- 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-01 13:00:15",
+		"unix": 1667304015837
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "22.7m",
+		"exact": "22,682,688"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "217.4k",
+			"exact": "+ 217,352",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,249,363",
+			"percent": "+ 11%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.2m",
+			"exact": "- 7,175,527",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.7m",
+			"exact": "- 3,676,608",
+			"percent": "- 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-02 13:00:15",
+		"unix": 1667390415349
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "22.9m",
+		"exact": "22,870,320"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "187.6k",
+			"exact": "+ 187,632",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,560,580",
+			"percent": "+ 12%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.7m",
+			"exact": "- 6,670,160",
+			"percent": "- 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.5m",
+			"exact": "- 3,455,735",
+			"percent": "- 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-03 13:00:17",
+		"unix": 1667476817522
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "22.8m",
+		"exact": "22,825,953"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 44.4k",
+			"exact": "- 44,367",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,126,548",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.7m",
+			"exact": "- 6,695,896",
+			"percent": "- 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.5m",
+			"exact": "- 3,517,202",
+			"percent": "- 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-04 13:00:17",
+		"unix": 1667563217963
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "22.8m",
+		"exact": "22,825,953"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 44.4k",
+			"exact": "- 44,367",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,126,548",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.7m",
+			"exact": "- 6,695,896",
+			"percent": "- 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.5m",
+			"exact": "- 3,517,202",
+			"percent": "- 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-05 13:00:17",
+		"unix": 1667649617777
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "23.3m",
+		"exact": "23,336,032"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "497.6k",
+			"exact": "+ 497,561",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,964,549",
+			"percent": "+ 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.1m",
+			"exact": "- 6,069,677",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,580,012",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-06 13:00:17",
+		"unix": 1667736017499
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "23.5m",
+		"exact": "23,490,583"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "154.6k",
+			"exact": "+ 154,551",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,121,484",
+			"percent": "+ 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.8m",
+			"exact": "- 5,828,441",
+			"percent": "- 19%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,345,575",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-07 13:00:18",
+		"unix": 1667822418350
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "23.5m",
+		"exact": "23,490,583"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,074,805",
+			"percent": "+ 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.8m",
+			"exact": "- 5,820,685",
+			"percent": "- 19%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,314,183",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-08 13:00:17",
+		"unix": 1667908817570
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "24.1m",
+		"exact": "24,123,533"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "312.1k",
+			"exact": "+ 312,051",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,414,390",
+			"percent": "+ 16%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.0m",
+			"exact": "- 4,989,090",
+			"percent": "- 17%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.6m",
+			"exact": "- 1,556,866",
+			"percent": "- 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-09 13:00:18",
+		"unix": 1667995218426
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "24.1m",
+		"exact": "24,123,533"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.6m",
+			"exact": "+ 3,634,745",
+			"percent": "+ 17%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.6m",
+			"exact": "- 4,624,506",
+			"percent": "- 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,661,466",
+			"percent": "- 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-10 13:00:18",
+		"unix": 1668081618734
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "23.8m",
+		"exact": "23,829,759"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 198.6k",
+			"exact": "- 198,579",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,527,875",
+			"percent": "+ 17%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.9m",
+			"exact": "- 4,939,087",
+			"percent": "- 17%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.8m",
+			"exact": "- 1,806,176",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-11 13:00:17",
+		"unix": 1668168017225
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "23.8m",
+		"exact": "23,829,759"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 198.6k",
+			"exact": "- 198,579",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,527,875",
+			"percent": "+ 17%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.9m",
+			"exact": "- 4,939,087",
+			"percent": "- 17%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.8m",
+			"exact": "- 1,806,176",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-12 13:00:15",
+		"unix": 1668254415546
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "23.3m",
+		"exact": "23,338,319"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 235.0k",
+			"exact": "- 235,038",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,989,687",
+			"percent": "+ 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.1m",
+			"exact": "- 4,124,191",
+			"percent": "- 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,322,837",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-13 13:00:17",
+		"unix": 1668340817519
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "23.3m",
+		"exact": "23,271,547"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 66.8k",
+			"exact": "- 66,772",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,709,337",
+			"percent": "+ 13%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.5m",
+			"exact": "- 4,450,169",
+			"percent": "- 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,509,248",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-14 13:00:18",
+		"unix": 1668427218067
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "23.4m",
+		"exact": "23,408,794"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "137.2k",
+			"exact": "+ 137,247",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,194,341",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.1m",
+			"exact": "- 4,053,613",
+			"percent": "- 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,464,650",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-15 13:00:18",
+		"unix": 1668513618603
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "23.4m",
+		"exact": "23,416,031"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "7,237",
+			"exact": "+ 7,237",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,226,506",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.6m",
+			"exact": "- 3,626,220",
+			"percent": "- 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,366,051",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-16 13:00:18",
+		"unix": 1668600018285
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "23.4m",
+		"exact": "23,416,031"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,865,069",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.4m",
+			"exact": "- 3,355,210",
+			"percent": "- 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.8m",
+			"exact": "- 2,781,944",
+			"percent": "- 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-17 13:00:20",
+		"unix": 1668686420116
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "23.4m",
+		"exact": "23,398,241"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "215.4k",
+			"exact": "+ 215,368",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,744,742",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,300,215",
+			"percent": "- 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,719,941",
+			"percent": "- 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-18 13:00:18",
+		"unix": 1668772818719
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "23.5m",
+		"exact": "23,459,654"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "61.4k",
+			"exact": "+ 61,413",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,279,560",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.7m",
+			"exact": "- 3,674,986",
+			"percent": "- 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.9m",
+			"exact": "- 2,912,321",
+			"percent": "- 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-19 13:00:18",
+		"unix": 1668859218159
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "23.5m",
+		"exact": "23,459,654"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "61.4k",
+			"exact": "+ 61,413",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,279,560",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.7m",
+			"exact": "- 3,674,986",
+			"percent": "- 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.9m",
+			"exact": "- 2,912,321",
+			"percent": "- 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-20 13:00:18",
+		"unix": 1668945618949
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "24.1m",
+		"exact": "24,130,806"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "479.7k",
+			"exact": "+ 479,674",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,054,768",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.0m",
+			"exact": "- 2,039,728",
+			"percent": "- 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,706,995",
+			"percent": "- 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-21 13:00:20",
+		"unix": 1669032020117
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "24.6m",
+		"exact": "24,610,659"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "479.9k",
+			"exact": "+ 479,853",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,498,232",
+			"percent": "+ 11%"
+		},
+		"quarterlyChange": {
+			"rough": "- 278.9k",
+			"exact": "- 278,852",
+			"percent": "- 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,202,754",
+			"percent": "- 4%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-23 13:00:18",
+		"unix": 1669204818160
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "24.6m",
+		"exact": "24,605,080"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 2,041,700",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,140,989",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.6m",
+			"exact": "- 1,593,449",
+			"percent": "- 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-24 13:00:16",
+		"unix": 1669291216680
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "24.4m",
+		"exact": "24,396,404"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 208.7k",
+			"exact": "- 208,676",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,754,644",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,055,518",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.2m",
+			"exact": "- 2,165,282",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-25 13:00:18",
+		"unix": 1669377618715
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "24.4m",
+		"exact": "24,396,404"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 208.7k",
+			"exact": "- 208,676",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,754,644",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,055,518",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.2m",
+			"exact": "- 2,165,282",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-26 13:00:17",
+		"unix": 1669464017787
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "24.8m",
+		"exact": "24,776,906"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "366.6k",
+			"exact": "+ 366,569",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,070,155",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,568,008",
+			"percent": "+ 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,349,612",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-27 13:00:19",
+		"unix": 1669550419675
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "24.9m",
+		"exact": "24,934,615"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "157.7k",
+			"exact": "+ 157,709",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,858,190",
+			"percent": "+ 12%"
+		},
+		"quarterlyChange": {
+			"rough": "5.1m",
+			"exact": "+ 5,068,165",
+			"percent": "+ 25%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.0m",
+			"exact": "- 1,978,990",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-28 13:00:17",
+		"unix": 1669636817660
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "24.9m",
+		"exact": "24,945,321"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "10.7k",
+			"exact": "+ 10,706",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,581,392",
+			"percent": "+ 11%"
+		},
+		"quarterlyChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,155,041",
+			"percent": "+ 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.9m",
+			"exact": "- 1,910,398",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-29 13:00:18",
+		"unix": 1669723218516
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "24.9m",
+		"exact": "24,945,321"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "10.7k",
+			"exact": "+ 10,706",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,581,392",
+			"percent": "+ 11%"
+		},
+		"quarterlyChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,155,041",
+			"percent": "+ 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.9m",
+			"exact": "- 1,910,398",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-30 13:00:17",
+		"unix": 1669809617942
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "24.5m",
+		"exact": "24,503,442"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,820,754",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "4.1m",
+			"exact": "+ 4,139,971",
+			"percent": "+ 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.4m",
+			"exact": "- 3,430,174",
+			"percent": "- 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-12-01 13:00:19",
+		"unix": 1669896019923
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "24.1m",
+		"exact": "24,125,258"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 223.4k",
+			"exact": "- 223,375",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,254,938",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,934,238",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.7m",
+			"exact": "- 3,695,315",
+			"percent": "- 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-12-02 13:00:17",
+		"unix": 1669982417108
+	},
+	"itemName": "Saradomin godsword",
+	"currentPrice": {
+		"rough": "23.9m",
+		"exact": "23,871,864"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 253.4k",
+			"exact": "- 253,394",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,045,911",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,184,442",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 4.2m",
+			"exact": "- 4,181,004",
+			"percent": "- 14%"
+		}
+	}
+},

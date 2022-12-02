@@ -1,0 +1,6435 @@
+{
+	"date": {
+		"dateString": "2022-04-25 14:34:17",
+		"unix": 1650890057379
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "111.4m",
+		"exact": "111,375,318"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 328.0k",
+			"exact": "- 328,041",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,753,695",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "15.4m",
+			"exact": "+ 15,412,709",
+			"percent": "+ 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "26.1m",
+			"exact": "+ 26,140,658",
+			"percent": "+ 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-27 08:20:01",
+		"unix": 1651040401782
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "111.3m",
+		"exact": "111,349,666"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 25.7k",
+			"exact": "- 25,652",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,346,678",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "16.1m",
+			"exact": "+ 16,126,408",
+			"percent": "+ 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "26.9m",
+			"exact": "+ 26,883,722",
+			"percent": "+ 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-28 20:52:06",
+		"unix": 1651171926632
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.1m",
+		"exact": "110,078,835"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 412.3k",
+			"exact": "- 412,317",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.1m",
+			"exact": "+ 5,101,375",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "14.3m",
+			"exact": "+ 14,298,756",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "25.5m",
+			"exact": "+ 25,484,346",
+			"percent": "+ 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-29 17:30:25",
+		"unix": 1651246225731
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.5m",
+		"exact": "110,477,846"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "399.0k",
+			"exact": "+ 399,011",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.8m",
+			"exact": "+ 6,814,253",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "14.5m",
+			"exact": "+ 14,532,650",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "25.5m",
+			"exact": "+ 25,464,576",
+			"percent": "+ 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-30 12:07:35",
+		"unix": 1651313255314
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.5m",
+		"exact": "110,477,846"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "399.0k",
+			"exact": "+ 399,011",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.8m",
+			"exact": "+ 6,814,253",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "14.5m",
+			"exact": "+ 14,532,650",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "25.5m",
+			"exact": "+ 25,464,576",
+			"percent": "+ 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-02 08:12:56",
+		"unix": 1651471976130
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "112.8m",
+		"exact": "112,847,179"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,656,665",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "10.1m",
+			"exact": "+ 10,068,324",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "14.1m",
+			"exact": "+ 14,085,476",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "33.9m",
+			"exact": "+ 33,856,381",
+			"percent": "+ 42%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-05 11:05:32",
+		"unix": 1651741532445
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "113.2m",
+		"exact": "113,195,066"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "435.2k",
+			"exact": "+ 435,223",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "9.1m",
+			"exact": "+ 9,100,090",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "15.8m",
+			"exact": "+ 15,822,641",
+			"percent": "+ 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "28.3m",
+			"exact": "+ 28,286,759",
+			"percent": "+ 33%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-06 15:57:18",
+		"unix": 1651845438355
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "112.1m",
+		"exact": "112,050,440"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 743.8k",
+			"exact": "- 743,777",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "7.9m",
+			"exact": "+ 7,887,906",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "13.1m",
+			"exact": "+ 13,133,958",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "24.5m",
+			"exact": "+ 24,548,417",
+			"percent": "+ 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-08 10:09:43",
+		"unix": 1651997383473
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "111.3m",
+		"exact": "111,276,174"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 202.9k",
+			"exact": "- 202,853",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.0m",
+			"exact": "+ 5,978,234",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "10.7m",
+			"exact": "+ 10,657,455",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "28.1m",
+			"exact": "+ 28,127,373",
+			"percent": "+ 33%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-09 19:01:06",
+		"unix": 1652115666032
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.1m",
+		"exact": "110,103,304"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,172,870",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,816,678",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "7.6m",
+			"exact": "+ 7,563,067",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "27.5m",
+			"exact": "+ 27,522,249",
+			"percent": "+ 33%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-10 14:05:59",
+		"unix": 1652184359416
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.1m",
+		"exact": "110,103,304"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,172,870",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,816,678",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "7.6m",
+			"exact": "+ 7,563,067",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "27.5m",
+			"exact": "+ 27,522,249",
+			"percent": "+ 33%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-11 13:41:19",
+		"unix": 1652269279841
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "108.8m",
+		"exact": "108,800,951"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 561.9k",
+			"exact": "- 561,889",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "710.1k",
+			"exact": "+ 710,105",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "6.1m",
+			"exact": "+ 6,105,809",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "25.5m",
+			"exact": "+ 25,516,300",
+			"percent": "+ 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-12 13:07:05",
+		"unix": 1652353625095
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "108.4m",
+		"exact": "108,366,139"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 434.8k",
+			"exact": "- 434,812",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.0m",
+			"exact": "- 1,016,521",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "6.0m",
+			"exact": "+ 6,044,310",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "25.5m",
+			"exact": "+ 25,529,576",
+			"percent": "+ 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-13 14:07:30",
+		"unix": 1652443650295
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "109.2m",
+		"exact": "109,228,642"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "862.5k",
+			"exact": "+ 862,503",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.1m",
+			"exact": "- 2,076,341",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "7.1m",
+			"exact": "+ 7,115,059",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "26.8m",
+			"exact": "+ 26,819,220",
+			"percent": "+ 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-14 16:34:25",
+		"unix": 1652538865190
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "109.2m",
+		"exact": "109,228,642"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "862.5k",
+			"exact": "+ 862,503",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.1m",
+			"exact": "- 2,076,341",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "7.1m",
+			"exact": "+ 7,115,059",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "26.8m",
+			"exact": "+ 26,819,220",
+			"percent": "+ 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-15 19:16:25",
+		"unix": 1652634985844
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "111.4m",
+		"exact": "111,398,778"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "622.7k",
+			"exact": "+ 622,659",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 639.1k",
+			"exact": "- 639,130",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "10.2m",
+			"exact": "+ 10,224,013",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "28.5m",
+			"exact": "+ 28,493,204",
+			"percent": "+ 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-16 23:20:58",
+		"unix": 1652736058735
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "111.2m",
+		"exact": "111,203,060"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 195.7k",
+			"exact": "- 195,718",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 223.2k",
+			"exact": "- 223,198",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "10.6m",
+			"exact": "+ 10,626,333",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "27.3m",
+			"exact": "+ 27,347,585",
+			"percent": "+ 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-17 15:37:54",
+		"unix": 1652794674803
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "111.2m",
+		"exact": "111,203,060"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 195.7k",
+			"exact": "- 195,718",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 223.2k",
+			"exact": "- 223,198",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "10.6m",
+			"exact": "+ 10,626,333",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "27.3m",
+			"exact": "+ 27,347,585",
+			"percent": "+ 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-18 16:34:45",
+		"unix": 1652884485558
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "112.2m",
+		"exact": "112,164,257"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "476.5k",
+			"exact": "+ 476,510",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,507,761",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "13.3m",
+			"exact": "+ 13,306,415",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "24.7m",
+			"exact": "+ 24,728,732",
+			"percent": "+ 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-19 23:57:47",
+		"unix": 1652997467930
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "112.4m",
+		"exact": "112,403,703"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "239.4k",
+			"exact": "+ 239,446",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,417,897",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "13.2m",
+			"exact": "+ 13,196,280",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "24.6m",
+			"exact": "+ 24,640,735",
+			"percent": "+ 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-20 13:31:49",
+		"unix": 1653046309788
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "112.4m",
+		"exact": "112,403,703"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "239.4k",
+			"exact": "+ 239,446",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,417,897",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "13.2m",
+			"exact": "+ 13,196,280",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "24.6m",
+			"exact": "+ 24,640,735",
+			"percent": "+ 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-21 10:37:03",
+		"unix": 1653122223143
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "113.6m",
+		"exact": "113,594,442"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 379.0k",
+			"exact": "- 379,040",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,147,182",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "14.0m",
+			"exact": "+ 13,998,563",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "23.0m",
+			"exact": "+ 23,014,221",
+			"percent": "+ 25%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-23 16:04:08",
+		"unix": 1653314648639
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "113.8m",
+		"exact": "113,816,148"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "221.7k",
+			"exact": "+ 221,706",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.6m",
+			"exact": "+ 3,563,817",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "13.5m",
+			"exact": "+ 13,542,400",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "23.5m",
+			"exact": "+ 23,535,054",
+			"percent": "+ 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-24 17:12:05",
+		"unix": 1653405125246
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "113.1m",
+		"exact": "113,103,113"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 713.0k",
+			"exact": "- 713,035",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,399,754",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "12.7m",
+			"exact": "+ 12,732,653",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "21.6m",
+			"exact": "+ 21,571,162",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-25 17:02:14",
+		"unix": 1653490934655
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "111.8m",
+		"exact": "111,816,900"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 708.1k",
+			"exact": "- 708,124",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "467.2k",
+			"exact": "+ 467,234",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "10.7m",
+			"exact": "+ 10,732,046",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "17.3m",
+			"exact": "+ 17,305,439",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-26 18:15:08",
+		"unix": 1653581708634
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "111.2m",
+		"exact": "111,212,073"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 604.8k",
+			"exact": "- 604,827",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "720.9k",
+			"exact": "+ 720,921",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "10.1m",
+			"exact": "+ 10,083,536",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "17.4m",
+			"exact": "+ 17,350,976",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-27 17:09:53",
+		"unix": 1653664193164
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "111.2m",
+		"exact": "111,212,073"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 604.8k",
+			"exact": "- 604,827",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "720.9k",
+			"exact": "+ 720,921",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "10.1m",
+			"exact": "+ 10,083,536",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "17.4m",
+			"exact": "+ 17,350,976",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-28 21:18:12",
+		"unix": 1653765492188
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.4m",
+		"exact": "110,351,877"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1,114",
+			"exact": "- 1,114",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 126.0k",
+			"exact": "- 125,969",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "9.5m",
+			"exact": "+ 9,496,812",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "16.4m",
+			"exact": "+ 16,398,506",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-29 21:39:01",
+		"unix": 1653853141805
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.4m",
+		"exact": "110,382,093"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "30.2k",
+			"exact": "+ 30,216",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 701.5k",
+			"exact": "- 701,461",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "9.8m",
+			"exact": "+ 9,814,437",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "14.4m",
+			"exact": "+ 14,440,688",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-30 18:12:25",
+		"unix": 1653927145965
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.0m",
+		"exact": "110,001,612"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 380.5k",
+			"exact": "- 380,481",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,188,902",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "9.5m",
+			"exact": "+ 9,455,925",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "14.6m",
+			"exact": "+ 14,560,053",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-31 13:37:29",
+		"unix": 1653997049242
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.0m",
+		"exact": "110,001,612"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.8m",
+			"exact": "- 2,845,567",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "9.4m",
+			"exact": "+ 9,389,194",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "13.2m",
+			"exact": "+ 13,195,961",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-01 22:39:17",
+		"unix": 1654115957732
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "108.6m",
+		"exact": "108,611,053"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 454.4k",
+			"exact": "- 454,405",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 4.1m",
+			"exact": "- 4,148,790",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "7.6m",
+			"exact": "+ 7,550,048",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "11.9m",
+			"exact": "+ 11,876,588",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-02 20:52:58",
+		"unix": 1654195978593
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "109.4m",
+		"exact": "109,418,849"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "807.8k",
+			"exact": "+ 807,796",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,776,217",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "7.9m",
+			"exact": "+ 7,900,920",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "12.7m",
+			"exact": "+ 12,698,906",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-05 20:16:48",
+		"unix": 1654453008015
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.6m",
+		"exact": "110,624,992"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "623.2k",
+			"exact": "+ 623,220",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 854.0k",
+			"exact": "- 854,035",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "8.3m",
+			"exact": "+ 8,349,313",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "11.9m",
+			"exact": "+ 11,931,035",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-07 14:42:55",
+		"unix": 1654605775721
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.0m",
+		"exact": "109,984,113"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 116.7k",
+			"exact": "- 116,708",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 119.2k",
+			"exact": "- 119,191",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "8.8m",
+			"exact": "+ 8,774,081",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.8m",
+			"exact": "+ 10,810,065",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-08 16:52:33",
+		"unix": 1654699953728
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.1m",
+		"exact": "110,147,181"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "163.1k",
+			"exact": "+ 163,068",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "784.3k",
+			"exact": "+ 784,341",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "9.1m",
+			"exact": "+ 9,056,853",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.8m",
+			"exact": "+ 6,826,001",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-09 13:03:36",
+		"unix": 1654772616891
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.2m",
+		"exact": "110,185,495"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "38.3k",
+			"exact": "+ 38,314",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,384,544",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "7.9m",
+			"exact": "+ 7,934,290",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,248,150",
+			"percent": "+ 3%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-10 15:51:44",
+		"unix": 1654869104000
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.2m",
+		"exact": "110,185,495"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "38.3k",
+			"exact": "+ 38,314",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,384,544",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "7.9m",
+			"exact": "+ 7,934,290",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,248,150",
+			"percent": "+ 3%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-11 15:34:53",
+		"unix": 1654954493923
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.5m",
+		"exact": "110,467,047"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "252.5k",
+			"exact": "+ 252,510",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,238,405",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "5.1m",
+			"exact": "+ 5,075,406",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "231.2k",
+			"exact": "+ 231,238",
+			"percent": "+ 0%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-13 08:58:23",
+		"unix": 1655103503762
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.8m",
+		"exact": "110,771,997"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "18.5k",
+			"exact": "+ 18,476",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 626.8k",
+			"exact": "- 626,781",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,716,113",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.2m",
+			"exact": "+ 10,182,013",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-13 17:25:02",
+		"unix": 1655133902525
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.8m",
+		"exact": "110,771,997"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "18.5k",
+			"exact": "+ 18,476",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 626.8k",
+			"exact": "- 626,781",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,716,113",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.2m",
+			"exact": "+ 10,182,013",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-14 14:22:53",
+		"unix": 1655209373319
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.8m",
+		"exact": "110,771,997"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "18.5k",
+			"exact": "+ 18,476",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 626.8k",
+			"exact": "- 626,781",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,716,113",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.2m",
+			"exact": "+ 10,182,013",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-15 16:15:28",
+		"unix": 1655302528297
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "109.9m",
+		"exact": "109,873,846"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 46.6k",
+			"exact": "- 46,643",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.8m",
+			"exact": "- 1,813,901",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "777.3k",
+			"exact": "+ 777,338",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.1m",
+			"exact": "+ 4,073,099",
+			"percent": "+ 3%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-16 23:31:39",
+		"unix": 1655415099213
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.7m",
+		"exact": "110,744,648"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "870.8k",
+			"exact": "+ 870,802",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.4m",
+			"exact": "- 1,419,609",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "201.7k",
+			"exact": "+ 201,722",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.4m",
+			"exact": "+ 6,421,232",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-17 20:09:55",
+		"unix": 1655489395447
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.4m",
+		"exact": "110,414,432"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 330.2k",
+			"exact": "- 330,216",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.0m",
+			"exact": "- 1,989,271",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,083,298",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.8m",
+			"exact": "+ 6,803,103",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-18 11:37:25",
+		"unix": 1655545045644
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.4m",
+		"exact": "110,414,432"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 330.2k",
+			"exact": "- 330,216",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.0m",
+			"exact": "- 1,989,271",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,083,298",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.8m",
+			"exact": "+ 6,803,103",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-19 00:09:14",
+		"unix": 1655590154986
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "110.9m",
+		"exact": "110,862,826"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "448.4k",
+			"exact": "+ 448,394",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.1m",
+			"exact": "- 3,110,656",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,929,682",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.0m",
+			"exact": "+ 7,037,647",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-19 22:43:08",
+		"unix": 1655671388968
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "112.9m",
+		"exact": "112,859,402"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,996,576",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 735.0k",
+			"exact": "- 735,040",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "7.4m",
+			"exact": "+ 7,368,944",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.8m",
+			"exact": "+ 8,831,850",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-21 12:55:51",
+		"unix": 1655808951059
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "112.6m",
+		"exact": "112,635,184"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 61.8k",
+			"exact": "- 61,764",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 467.9k",
+			"exact": "- 467,929",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "8.8m",
+			"exact": "+ 8,812,565",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "12.5m",
+			"exact": "+ 12,508,548",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-22 09:34:46",
+		"unix": 1655883286439
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "112.6m",
+		"exact": "112,635,184"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 61.8k",
+			"exact": "- 61,764",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 467.9k",
+			"exact": "- 467,929",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "8.8m",
+			"exact": "+ 8,812,565",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "12.5m",
+			"exact": "+ 12,508,548",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-22 13:00:05",
+		"unix": 1655895605049
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "112.6m",
+		"exact": "112,635,184"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 61.8k",
+			"exact": "- 61,764",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 467.9k",
+			"exact": "- 467,929",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "8.8m",
+			"exact": "+ 8,812,565",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "12.5m",
+			"exact": "+ 12,508,548",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-23 13:00:04",
+		"unix": 1655982004086
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "113.2m",
+		"exact": "113,229,130"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "593.9k",
+			"exact": "+ 593,946",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "704.1k",
+			"exact": "+ 704,106",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "6.6m",
+			"exact": "+ 6,616,155",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "13.0m",
+			"exact": "+ 12,979,334",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-24 13:00:04",
+		"unix": 1656068404411
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "114.7m",
+		"exact": "114,684,115"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "685.5k",
+			"exact": "+ 685,478",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,472,042",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "8.1m",
+			"exact": "+ 8,062,492",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "14.7m",
+			"exact": "+ 14,709,679",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-25 13:00:04",
+		"unix": 1656154804656
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "115.2m",
+		"exact": "115,170,044"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "485.9k",
+			"exact": "+ 485,929",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,817,053",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "9.2m",
+			"exact": "+ 9,167,056",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "15.3m",
+			"exact": "+ 15,330,240",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-26 13:00:05",
+		"unix": 1656241205236
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "114.9m",
+		"exact": "114,908,719"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 261.3k",
+			"exact": "- 261,325",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,556,842",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "9.8m",
+			"exact": "+ 9,829,163",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "14.0m",
+			"exact": "+ 13,989,626",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-27 13:00:04",
+		"unix": 1656327604875
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "115.0m",
+		"exact": "114,994,098"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "85.4k",
+			"exact": "+ 85,379",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,612,005",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "10.0m",
+			"exact": "+ 10,016,638",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "13.9m",
+			"exact": "+ 13,921,625",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-28 13:00:04",
+		"unix": 1656414004052
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "115.0m",
+		"exact": "114,994,098"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "85.4k",
+			"exact": "+ 85,379",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,612,005",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "10.0m",
+			"exact": "+ 10,016,638",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "13.9m",
+			"exact": "+ 13,921,625",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-29 13:00:04",
+		"unix": 1656500404783
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "113.4m",
+		"exact": "113,435,250"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,369,792",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "10.5m",
+			"exact": "+ 10,458,935",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "12.5m",
+			"exact": "+ 12,529,081",
+			"percent": "+ 12%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-30 13:00:04",
+		"unix": 1656586804200
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "114.1m",
+		"exact": "114,092,873"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "657.6k",
+			"exact": "+ 657,623",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.0m",
+			"exact": "+ 5,027,415",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "11.1m",
+			"exact": "+ 11,116,558",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "13.2m",
+			"exact": "+ 13,186,704",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-01 13:00:04",
+		"unix": 1656673204710
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "115.1m",
+		"exact": "115,122,031"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,029,158",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.5m",
+			"exact": "+ 6,510,978",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "12.2m",
+			"exact": "+ 12,157,120",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "14.1m",
+			"exact": "+ 14,143,288",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-02 13:00:04",
+		"unix": 1656759604391
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "118.2m",
+		"exact": "118,167,340"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.0m",
+			"exact": "+ 3,045,309",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "8.7m",
+			"exact": "+ 8,748,491",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "15.4m",
+			"exact": "+ 15,388,485",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "17.5m",
+			"exact": "+ 17,533,516",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-03 13:00:03",
+		"unix": 1656846003588
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "119.4m",
+		"exact": "119,375,256"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "4,338",
+			"exact": "+ 4,338",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "9.4m",
+			"exact": "+ 9,373,484",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "15.3m",
+			"exact": "+ 15,280,280",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "24.4m",
+			"exact": "+ 24,388,450",
+			"percent": "+ 25%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-04 13:00:04",
+		"unix": 1656932404299
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "119.1m",
+		"exact": "119,113,645"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 261.6k",
+			"exact": "- 261,611",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "8.5m",
+			"exact": "+ 8,488,653",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "14.3m",
+			"exact": "+ 14,339,740",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "28.9m",
+			"exact": "+ 28,876,180",
+			"percent": "+ 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-05 13:00:03",
+		"unix": 1657018803081
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "123.1m",
+		"exact": "123,109,153"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "4.0m",
+			"exact": "+ 3,995,508",
+			"percent": "+ 3%"
+		},
+		"montlyChange": {
+			"rough": "13.0m",
+			"exact": "+ 13,008,332",
+			"percent": "+ 11%"
+		},
+		"quarterlyChange": {
+			"rough": "18.9m",
+			"exact": "+ 18,946,619",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "37.4m",
+			"exact": "+ 37,383,562",
+			"percent": "+ 43%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-06 13:00:03",
+		"unix": 1657105203299
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "122.0m",
+		"exact": "121,950,158"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,158,995",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "12.0m",
+			"exact": "+ 11,966,045",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "17.1m",
+			"exact": "+ 17,135,878",
+			"percent": "+ 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "40.3m",
+			"exact": "+ 40,349,771",
+			"percent": "+ 49%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-07 13:00:03",
+		"unix": 1657191603119
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "121.1m",
+		"exact": "121,123,229"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 826.9k",
+			"exact": "- 826,929",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "11.0m",
+			"exact": "+ 10,976,048",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "15.8m",
+			"exact": "+ 15,825,289",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "39.4m",
+			"exact": "+ 39,443,789",
+			"percent": "+ 48%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-08 13:00:02",
+		"unix": 1657278002834
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "121.1m",
+		"exact": "121,123,229"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 826.9k",
+			"exact": "- 826,929",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "11.0m",
+			"exact": "+ 10,976,048",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "15.8m",
+			"exact": "+ 15,825,289",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "39.4m",
+			"exact": "+ 39,443,789",
+			"percent": "+ 48%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-09 13:00:03",
+		"unix": 1657364403758
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "120.5m",
+		"exact": "120,504,099"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 464.1k",
+			"exact": "- 464,132",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "10.3m",
+			"exact": "+ 10,289,562",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "12.6m",
+			"exact": "+ 12,633,664",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "39.0m",
+			"exact": "+ 38,982,841",
+			"percent": "+ 47%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-10 13:00:03",
+		"unix": 1657450803557
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "120.4m",
+		"exact": "120,376,176"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 127.9k",
+			"exact": "- 127,923",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "9.9m",
+			"exact": "+ 9,909,129",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "12.3m",
+			"exact": "+ 12,285,330",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "37.4m",
+			"exact": "+ 37,373,506",
+			"percent": "+ 45%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-11 13:00:03",
+		"unix": 1657537203166
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "120.4m",
+		"exact": "120,353,453"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 22.7k",
+			"exact": "- 22,723",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "9.6m",
+			"exact": "+ 9,599,932",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "11.0m",
+			"exact": "+ 10,970,793",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "36.3m",
+			"exact": "+ 36,289,758",
+			"percent": "+ 43%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-12 13:00:04",
+		"unix": 1657623604017
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "120.4m",
+		"exact": "120,353,453"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 22.7k",
+			"exact": "- 22,723",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "9.6m",
+			"exact": "+ 9,599,932",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "11.0m",
+			"exact": "+ 10,970,793",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "36.3m",
+			"exact": "+ 36,289,758",
+			"percent": "+ 43%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-13 13:00:03",
+		"unix": 1657710003325
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "118.6m",
+		"exact": "118,645,141"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.0m",
+			"exact": "- 1,031,053",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "8.7m",
+			"exact": "+ 8,724,652",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "5.8m",
+			"exact": "+ 5,758,130",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "31.0m",
+			"exact": "+ 31,044,666",
+			"percent": "+ 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-14 13:00:03",
+		"unix": 1657796403400
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "117.7m",
+		"exact": "117,717,899"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 927.2k",
+			"exact": "- 927,242",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "7.8m",
+			"exact": "+ 7,844,053",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,679,991",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "27.6m",
+			"exact": "+ 27,573,583",
+			"percent": "+ 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-15 13:00:03",
+		"unix": 1657882803645
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "116.6m",
+		"exact": "116,570,107"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,147,792",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.8m",
+			"exact": "+ 5,825,459",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "5.1m",
+			"exact": "+ 5,143,849",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "26.7m",
+			"exact": "+ 26,720,709",
+			"percent": "+ 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-16 13:00:03",
+		"unix": 1657969203822
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "116.6m",
+		"exact": "116,570,107"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,147,792",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.8m",
+			"exact": "+ 5,825,459",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "5.1m",
+			"exact": "+ 5,143,849",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "26.7m",
+			"exact": "+ 26,720,709",
+			"percent": "+ 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-17 13:00:04",
+		"unix": 1658055604646
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "115.4m",
+		"exact": "115,408,878"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,161,229",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.0m",
+			"exact": "+ 4,994,446",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "6.5m",
+			"exact": "+ 6,507,191",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "29.0m",
+			"exact": "+ 29,001,962",
+			"percent": "+ 33%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-18 13:00:03",
+		"unix": 1658142003764
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "114.3m",
+		"exact": "114,277,719"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,131,159",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,414,893",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "6.6m",
+			"exact": "+ 6,621,223",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "28.4m",
+			"exact": "+ 28,350,597",
+			"percent": "+ 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-19 13:00:03",
+		"unix": 1658228403244
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "113.7m",
+		"exact": "113,671,698"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 272.3k",
+			"exact": "- 272,302",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "974.8k",
+			"exact": "+ 974,750",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "4.3m",
+			"exact": "+ 4,337,281",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "23.5m",
+			"exact": "+ 23,528,979",
+			"percent": "+ 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-20 13:00:03",
+		"unix": 1658314803899
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "113.7m",
+		"exact": "113,671,698"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,036,514",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,224,438",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "21.5m",
+			"exact": "+ 21,518,255",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-21 13:00:04",
+		"unix": 1658401204412
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "114.2m",
+		"exact": "114,175,398"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "503.7k",
+			"exact": "+ 503,700",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,540,214",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,728,138",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "22.0m",
+			"exact": "+ 22,021,955",
+			"percent": "+ 23%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-22 13:00:05",
+		"unix": 1658487605324
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "114.4m",
+		"exact": "114,368,741"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "963.5k",
+			"exact": "+ 963,510",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "370.1k",
+			"exact": "+ 370,104",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,665,382",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "20.5m",
+			"exact": "+ 20,455,918",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-23 13:00:03",
+		"unix": 1658574003907
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "116.1m",
+		"exact": "116,109,074"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,740,333",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,424,959",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,733,756",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "19.2m",
+			"exact": "+ 19,172,091",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-24 13:00:03",
+		"unix": 1658660403533
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "116.1m",
+		"exact": "116,109,074"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,740,333",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,424,959",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,733,756",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "19.2m",
+			"exact": "+ 19,172,091",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-25 13:00:03",
+		"unix": 1658746803541
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "114.9m",
+		"exact": "114,927,406"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,181,668",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 242.6k",
+			"exact": "- 242,638",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "3.6m",
+			"exact": "+ 3,577,740",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "19.0m",
+			"exact": "+ 18,964,797",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-26 13:00:04",
+		"unix": 1658833204820
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "114.8m",
+		"exact": "114,758,614"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 596.9k",
+			"exact": "- 596,857",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 235.5k",
+			"exact": "- 235,484",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,679,779",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "19.3m",
+			"exact": "+ 19,307,927",
+			"percent": "+ 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-27 13:00:03",
+		"unix": 1658919603853
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "115.4m",
+		"exact": "115,425,053"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "666.4k",
+			"exact": "+ 666,439",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,989,803",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,947,207",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "19.6m",
+			"exact": "+ 19,644,974",
+			"percent": "+ 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-28 13:00:04",
+		"unix": 1659006004214
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "116.1m",
+		"exact": "116,061,710"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "636.7k",
+			"exact": "+ 636,657",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,968,837",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "5.0m",
+			"exact": "+ 4,978,156",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "20.1m",
+			"exact": "+ 20,116,514",
+			"percent": "+ 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-29 13:00:04",
+		"unix": 1659092404664
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "115.9m",
+		"exact": "115,944,783"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 116.9k",
+			"exact": "- 116,927",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "822.8k",
+			"exact": "+ 822,752",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,754,269",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "18.9m",
+			"exact": "+ 18,894,058",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-30 13:00:06",
+		"unix": 1659178806762
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "115.9m",
+		"exact": "115,944,783"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 116.9k",
+			"exact": "- 116,927",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "822.8k",
+			"exact": "+ 822,752",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,754,269",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "18.9m",
+			"exact": "+ 18,894,058",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-31 13:00:03",
+		"unix": 1659265203917
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "115.6m",
+		"exact": "115,603,199"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 341.6k",
+			"exact": "- 341,584",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,564,141",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,756,020",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "17.6m",
+			"exact": "+ 17,604,790",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-01 13:00:03",
+		"unix": 1659351603585
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "115.7m",
+		"exact": "115,710,410"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "107.2k",
+			"exact": "+ 107,211",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.7m",
+			"exact": "- 3,660,508",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,950,567",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "16.9m",
+			"exact": "+ 16,948,707",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-02 13:00:04",
+		"unix": 1659438004913
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "116.6m",
+		"exact": "116,564,397"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "854.0k",
+			"exact": "+ 853,987",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.8m",
+			"exact": "- 2,810,859",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,369,331",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "18.5m",
+			"exact": "+ 18,499,015",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-03 13:00:04",
+		"unix": 1659524404888
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "118.9m",
+		"exact": "118,894,327"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "841.2k",
+			"exact": "+ 841,187",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 4.2m",
+			"exact": "- 4,214,826",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "6.8m",
+			"exact": "+ 6,843,887",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "21.1m",
+			"exact": "+ 21,124,067",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-20 13:18:46",
+		"unix": 1660994326245
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "109.1m",
+		"exact": "109,145,076"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,699,312",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 4.3m",
+			"exact": "- 4,260,155",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.7m",
+			"exact": "- 4,671,072",
+			"percent": "- 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.5m",
+			"exact": "+ 9,549,197",
+			"percent": "+ 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-21 13:00:05",
+		"unix": 1661079605960
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "107.2m",
+		"exact": "107,247,904"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.9m",
+			"exact": "- 1,897,172",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 7.1m",
+			"exact": "- 7,120,837",
+			"percent": "- 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.9m",
+			"exact": "- 5,855,209",
+			"percent": "- 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.0m",
+			"exact": "+ 6,974,156",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-22 13:00:05",
+		"unix": 1661166005499
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "106.0m",
+		"exact": "105,987,381"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.3m",
+			"exact": "- 1,260,523",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 10.1m",
+			"exact": "- 10,121,693",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.5m",
+			"exact": "- 6,537,643",
+			"percent": "- 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,616,921",
+			"percent": "+ 5%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-23 13:00:04",
+		"unix": 1661252404130
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "104.2m",
+		"exact": "104,249,445"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,737,936",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 10.7m",
+			"exact": "- 10,677,961",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.6m",
+			"exact": "- 7,567,455",
+			"percent": "- 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,949,984",
+			"percent": "+ 3%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-24 13:00:04",
+		"unix": 1661338804615
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "97.2m",
+		"exact": "97,198,789"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 4.7m",
+			"exact": "- 4,729,323",
+			"percent": "- 4%"
+		},
+		"montlyChange": {
+			"rough": "- 17.6m",
+			"exact": "- 17,559,825",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 13.2m",
+			"exact": "- 13,154,202",
+			"percent": "- 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.9m",
+			"exact": "- 3,929,748",
+			"percent": "- 3%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-25 13:00:04",
+		"unix": 1661425204664
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "97.2m",
+		"exact": "97,198,789"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 4.7m",
+			"exact": "- 4,729,323",
+			"percent": "- 4%"
+		},
+		"montlyChange": {
+			"rough": "- 17.6m",
+			"exact": "- 17,559,825",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 13.2m",
+			"exact": "- 13,154,202",
+			"percent": "- 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.9m",
+			"exact": "- 3,929,748",
+			"percent": "- 3%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-26 13:00:05",
+		"unix": 1661511605596
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "93.0m",
+		"exact": "92,965,604"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 23.1m",
+			"exact": "- 23,096,106",
+			"percent": "- 19%"
+		},
+		"quarterlyChange": {
+			"rough": "- 17.4m",
+			"exact": "- 17,416,489",
+			"percent": "- 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 7.9m",
+			"exact": "- 7,889,461",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-27 13:00:04",
+		"unix": 1661598004694
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "83.9m",
+		"exact": "83,908,516"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 4.4m",
+			"exact": "- 4,416,238",
+			"percent": "- 5%"
+		},
+		"montlyChange": {
+			"rough": "- 32.0m",
+			"exact": "- 32,036,267",
+			"percent": "- 27%"
+		},
+		"quarterlyChange": {
+			"rough": "- 26.1m",
+			"exact": "- 26,093,096",
+			"percent": "- 23%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 16.7m",
+			"exact": "- 16,659,140",
+			"percent": "- 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-28 13:00:04",
+		"unix": 1661684404605
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "79.7m",
+		"exact": "79,713,090"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 4.2m",
+			"exact": "- 4,195,426",
+			"percent": "- 5%"
+		},
+		"montlyChange": {
+			"rough": "- 35.9m",
+			"exact": "- 35,890,109",
+			"percent": "- 31%"
+		},
+		"quarterlyChange": {
+			"rough": "- 29.4m",
+			"exact": "- 29,352,368",
+			"percent": "- 26%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 20.8m",
+			"exact": "- 20,832,597",
+			"percent": "- 20%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-29 13:00:03",
+		"unix": 1661770803669
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "76.3m",
+		"exact": "76,317,386"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 3.4m",
+			"exact": "- 3,395,704",
+			"percent": "- 4%"
+		},
+		"montlyChange": {
+			"rough": "- 39.4m",
+			"exact": "- 39,393,024",
+			"percent": "- 34%"
+		},
+		"quarterlyChange": {
+			"rough": "- 32.3m",
+			"exact": "- 32,293,667",
+			"percent": "- 29%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 24.3m",
+			"exact": "- 24,295,032",
+			"percent": "- 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-30 13:00:04",
+		"unix": 1661857204249
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "73.9m",
+		"exact": "73,932,128"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,385,258",
+			"percent": "- 3%"
+		},
+		"montlyChange": {
+			"rough": "- 42.6m",
+			"exact": "- 42,632,269",
+			"percent": "- 36%"
+		},
+		"quarterlyChange": {
+			"rough": "- 35.5m",
+			"exact": "- 35,486,721",
+			"percent": "- 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 27.1m",
+			"exact": "- 27,128,877",
+			"percent": "- 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-31 13:00:04",
+		"unix": 1661943604777
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "73.1m",
+		"exact": "73,061,296"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 870.8k",
+			"exact": "- 870,832",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 45.0m",
+			"exact": "- 44,991,844",
+			"percent": "- 38%"
+		},
+		"quarterlyChange": {
+			"rough": "- 36.4m",
+			"exact": "- 36,448,005",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 28.5m",
+			"exact": "- 28,456,633",
+			"percent": "- 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-01 13:00:04",
+		"unix": 1662030004750
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "73.1m",
+		"exact": "73,061,296"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 45.8m",
+			"exact": "- 45,833,031",
+			"percent": "- 38%"
+		},
+		"quarterlyChange": {
+			"rough": "- 36.9m",
+			"exact": "- 36,940,476",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 30.2m",
+			"exact": "- 30,179,159",
+			"percent": "- 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-02 13:00:05",
+		"unix": 1662116405737
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "80.2m",
+		"exact": "80,183,686"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,737,107",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "- 40.1m",
+			"exact": "- 40,120,838",
+			"percent": "- 33%"
+		},
+		"quarterlyChange": {
+			"rough": "- 30.4m",
+			"exact": "- 30,441,306",
+			"percent": "- 27%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 23.0m",
+			"exact": "- 22,958,748",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-03 13:00:04",
+		"unix": 1662202804172
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "80.2m",
+		"exact": "80,183,686"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,737,107",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "- 40.1m",
+			"exact": "- 40,120,838",
+			"percent": "- 33%"
+		},
+		"quarterlyChange": {
+			"rough": "- 30.4m",
+			"exact": "- 30,441,306",
+			"percent": "- 27%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 23.0m",
+			"exact": "- 22,958,748",
+			"percent": "- 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-04 13:00:05",
+		"unix": 1662289205095
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "82.8m",
+		"exact": "82,773,822"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,590,136",
+			"percent": "+ 3%"
+		},
+		"montlyChange": {
+			"rough": "- 39.7m",
+			"exact": "- 39,677,493",
+			"percent": "- 32%"
+		},
+		"quarterlyChange": {
+			"rough": "- 27.3m",
+			"exact": "- 27,326,999",
+			"percent": "- 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 19.5m",
+			"exact": "- 19,501,857",
+			"percent": "- 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-05 13:00:04",
+		"unix": 1662375604213
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "79.8m",
+		"exact": "79,790,614"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 40.9m",
+			"exact": "- 40,924,513",
+			"percent": "- 33%"
+		},
+		"quarterlyChange": {
+			"rough": "- 30.4m",
+			"exact": "- 30,356,567",
+			"percent": "- 27%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 21.4m",
+			"exact": "- 21,419,418",
+			"percent": "- 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-06 13:00:05",
+		"unix": 1662462005239
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "76.1m",
+		"exact": "76,143,701"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 671.8k",
+			"exact": "- 671,776",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 43.2m",
+			"exact": "- 43,213,129",
+			"percent": "- 36%"
+		},
+		"quarterlyChange": {
+			"rough": "- 34.0m",
+			"exact": "- 34,041,794",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 24.9m",
+			"exact": "- 24,946,627",
+			"percent": "- 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-07 13:00:03",
+		"unix": 1662548403963
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "76.1m",
+		"exact": "76,143,701"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 671.8k",
+			"exact": "- 671,776",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 43.2m",
+			"exact": "- 43,213,129",
+			"percent": "- 36%"
+		},
+		"quarterlyChange": {
+			"rough": "- 34.0m",
+			"exact": "- 34,041,794",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 24.9m",
+			"exact": "- 24,946,627",
+			"percent": "- 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-08 13:00:04",
+		"unix": 1662634804405
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "74.8m",
+		"exact": "74,799,555"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 43.7m",
+			"exact": "- 43,721,171",
+			"percent": "- 36%"
+		},
+		"quarterlyChange": {
+			"rough": "- 35.7m",
+			"exact": "- 35,667,492",
+			"percent": "- 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 28.9m",
+			"exact": "- 28,890,916",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-09 13:00:05",
+		"unix": 1662721205444
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "72.1m",
+		"exact": "72,133,959"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,687,772",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "- 45.8m",
+			"exact": "- 45,839,054",
+			"percent": "- 38%"
+		},
+		"quarterlyChange": {
+			"rough": "- 38.6m",
+			"exact": "- 38,619,562",
+			"percent": "- 34%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 33.3m",
+			"exact": "- 33,257,682",
+			"percent": "- 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-10 13:00:04",
+		"unix": 1662807604272
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "72.1m",
+		"exact": "72,133,959"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,687,772",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "- 45.8m",
+			"exact": "- 45,839,054",
+			"percent": "- 38%"
+		},
+		"quarterlyChange": {
+			"rough": "- 38.6m",
+			"exact": "- 38,619,562",
+			"percent": "- 34%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 33.3m",
+			"exact": "- 33,257,682",
+			"percent": "- 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-11 13:00:04",
+		"unix": 1662894004873
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "70.6m",
+		"exact": "70,619,731"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.5m",
+			"exact": "- 1,514,228",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "- 46.4m",
+			"exact": "- 46,397,867",
+			"percent": "- 39%"
+		},
+		"quarterlyChange": {
+			"rough": "- 40.2m",
+			"exact": "- 40,152,266",
+			"percent": "- 36%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 34.3m",
+			"exact": "- 34,290,403",
+			"percent": "- 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-12 13:00:04",
+		"unix": 1662980404111
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "68.7m",
+		"exact": "68,742,233"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 817.0k",
+			"exact": "- 817,025",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 48.7m",
+			"exact": "- 48,690,206",
+			"percent": "- 41%"
+		},
+		"quarterlyChange": {
+			"rough": "- 41.1m",
+			"exact": "- 41,131,613",
+			"percent": "- 37%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 37.7m",
+			"exact": "- 37,675,502",
+			"percent": "- 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-13 13:00:04",
+		"unix": 1663066804254
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "68.7m",
+		"exact": "68,742,233"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 817.0k",
+			"exact": "- 817,025",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 48.7m",
+			"exact": "- 48,690,206",
+			"percent": "- 41%"
+		},
+		"quarterlyChange": {
+			"rough": "- 41.1m",
+			"exact": "- 41,131,613",
+			"percent": "- 37%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 37.7m",
+			"exact": "- 37,675,502",
+			"percent": "- 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-14 13:00:04",
+		"unix": 1663153204369
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "72.1m",
+		"exact": "72,121,126"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,343,131",
+			"percent": "+ 3%"
+		},
+		"montlyChange": {
+			"rough": "- 43.3m",
+			"exact": "- 43,310,113",
+			"percent": "- 37%"
+		},
+		"quarterlyChange": {
+			"rough": "- 38.3m",
+			"exact": "- 38,293,306",
+			"percent": "- 34%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 38.4m",
+			"exact": "- 38,421,800",
+			"percent": "- 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-15 13:00:04",
+		"unix": 1663239604650
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "70.4m",
+		"exact": "70,385,282"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,735,844",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "- 43.0m",
+			"exact": "- 43,024,888",
+			"percent": "- 37%"
+		},
+		"quarterlyChange": {
+			"rough": "- 40.5m",
+			"exact": "- 40,477,544",
+			"percent": "- 36%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 38.9m",
+			"exact": "- 38,945,852",
+			"percent": "- 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-16 13:00:04",
+		"unix": 1663326004514
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "70.4m",
+		"exact": "70,385,282"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,735,844",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "- 43.0m",
+			"exact": "- 43,024,888",
+			"percent": "- 37%"
+		},
+		"quarterlyChange": {
+			"rough": "- 40.5m",
+			"exact": "- 40,477,544",
+			"percent": "- 36%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 38.9m",
+			"exact": "- 38,945,852",
+			"percent": "- 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-17 13:00:05",
+		"unix": 1663412405177
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "69.3m",
+		"exact": "69,273,284"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,111,998",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 41.6m",
+			"exact": "- 41,571,104",
+			"percent": "- 37%"
+		},
+		"quarterlyChange": {
+			"rough": "- 43.6m",
+			"exact": "- 43,586,118",
+			"percent": "- 38%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 38.7m",
+			"exact": "- 38,659,860",
+			"percent": "- 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-21 13:00:04",
+		"unix": 1663758004665
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "66.6m",
+		"exact": "66,555,590"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 35.4m",
+			"exact": "- 35,372,522",
+			"percent": "- 34%"
+		},
+		"quarterlyChange": {
+			"rough": "- 48.1m",
+			"exact": "- 48,128,525",
+			"percent": "- 41%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 40.8m",
+			"exact": "- 40,770,080",
+			"percent": "- 37%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-21 14:21:25",
+		"unix": 1663762885045
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "66.6m",
+		"exact": "66,555,590"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 35.4m",
+			"exact": "- 35,372,522",
+			"percent": "- 34%"
+		},
+		"quarterlyChange": {
+			"rough": "- 48.1m",
+			"exact": "- 48,128,525",
+			"percent": "- 41%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 40.8m",
+			"exact": "- 40,770,080",
+			"percent": "- 37%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-22 13:00:04",
+		"unix": 1663844404060
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "65.5m",
+		"exact": "65,483,271"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,072,319",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 36.4m",
+			"exact": "- 36,444,841",
+			"percent": "- 35%"
+		},
+		"quarterlyChange": {
+			"rough": "- 49.2m",
+			"exact": "- 49,200,844",
+			"percent": "- 42%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 41.8m",
+			"exact": "- 41,842,399",
+			"percent": "- 38%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-23 13:00:05",
+		"unix": 1663930805331
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "67.3m",
+		"exact": "67,328,095"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,844,824",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 29.9m",
+			"exact": "- 29,870,694",
+			"percent": "- 30%"
+		},
+		"quarterlyChange": {
+			"rough": "- 47.8m",
+			"exact": "- 47,841,949",
+			"percent": "- 41%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 39.3m",
+			"exact": "- 39,293,528",
+			"percent": "- 36%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-24 13:00:04",
+		"unix": 1664017204075
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "71.5m",
+		"exact": "71,482,460"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.0m",
+			"exact": "+ 2,031,124",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 16.8m",
+			"exact": "- 16,842,294",
+			"percent": "- 19%"
+		},
+		"quarterlyChange": {
+			"rough": "- 43.5m",
+			"exact": "- 43,511,638",
+			"percent": "- 37%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 33.6m",
+			"exact": "- 33,597,096",
+			"percent": "- 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-25 13:00:04",
+		"unix": 1664103604868
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "70.9m",
+		"exact": "70,944,082"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 538.4k",
+			"exact": "- 538,378",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 13.0m",
+			"exact": "- 12,964,434",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 42.5m",
+			"exact": "- 42,491,168",
+			"percent": "- 37%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 34.0m",
+			"exact": "- 34,033,378",
+			"percent": "- 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-26 13:00:03",
+		"unix": 1664190003888
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "70.9m",
+		"exact": "70,944,082"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 538.4k",
+			"exact": "- 538,378",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 13.0m",
+			"exact": "- 12,964,434",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 42.5m",
+			"exact": "- 42,491,168",
+			"percent": "- 37%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 34.0m",
+			"exact": "- 34,033,378",
+			"percent": "- 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-27 13:00:04",
+		"unix": 1664276404385
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "69.1m",
+		"exact": "69,091,221"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.9m",
+			"exact": "- 1,852,861",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "- 10.6m",
+			"exact": "- 10,621,869",
+			"percent": "- 13%"
+		},
+		"quarterlyChange": {
+			"rough": "- 45.0m",
+			"exact": "- 45,001,652",
+			"percent": "- 39%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 34.6m",
+			"exact": "- 34,572,372",
+			"percent": "- 33%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-28 13:00:04",
+		"unix": 1664362804833
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "67.8m",
+		"exact": "67,813,280"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 6.1m",
+			"exact": "- 6,118,848",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 50.4m",
+			"exact": "- 50,354,060",
+			"percent": "- 42%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 35.2m",
+			"exact": "- 35,151,631",
+			"percent": "- 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-29 13:00:04",
+		"unix": 1664449204199
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "67.6m",
+		"exact": "67,599,987"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 351.1k",
+			"exact": "- 351,060",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 5.5m",
+			"exact": "- 5,461,309",
+			"percent": "- 7%"
+		},
+		"quarterlyChange": {
+			"rough": "- 51.8m",
+			"exact": "- 51,770,931",
+			"percent": "- 43%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 35.2m",
+			"exact": "- 35,178,868",
+			"percent": "- 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-30 13:00:05",
+		"unix": 1664535605125
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "67.6m",
+		"exact": "67,571,328"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 28.7k",
+			"exact": "- 28,659",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 8.9m",
+			"exact": "- 8,875,251",
+			"percent": "- 11%"
+		},
+		"quarterlyChange": {
+			"rough": "- 51.8m",
+			"exact": "- 51,803,928",
+			"percent": "- 43%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 35.4m",
+			"exact": "- 35,404,845",
+			"percent": "- 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-01 13:00:04",
+		"unix": 1664622004245
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "68.8m",
+		"exact": "68,840,202"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,268,874",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 11.3m",
+			"exact": "- 11,343,484",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 50.3m",
+			"exact": "- 50,273,443",
+			"percent": "- 42%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 35.3m",
+			"exact": "- 35,254,774",
+			"percent": "- 33%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-02 13:00:04",
+		"unix": 1664708404686
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "68.8m",
+		"exact": "68,840,202"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,268,874",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 11.3m",
+			"exact": "- 11,343,484",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 50.3m",
+			"exact": "- 50,273,443",
+			"percent": "- 42%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 35.3m",
+			"exact": "- 35,254,774",
+			"percent": "- 33%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-03 13:00:03",
+		"unix": 1664794803946
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "70.9m",
+		"exact": "70,918,282"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,035,157",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 8.9m",
+			"exact": "- 8,872,332",
+			"percent": "- 11%"
+		},
+		"quarterlyChange": {
+			"rough": "- 51.0m",
+			"exact": "- 51,031,876",
+			"percent": "- 41%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 33.2m",
+			"exact": "- 33,244,252",
+			"percent": "- 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-04 13:00:05",
+		"unix": 1664881205259
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "72.1m",
+		"exact": "72,067,361"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,149,079",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 4.7m",
+			"exact": "- 4,748,116",
+			"percent": "- 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 49.1m",
+			"exact": "- 49,055,868",
+			"percent": "- 40%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 32.7m",
+			"exact": "- 32,746,919",
+			"percent": "- 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-05 13:00:04",
+		"unix": 1664967604891
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "72.1m",
+		"exact": "72,067,361"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 4.1m",
+			"exact": "- 4,076,340",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 48.9m",
+			"exact": "- 48,900,870",
+			"percent": "- 40%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 33.2m",
+			"exact": "- 33,230,579",
+			"percent": "- 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-06 13:00:04",
+		"unix": 1665054004905
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "71.2m",
+		"exact": "71,226,252"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 841.1k",
+			"exact": "- 841,109",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 4.9m",
+			"exact": "- 4,917,449",
+			"percent": "- 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 49.7m",
+			"exact": "- 49,741,979",
+			"percent": "- 41%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 34.1m",
+			"exact": "- 34,071,688",
+			"percent": "- 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-07 13:00:04",
+		"unix": 1665140404827
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "71.8m",
+		"exact": "71,775,991"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "389.6k",
+			"exact": "+ 389,574",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.0m",
+			"exact": "- 2,045,740",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 48.6m",
+			"exact": "- 48,600,185",
+			"percent": "- 40%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 36.1m",
+			"exact": "- 36,094,444",
+			"percent": "- 33%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-08 13:00:03",
+		"unix": 1665226803878
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "71.8m",
+		"exact": "71,775,991"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "389.6k",
+			"exact": "+ 389,574",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.0m",
+			"exact": "- 2,045,740",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 48.6m",
+			"exact": "- 48,600,185",
+			"percent": "- 40%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 36.1m",
+			"exact": "- 36,094,444",
+			"percent": "- 33%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-09 13:00:04",
+		"unix": 1665313204773
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "71.7m",
+		"exact": "71,724,643"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 51.3k",
+			"exact": "- 51,348",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 409.3k",
+			"exact": "- 409,316",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 48.6m",
+			"exact": "- 48,628,810",
+			"percent": "- 40%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 36.4m",
+			"exact": "- 36,366,203",
+			"percent": "- 33%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-10 13:00:04",
+		"unix": 1665399604186
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "73.0m",
+		"exact": "72,982,839"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,423,581",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "- 45.7m",
+			"exact": "- 45,662,302",
+			"percent": "- 38%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 38.3m",
+			"exact": "- 38,322,144",
+			"percent": "- 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-11 13:00:05",
+		"unix": 1665486005018
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "71.7m",
+		"exact": "71,678,015"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 668.1k",
+			"exact": "- 668,128",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,935,782",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "- 46.0m",
+			"exact": "- 46,039,884",
+			"percent": "- 39%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 41.2m",
+			"exact": "- 41,208,996",
+			"percent": "- 36%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-12 13:00:04",
+		"unix": 1665572404328
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "71.5m",
+		"exact": "71,509,973"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 168.0k",
+			"exact": "- 168,042",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,731,978",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 45.1m",
+			"exact": "- 45,060,134",
+			"percent": "- 38%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 40.5m",
+			"exact": "- 40,527,935",
+			"percent": "- 36%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-13 13:00:07",
+		"unix": 1665658807901
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "71.5m",
+		"exact": "71,509,973"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 168.0k",
+			"exact": "- 168,042",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,731,978",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 45.1m",
+			"exact": "- 45,060,134",
+			"percent": "- 38%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 40.5m",
+			"exact": "- 40,527,935",
+			"percent": "- 36%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-14 13:00:04",
+		"unix": 1665745204582
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "71.8m",
+		"exact": "71,771,445"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "452.3k",
+			"exact": "+ 452,292",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,386,163",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 42.5m",
+			"exact": "- 42,506,274",
+			"percent": "- 37%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 37.1m",
+			"exact": "- 37,130,242",
+			"percent": "- 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-15 13:00:05",
+		"unix": 1665831605020
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "72.3m",
+		"exact": "72,304,995"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "533.6k",
+			"exact": "+ 533,550",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 3,031,711",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "- 41.6m",
+			"exact": "- 41,639,005",
+			"percent": "- 36%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 35.4m",
+			"exact": "- 35,351,501",
+			"percent": "- 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-16 13:00:04",
+		"unix": 1665918004646
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "72.3m",
+		"exact": "72,304,995"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "533.6k",
+			"exact": "+ 533,550",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 3,031,711",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "- 41.6m",
+			"exact": "- 41,639,005",
+			"percent": "- 36%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 35.4m",
+			"exact": "- 35,351,501",
+			"percent": "- 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-17 13:00:04",
+		"unix": 1666004404062
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "74.3m",
+		"exact": "74,265,247"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,535,590",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 39.9m",
+			"exact": "- 39,910,151",
+			"percent": "- 34%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 35.1m",
+			"exact": "- 35,069,170",
+			"percent": "- 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-18 13:00:05",
+		"unix": 1666090805234
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "75.9m",
+		"exact": "75,915,022"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,649,775",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,185,365",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 38.3m",
+			"exact": "- 38,260,376",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 33.4m",
+			"exact": "- 33,419,395",
+			"percent": "- 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-19 13:00:04",
+		"unix": 1666177204219
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "80.2m",
+		"exact": "80,205,988"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,087,692",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "13.7m",
+			"exact": "+ 13,650,398",
+			"percent": "+ 20%"
+		},
+		"quarterlyChange": {
+			"rough": "- 34.2m",
+			"exact": "- 34,162,753",
+			"percent": "- 29%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 30.0m",
+			"exact": "- 30,046,343",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-20 13:00:05",
+		"unix": 1666263605656
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "80.2m",
+		"exact": "80,205,988"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,087,692",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "13.7m",
+			"exact": "+ 13,650,398",
+			"percent": "+ 20%"
+		},
+		"quarterlyChange": {
+			"rough": "- 34.2m",
+			"exact": "- 34,162,753",
+			"percent": "- 29%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 30.0m",
+			"exact": "- 30,046,343",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-21 13:00:04",
+		"unix": 1666350004305
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "80.8m",
+		"exact": "80,841,061"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 4,064",
+			"exact": "- 4,064",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "13.5m",
+			"exact": "+ 13,512,966",
+			"percent": "+ 20%"
+		},
+		"quarterlyChange": {
+			"rough": "- 34.1m",
+			"exact": "- 34,086,345",
+			"percent": "- 29%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 30.5m",
+			"exact": "- 30,534,257",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-22 13:00:04",
+		"unix": 1666436404673
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "80.6m",
+		"exact": "80,576,610"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 264.5k",
+			"exact": "- 264,451",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "11.1m",
+			"exact": "+ 11,125,274",
+			"percent": "+ 16%"
+		},
+		"quarterlyChange": {
+			"rough": "- 34.8m",
+			"exact": "- 34,778,861",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 30.8m",
+			"exact": "- 30,773,056",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-23 13:00:04",
+		"unix": 1666522804205
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "80.6m",
+		"exact": "80,576,610"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 264.5k",
+			"exact": "- 264,451",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "11.1m",
+			"exact": "+ 11,125,274",
+			"percent": "+ 16%"
+		},
+		"quarterlyChange": {
+			"rough": "- 34.8m",
+			"exact": "- 34,778,861",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 30.8m",
+			"exact": "- 30,773,056",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-24 13:00:04",
+		"unix": 1666609204097
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "80.6m",
+		"exact": "80,563,955"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "9.6m",
+			"exact": "+ 9,619,873",
+			"percent": "+ 13%"
+		},
+		"quarterlyChange": {
+			"rough": "- 34.9m",
+			"exact": "- 34,861,098",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 29.5m",
+			"exact": "- 29,514,880",
+			"percent": "- 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-25 13:00:04",
+		"unix": 1666695604331
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "80.0m",
+		"exact": "80,002,409"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 570.8k",
+			"exact": "- 570,817",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "10.9m",
+			"exact": "+ 10,911,188",
+			"percent": "+ 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 36.1m",
+			"exact": "- 36,059,301",
+			"percent": "- 31%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 30.5m",
+			"exact": "- 30,475,437",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-26 13:00:04",
+		"unix": 1666782004140
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "80.0m",
+		"exact": "80,002,409"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "12.2m",
+			"exact": "+ 12,189,129",
+			"percent": "+ 17%"
+		},
+		"quarterlyChange": {
+			"rough": "- 35.9m",
+			"exact": "- 35,942,374",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 31.1m",
+			"exact": "- 31,081,145",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-27 13:00:04",
+		"unix": 1666868404882
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "78.9m",
+		"exact": "78,870,575"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 436.7k",
+			"exact": "- 436,680",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "10.9m",
+			"exact": "+ 10,919,528",
+			"percent": "+ 16%"
+		},
+		"quarterlyChange": {
+			"rough": "- 36.7m",
+			"exact": "- 36,732,624",
+			"percent": "- 31%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 32.3m",
+			"exact": "- 32,319,939",
+			"percent": "- 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-28 13:00:04",
+		"unix": 1666954804907
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "78.4m",
+		"exact": "78,415,689"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 454.9k",
+			"exact": "- 454,886",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "10.8m",
+			"exact": "+ 10,815,702",
+			"percent": "+ 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 37.3m",
+			"exact": "- 37,294,721",
+			"percent": "- 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 34.4m",
+			"exact": "- 34,431,490",
+			"percent": "- 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-29 13:00:04",
+		"unix": 1667041204624
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "76.5m",
+		"exact": "76,535,765"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.9m",
+			"exact": "- 1,879,924",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "9.0m",
+			"exact": "+ 8,964,437",
+			"percent": "+ 13%"
+		},
+		"quarterlyChange": {
+			"rough": "- 40.0m",
+			"exact": "- 40,028,632",
+			"percent": "- 34%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 36.2m",
+			"exact": "- 36,224,078",
+			"percent": "- 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-30 13:00:04",
+		"unix": 1667131204716
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "76.5m",
+		"exact": "76,535,765"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.9m",
+			"exact": "- 1,879,924",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "9.0m",
+			"exact": "+ 8,964,437",
+			"percent": "+ 13%"
+		},
+		"quarterlyChange": {
+			"rough": "- 40.0m",
+			"exact": "- 40,028,632",
+			"percent": "- 34%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 36.2m",
+			"exact": "- 36,224,078",
+			"percent": "- 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-31 13:00:04",
+		"unix": 1667217604367
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "76.1m",
+		"exact": "76,079,448"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "445.0k",
+			"exact": "+ 445,016",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,196,323",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 42.8m",
+			"exact": "- 42,814,879",
+			"percent": "- 36%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 36.7m",
+			"exact": "- 36,714,769",
+			"percent": "- 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-01 13:00:04",
+		"unix": 1667304004196
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "77.6m",
+		"exact": "77,614,792"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,535,344",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "6.7m",
+			"exact": "+ 6,696,510",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 42.7m",
+			"exact": "- 42,689,732",
+			"percent": "- 35%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 34.4m",
+			"exact": "- 34,435,648",
+			"percent": "- 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-02 13:00:03",
+		"unix": 1667390403966
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "77.3m",
+		"exact": "77,256,265"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 358.5k",
+			"exact": "- 358,527",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,188,904",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "- 45.2m",
+			"exact": "- 45,195,050",
+			"percent": "- 36%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 34.2m",
+			"exact": "- 34,222,762",
+			"percent": "- 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-03 13:00:04",
+		"unix": 1667476804624
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "76.7m",
+		"exact": "76,692,617"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 563.6k",
+			"exact": "- 563,648",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.5m",
+			"exact": "+ 5,466,365",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "- 45.6m",
+			"exact": "- 45,612,354",
+			"percent": "- 37%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 34.6m",
+			"exact": "- 34,583,557",
+			"percent": "- 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-04 13:00:04",
+		"unix": 1667563204439
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "76.7m",
+		"exact": "76,692,617"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 563.6k",
+			"exact": "- 563,648",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.5m",
+			"exact": "+ 5,466,365",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "- 45.6m",
+			"exact": "- 45,612,354",
+			"percent": "- 37%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 34.6m",
+			"exact": "- 34,583,557",
+			"percent": "- 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-05 13:00:04",
+		"unix": 1667649604669
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "78.8m",
+		"exact": "78,769,607"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "788.9k",
+			"exact": "+ 788,914",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "7.0m",
+			"exact": "+ 6,993,616",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 40.6m",
+			"exact": "- 40,587,223",
+			"percent": "- 34%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 30.6m",
+			"exact": "- 30,593,233",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-06 13:00:04",
+		"unix": 1667736004192
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "80.0m",
+		"exact": "80,015,480"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,245,873",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "8.3m",
+			"exact": "+ 8,290,837",
+			"percent": "+ 11%"
+		},
+		"quarterlyChange": {
+			"rough": "- 38.4m",
+			"exact": "- 38,434,440",
+			"percent": "- 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 28.8m",
+			"exact": "- 28,785,471",
+			"percent": "- 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-07 13:00:04",
+		"unix": 1667822404936
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "80.0m",
+		"exact": "80,015,480"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "7.0m",
+			"exact": "+ 7,032,641",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 38.5m",
+			"exact": "- 38,505,246",
+			"percent": "- 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 28.4m",
+			"exact": "- 28,350,659",
+			"percent": "- 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-08 13:00:04",
+		"unix": 1667908804655
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "82.4m",
+		"exact": "82,394,146"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "956.2k",
+			"exact": "+ 956,197",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "10.0m",
+			"exact": "+ 10,048,003",
+			"percent": "+ 13%"
+		},
+		"quarterlyChange": {
+			"rough": "- 35.6m",
+			"exact": "- 35,578,867",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 26.8m",
+			"exact": "- 26,834,496",
+			"percent": "- 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-09 13:00:04",
+		"unix": 1667995204880
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "82.4m",
+		"exact": "82,394,146"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "10.7m",
+			"exact": "+ 10,716,131",
+			"percent": "+ 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 34.6m",
+			"exact": "- 34,623,452",
+			"percent": "- 29%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 28.4m",
+			"exact": "- 28,381,973",
+			"percent": "- 25%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-10 13:00:04",
+		"unix": 1668081604699
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "79.0m",
+		"exact": "79,006,479"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,198,170",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "7.5m",
+			"exact": "+ 7,496,506",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "- 37.7m",
+			"exact": "- 37,659,177",
+			"percent": "- 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 32.4m",
+			"exact": "- 32,392,299",
+			"percent": "- 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-11 13:00:03",
+		"unix": 1668168003809
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "79.0m",
+		"exact": "79,006,479"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,198,170",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "7.5m",
+			"exact": "+ 7,496,506",
+			"percent": "+ 10%"
+		},
+		"quarterlyChange": {
+			"rough": "- 37.7m",
+			"exact": "- 37,659,177",
+			"percent": "- 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 32.4m",
+			"exact": "- 32,392,299",
+			"percent": "- 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-12 13:00:04",
+		"unix": 1668254404659
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "77.2m",
+		"exact": "77,227,404"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 293.5k",
+			"exact": "- 293,450",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.5m",
+			"exact": "+ 5,455,959",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "- 39.0m",
+			"exact": "- 39,030,064",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 34.5m",
+			"exact": "- 34,460,343",
+			"percent": "- 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-13 13:00:04",
+		"unix": 1668340804304
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "77.1m",
+		"exact": "77,079,200"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 148.2k",
+			"exact": "- 148,204",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,774,205",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 38.4m",
+			"exact": "- 38,352,039",
+			"percent": "- 33%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 35.1m",
+			"exact": "- 35,085,057",
+			"percent": "- 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-14 13:00:04",
+		"unix": 1668427204747
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "78.8m",
+		"exact": "78,816,703"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.7m",
+			"exact": "+ 1,737,503",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,551,456",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 34.6m",
+			"exact": "- 34,593,467",
+			"percent": "- 30%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 33.6m",
+			"exact": "- 33,587,000",
+			"percent": "- 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-15 13:00:04",
+		"unix": 1668513604048
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "79.0m",
+		"exact": "78,990,899"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "174.2k",
+			"exact": "+ 174,196",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,075,877",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "- 31.9m",
+			"exact": "- 31,853,489",
+			"percent": "- 28%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 35.0m",
+			"exact": "- 34,982,583",
+			"percent": "- 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-16 13:00:05",
+		"unix": 1668600005029
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "79.0m",
+		"exact": "78,990,899"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "872.6k",
+			"exact": "+ 872,603",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 30.2m",
+			"exact": "- 30,154,177",
+			"percent": "- 27%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 34.6m",
+			"exact": "- 34,603,543",
+			"percent": "- 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-17 13:00:04",
+		"unix": 1668686404452
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "78.1m",
+		"exact": "78,071,650"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 138.3k",
+			"exact": "- 138,260",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.1m",
+			"exact": "- 2,134,338",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 29.2m",
+			"exact": "- 29,176,254",
+			"percent": "- 27%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 35.7m",
+			"exact": "- 35,744,498",
+			"percent": "- 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-18 13:00:03",
+		"unix": 1668772803557
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "79.1m",
+		"exact": "79,091,571"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,019,921",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 1.8m",
+			"exact": "- 1,753,554",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 26.9m",
+			"exact": "- 26,895,810",
+			"percent": "- 25%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 34.0m",
+			"exact": "- 34,011,542",
+			"percent": "- 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-19 13:00:04",
+		"unix": 1668859204545
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "79.1m",
+		"exact": "79,091,571"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,019,921",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 1.8m",
+			"exact": "- 1,753,554",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 26.9m",
+			"exact": "- 26,895,810",
+			"percent": "- 25%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 34.0m",
+			"exact": "- 34,011,542",
+			"percent": "- 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-20 13:00:04",
+		"unix": 1668945604403
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "78.9m",
+		"exact": "78,893,605"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 69.1k",
+			"exact": "- 69,067",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,683,005",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 23.0m",
+			"exact": "- 23,034,507",
+			"percent": "- 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 32.9m",
+			"exact": "- 32,923,295",
+			"percent": "- 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-21 13:00:04",
+		"unix": 1669032004761
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "79.6m",
+		"exact": "79,555,555"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "662.0k",
+			"exact": "+ 661,950",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.0m",
+			"exact": "- 1,008,400",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 17.6m",
+			"exact": "- 17,643,234",
+			"percent": "- 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 31.7m",
+			"exact": "- 31,656,518",
+			"percent": "- 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-23 13:00:05",
+		"unix": 1669204805154
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "81.5m",
+		"exact": "81,456,526"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,508,669",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,454,117",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.9m",
+			"exact": "- 6,868,228",
+			"percent": "- 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 28.9m",
+			"exact": "- 28,895,351",
+			"percent": "- 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-24 13:00:04",
+		"unix": 1669291204380
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "80.3m",
+		"exact": "80,310,456"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,146,070",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,003,201",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.6m",
+			"exact": "- 3,598,060",
+			"percent": "- 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 30.1m",
+			"exact": "- 30,071,637",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-25 13:00:04",
+		"unix": 1669377604428
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "80.3m",
+		"exact": "80,310,456"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,146,070",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,003,201",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.6m",
+			"exact": "- 3,598,060",
+			"percent": "- 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 30.1m",
+			"exact": "- 30,071,637",
+			"percent": "- 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-26 13:00:04",
+		"unix": 1669464004478
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "81.9m",
+		"exact": "81,887,027"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "523.9k",
+			"exact": "+ 523,863",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,471,338",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "5.6m",
+			"exact": "+ 5,569,641",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 27.2m",
+			"exact": "- 27,178,431",
+			"percent": "- 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-27 13:00:04",
+		"unix": 1669550404620
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "81.7m",
+		"exact": "81,740,022"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 147.0k",
+			"exact": "- 147,005",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,204,257",
+			"percent": "+ 6%"
+		},
+		"quarterlyChange": {
+			"rough": "7.8m",
+			"exact": "+ 7,807,894",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 26.9m",
+			"exact": "- 26,871,031",
+			"percent": "- 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-28 13:00:04",
+		"unix": 1669636804762
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "81.8m",
+		"exact": "81,820,103"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "80.1k",
+			"exact": "+ 80,081",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,185,671",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "8.8m",
+			"exact": "+ 8,758,807",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 27.6m",
+			"exact": "- 27,598,746",
+			"percent": "- 25%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-29 13:00:04",
+		"unix": 1669723204487
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "81.8m",
+		"exact": "81,820,103"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "80.1k",
+			"exact": "+ 80,081",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,185,671",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "8.8m",
+			"exact": "+ 8,758,807",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 27.6m",
+			"exact": "- 27,598,746",
+			"percent": "- 25%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-30 13:00:04",
+		"unix": 1669809604658
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "81.5m",
+		"exact": "81,540,719"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,925,927",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,357,033",
+			"percent": "+ 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 28.5m",
+			"exact": "- 28,461,053",
+			"percent": "- 25%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-12-01 13:00:06",
+		"unix": 1669896006304
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "81.1m",
+		"exact": "81,120,429"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 359.6k",
+			"exact": "- 359,571",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,864,164",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,653,393",
+			"percent": "- 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 29.5m",
+			"exact": "- 29,504,563",
+			"percent": "- 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-12-02 13:00:03",
+		"unix": 1669982403885
+	},
+	"itemName": "Kodai wand",
+	"currentPrice": {
+		"rough": "80.9m",
+		"exact": "80,896,324"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 224.1k",
+			"exact": "- 224,105",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "4.2m",
+			"exact": "+ 4,203,707",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,105,710",
+			"percent": "+ 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 29.2m",
+			"exact": "- 29,204,497",
+			"percent": "- 26%"
+		}
+	}
+},

@@ -1,0 +1,6435 @@
+{
+	"date": {
+		"dateString": "2022-04-25 14:34:27",
+		"unix": 1650890067102
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.7m",
+		"exact": "29,725,131"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 9,082",
+			"exact": "- 9,082",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,685,580",
+			"percent": "+ 14%"
+		},
+		"quarterlyChange": {
+			"rough": "7.3m",
+			"exact": "+ 7,348,723",
+			"percent": "+ 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "15.1m",
+			"exact": "+ 15,067,366",
+			"percent": "+ 102%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-27 08:20:11",
+		"unix": 1651040411917
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.5m",
+		"exact": "29,471,013"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 254.1k",
+			"exact": "- 254,118",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,399,770",
+			"percent": "+ 13%"
+		},
+		"quarterlyChange": {
+			"rough": "7.1m",
+			"exact": "+ 7,146,398",
+			"percent": "+ 32%"
+		},
+		"semiAnnualChange": {
+			"rough": "14.9m",
+			"exact": "+ 14,884,623",
+			"percent": "+ 102%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-28 20:52:18",
+		"unix": 1651171938100
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.3m",
+		"exact": "29,251,575"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "14.4k",
+			"exact": "+ 14,421",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,158,961",
+			"percent": "+ 12%"
+		},
+		"quarterlyChange": {
+			"rough": "7.0m",
+			"exact": "+ 6,951,446",
+			"percent": "+ 31%"
+		},
+		"semiAnnualChange": {
+			"rough": "14.9m",
+			"exact": "+ 14,900,975",
+			"percent": "+ 103%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-29 17:30:38",
+		"unix": 1651246238537
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.3m",
+		"exact": "29,271,376"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "19.8k",
+			"exact": "+ 19,801",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,362,656",
+			"percent": "+ 12%"
+		},
+		"quarterlyChange": {
+			"rough": "7.0m",
+			"exact": "+ 6,969,694",
+			"percent": "+ 31%"
+		},
+		"semiAnnualChange": {
+			"rough": "15.1m",
+			"exact": "+ 15,051,756",
+			"percent": "+ 105%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-04-30 12:07:46",
+		"unix": 1651313266127
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.3m",
+		"exact": "29,271,376"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "19.8k",
+			"exact": "+ 19,801",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,362,656",
+			"percent": "+ 12%"
+		},
+		"quarterlyChange": {
+			"rough": "7.0m",
+			"exact": "+ 6,969,694",
+			"percent": "+ 31%"
+		},
+		"semiAnnualChange": {
+			"rough": "15.1m",
+			"exact": "+ 15,051,756",
+			"percent": "+ 105%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-02 08:13:06",
+		"unix": 1651471986140
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.6m",
+		"exact": "29,627,722"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "57.8k",
+			"exact": "+ 57,757",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,661,749",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "6.0m",
+			"exact": "+ 5,961,714",
+			"percent": "+ 25%"
+		},
+		"semiAnnualChange": {
+			"rough": "16.1m",
+			"exact": "+ 16,107,678",
+			"percent": "+ 119%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-05 11:05:42",
+		"unix": 1651741542495
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.2m",
+		"exact": "29,235,519"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 207.0k",
+			"exact": "- 206,953",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,984,032",
+			"percent": "+ 7%"
+		},
+		"quarterlyChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,668,071",
+			"percent": "+ 24%"
+		},
+		"semiAnnualChange": {
+			"rough": "14.4m",
+			"exact": "+ 14,427,838",
+			"percent": "+ 97%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-06 15:57:28",
+		"unix": 1651845448628
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.9m",
+		"exact": "28,866,564"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 134.2k",
+			"exact": "- 134,246",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,555,447",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,943,527",
+			"percent": "+ 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "12.8m",
+			"exact": "+ 12,818,126",
+			"percent": "+ 79%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-08 10:09:54",
+		"unix": 1651997394843
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.7m",
+		"exact": "28,686,537"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 54.9k",
+			"exact": "- 54,945",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,220,403",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "5.0m",
+			"exact": "+ 5,001,181",
+			"percent": "+ 21%"
+		},
+		"semiAnnualChange": {
+			"rough": "11.0m",
+			"exact": "+ 10,993,948",
+			"percent": "+ 62%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-09 19:01:17",
+		"unix": 1652115677870
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.0m",
+		"exact": "29,022,944"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "336.4k",
+			"exact": "+ 336,407",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,182,237",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,310,683",
+			"percent": "+ 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.4m",
+			"exact": "+ 10,446,827",
+			"percent": "+ 56%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-10 14:06:10",
+		"unix": 1652184370876
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.0m",
+		"exact": "29,022,944"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "336.4k",
+			"exact": "+ 336,407",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,182,237",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,310,683",
+			"percent": "+ 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.4m",
+			"exact": "+ 10,446,827",
+			"percent": "+ 56%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-11 13:41:30",
+		"unix": 1652269290838
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.0m",
+		"exact": "28,960,487"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 74.5k",
+			"exact": "- 74,476",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,158,207",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,237,531",
+			"percent": "+ 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.5m",
+			"exact": "+ 8,482,243",
+			"percent": "+ 41%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-12 13:07:16",
+		"unix": 1652353636562
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.9m",
+		"exact": "28,932,449"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 28.0k",
+			"exact": "- 28,038",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,192,072",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "5.2m",
+			"exact": "+ 5,204,823",
+			"percent": "+ 21%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.6m",
+			"exact": "+ 7,607,668",
+			"percent": "+ 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-13 14:07:40",
+		"unix": 1652443660520
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.0m",
+		"exact": "29,047,508"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "115.1k",
+			"exact": "+ 115,059",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,348,282",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,303,157",
+			"percent": "+ 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.7m",
+			"exact": "+ 7,717,361",
+			"percent": "+ 36%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-14 16:34:38",
+		"unix": 1652538878223
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.0m",
+		"exact": "29,047,508"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "115.1k",
+			"exact": "+ 115,059",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,348,282",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,303,157",
+			"percent": "+ 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.7m",
+			"exact": "+ 7,717,361",
+			"percent": "+ 36%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-15 19:16:36",
+		"unix": 1652634996744
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.3m",
+		"exact": "29,287,556"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 5,367",
+			"exact": "- 5,367",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,269,299",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "5.5m",
+			"exact": "+ 5,475,953",
+			"percent": "+ 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.5m",
+			"exact": "+ 8,470,161",
+			"percent": "+ 40%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-16 23:21:08",
+		"unix": 1652736068313
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.2m",
+		"exact": "29,233,166"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 54.4k",
+			"exact": "- 54,390",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,251,547",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,252,801",
+			"percent": "+ 21%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.3m",
+			"exact": "+ 8,254,675",
+			"percent": "+ 39%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-17 15:38:05",
+		"unix": 1652794685956
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.2m",
+		"exact": "29,233,166"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 54.4k",
+			"exact": "- 54,390",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,251,547",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,252,801",
+			"percent": "+ 21%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.3m",
+			"exact": "+ 8,254,675",
+			"percent": "+ 39%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-18 16:34:56",
+		"unix": 1652884496623
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.8m",
+		"exact": "28,792,873"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 414.5k",
+			"exact": "- 414,510",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "609.8k",
+			"exact": "+ 609,843",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,519,949",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.6m",
+			"exact": "+ 6,565,198",
+			"percent": "+ 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-19 23:57:59",
+		"unix": 1652997479028
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.9m",
+		"exact": "28,925,836"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "133.0k",
+			"exact": "+ 132,963",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "675.3k",
+			"exact": "+ 675,312",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,589,181",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.1m",
+			"exact": "+ 6,121,793",
+			"percent": "+ 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-20 13:32:00",
+		"unix": 1653046320503
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.9m",
+		"exact": "28,925,836"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "133.0k",
+			"exact": "+ 132,963",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "675.3k",
+			"exact": "+ 675,312",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,589,181",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.1m",
+			"exact": "+ 6,121,793",
+			"percent": "+ 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-21 10:37:14",
+		"unix": 1653122234615
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.2m",
+		"exact": "29,239,321"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "27.2k",
+			"exact": "+ 27,217",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "373.2k",
+			"exact": "+ 373,221",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,895,264",
+			"percent": "+ 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,567,523",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-23 16:04:20",
+		"unix": 1653314660520
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.2m",
+		"exact": "29,154,946"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 84.4k",
+			"exact": "- 84,375",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 277.6k",
+			"exact": "- 277,554",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,575,281",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,739,447",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-24 17:12:15",
+		"unix": 1653405135993
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.1m",
+		"exact": "29,144,667"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 10.3k",
+			"exact": "- 10,279",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 589.5k",
+			"exact": "- 589,546",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,589,104",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,942,765",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-25 17:02:25",
+		"unix": 1653490945087
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.1m",
+		"exact": "29,111,538"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 94.3k",
+			"exact": "- 94,344",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 359.5k",
+			"exact": "- 359,475",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,506,729",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.4m",
+			"exact": "+ 5,361,999",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-26 18:15:17",
+		"unix": 1653581717746
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.2m",
+		"exact": "29,223,491"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "112.0k",
+			"exact": "+ 111,953",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 13.7k",
+			"exact": "- 13,663",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,514,601",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.4m",
+			"exact": "+ 6,385,199",
+			"percent": "+ 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-27 17:10:00",
+		"unix": 1653664200169
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.2m",
+		"exact": "29,223,491"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "112.0k",
+			"exact": "+ 111,953",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 13.7k",
+			"exact": "- 13,663",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,514,601",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.4m",
+			"exact": "+ 6,385,199",
+			"percent": "+ 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-28 21:18:19",
+		"unix": 1653765499988
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.2m",
+		"exact": "29,228,201"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "97.3k",
+			"exact": "+ 97,319",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 43.2k",
+			"exact": "- 43,175",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "4.2m",
+			"exact": "+ 4,211,416",
+			"percent": "+ 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.6m",
+			"exact": "+ 6,572,763",
+			"percent": "+ 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-29 21:39:11",
+		"unix": 1653853151670
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.3m",
+		"exact": "29,267,132"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "38.9k",
+			"exact": "+ 38,931",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 345.7k",
+			"exact": "- 345,684",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "4.1m",
+			"exact": "+ 4,108,501",
+			"percent": "+ 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.5m",
+			"exact": "+ 6,468,631",
+			"percent": "+ 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-30 18:12:36",
+		"unix": 1653927156516
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.1m",
+		"exact": "29,093,929"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 173.2k",
+			"exact": "- 173,203",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 476.0k",
+			"exact": "- 476,036",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,709,491",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.3m",
+			"exact": "+ 6,250,213",
+			"percent": "+ 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-05-31 13:37:39",
+		"unix": 1653997059910
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.1m",
+		"exact": "29,093,929"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 533.8k",
+			"exact": "- 533,793",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,833,472",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,205,209",
+			"percent": "+ 27%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-01 22:39:27",
+		"unix": 1654115967868
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.1m",
+		"exact": "29,135,890"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "30.6k",
+			"exact": "+ 30,572",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 306.6k",
+			"exact": "- 306,582",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "4.0m",
+			"exact": "+ 4,018,270",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,164,692",
+			"percent": "+ 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-02 20:53:10",
+		"unix": 1654195990882
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.2m",
+		"exact": "29,201,917"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "66.0k",
+			"exact": "+ 66,027",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 33.6k",
+			"exact": "- 33,602",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "4.0m",
+			"exact": "+ 3,985,000",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.0m",
+			"exact": "+ 6,046,245",
+			"percent": "+ 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-05 20:16:58",
+		"unix": 1654453018337
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.0m",
+		"exact": "29,992,774"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "215.3k",
+			"exact": "+ 215,314",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,251,292",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "4.6m",
+			"exact": "+ 4,627,462",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.7m",
+			"exact": "+ 6,678,187",
+			"percent": "+ 28%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-07 14:43:07",
+		"unix": 1654605787398
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.1m",
+		"exact": "30,107,774"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "66.4k",
+			"exact": "+ 66,361",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,084,830",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,838,134",
+			"percent": "+ 19%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.0m",
+			"exact": "+ 5,975,203",
+			"percent": "+ 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-08 16:52:45",
+		"unix": 1654699965195
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.2m",
+		"exact": "30,221,087"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "113.3k",
+			"exact": "+ 113,313",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,186,124",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,882,450",
+			"percent": "+ 19%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,941,939",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-09 13:03:46",
+		"unix": 1654772626935
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.2m",
+		"exact": "30,216,206"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 4,881",
+			"exact": "- 4,881",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,255,719",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,794,974",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,866,039",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-10 15:51:55",
+		"unix": 1654869115794
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.2m",
+		"exact": "30,216,206"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 4,881",
+			"exact": "- 4,881",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,255,719",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,794,974",
+			"percent": "+ 18%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,866,039",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-11 15:35:03",
+		"unix": 1654954503981
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.3m",
+		"exact": "30,341,660"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "30.1k",
+			"exact": "+ 30,097",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,294,152",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "5.0m",
+			"exact": "+ 4,981,897",
+			"percent": "+ 19%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,495,817",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-13 08:58:34",
+		"unix": 1655103514420
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.3m",
+		"exact": "30,260,562"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 115.8k",
+			"exact": "- 115,801",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "973.0k",
+			"exact": "+ 973,006",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "5.0m",
+			"exact": "+ 5,015,707",
+			"percent": "+ 19%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.0m",
+			"exact": "+ 6,048,304",
+			"percent": "+ 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-13 17:25:10",
+		"unix": 1655133910953
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.3m",
+		"exact": "30,260,562"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 115.8k",
+			"exact": "- 115,801",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "973.0k",
+			"exact": "+ 973,006",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "5.0m",
+			"exact": "+ 5,015,707",
+			"percent": "+ 19%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.0m",
+			"exact": "+ 6,048,304",
+			"percent": "+ 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-14 14:23:02",
+		"unix": 1655209382835
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.3m",
+		"exact": "30,260,562"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 115.8k",
+			"exact": "- 115,801",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "973.0k",
+			"exact": "+ 973,006",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "5.0m",
+			"exact": "+ 5,015,707",
+			"percent": "+ 19%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.0m",
+			"exact": "+ 6,048,304",
+			"percent": "+ 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-15 16:15:38",
+		"unix": 1655302538133
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.5m",
+		"exact": "29,491,077"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 165.4k",
+			"exact": "- 165,412",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "283.7k",
+			"exact": "+ 283,694",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "4.3m",
+			"exact": "+ 4,279,130",
+			"percent": "+ 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,403,032",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-16 23:31:48",
+		"unix": 1655415108501
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.3m",
+		"exact": "29,302,510"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 188.6k",
+			"exact": "- 188,567",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "509.6k",
+			"exact": "+ 509,637",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "4.0m",
+			"exact": "+ 3,973,187",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.1m",
+			"exact": "+ 4,094,657",
+			"percent": "+ 16%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-17 20:10:05",
+		"unix": 1655489405768
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.3m",
+		"exact": "29,268,558"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 34.0k",
+			"exact": "- 33,952",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "342.7k",
+			"exact": "+ 342,722",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,730,990",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,814,787",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-18 11:37:34",
+		"unix": 1655545054581
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.3m",
+		"exact": "29,268,558"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 34.0k",
+			"exact": "- 33,952",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "342.7k",
+			"exact": "+ 342,722",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,730,990",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,814,787",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-19 00:09:23",
+		"unix": 1655590163540
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.1m",
+		"exact": "29,093,581"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 175.0k",
+			"exact": "- 174,977",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 118.5k",
+			"exact": "- 118,523",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,474,568",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,473,572",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-19 22:43:18",
+		"unix": 1655671398502
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.0m",
+		"exact": "28,951,205"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 142.4k",
+			"exact": "- 142,376",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 288.1k",
+			"exact": "- 288,116",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,466,402",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,802,330",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-21 12:56:00",
+		"unix": 1655808960456
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.8m",
+		"exact": "28,787,536"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 61.0k",
+			"exact": "- 60,998",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 357.1k",
+			"exact": "- 357,131",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,336,726",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,344,981",
+			"percent": "+ 4%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-22 09:34:56",
+		"unix": 1655883296615
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.8m",
+		"exact": "28,787,536"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 61.0k",
+			"exact": "- 60,998",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 357.1k",
+			"exact": "- 357,131",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,336,726",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,344,981",
+			"percent": "+ 4%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-22 13:00:17",
+		"unix": 1655895617312
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.8m",
+		"exact": "28,787,536"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 61.0k",
+			"exact": "- 60,998",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 357.1k",
+			"exact": "- 357,131",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,336,726",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,344,981",
+			"percent": "+ 4%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-23 13:00:15",
+		"unix": 1655982015118
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.0m",
+		"exact": "29,001,613"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "214.1k",
+			"exact": "+ 214,077",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 204.3k",
+			"exact": "- 204,269",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,367,836",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "942.5k",
+			"exact": "+ 942,475",
+			"percent": "+ 3%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-24 13:00:14",
+		"unix": 1656068414308
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.4m",
+		"exact": "29,383,326"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "25.9k",
+			"exact": "+ 25,866",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "159.8k",
+			"exact": "+ 159,835",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,343,775",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,531,147",
+			"percent": "+ 5%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-25 13:00:15",
+		"unix": 1656154815410
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.2m",
+		"exact": "29,186,102"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 197.2k",
+			"exact": "- 197,224",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "55.2k",
+			"exact": "+ 55,220",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,114,859",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,371,122",
+			"percent": "+ 4%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-26 13:00:14",
+		"unix": 1656241214786
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.1m",
+		"exact": "29,103,875"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 82.2k",
+			"exact": "- 82,227",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 124.3k",
+			"exact": "- 124,326",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,985,140",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,074,706",
+			"percent": "+ 3%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-27 13:00:17",
+		"unix": 1656327617470
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.1m",
+		"exact": "29,118,724"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "14.8k",
+			"exact": "+ 14,849",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 148.4k",
+			"exact": "- 148,408",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 3,026,110",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,001,844",
+			"percent": "+ 3%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-28 13:00:14",
+		"unix": 1656414014794
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.1m",
+		"exact": "29,118,724"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "14.8k",
+			"exact": "+ 14,849",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 148.4k",
+			"exact": "- 148,408",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "3.0m",
+			"exact": "+ 3,026,110",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,001,844",
+			"percent": "+ 3%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-29 13:00:15",
+		"unix": 1656500415349
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.5m",
+		"exact": "29,477,696"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "372.4k",
+			"exact": "+ 372,378",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "3.4m",
+			"exact": "+ 3,412,192",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,968,588",
+			"percent": "+ 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-06-30 13:00:15",
+		"unix": 1656586815493
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.7m",
+		"exact": "29,690,395"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "212.7k",
+			"exact": "+ 212,699",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "585.1k",
+			"exact": "+ 585,077",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "3.6m",
+			"exact": "+ 3,624,891",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,181,287",
+			"percent": "+ 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-01 13:00:16",
+		"unix": 1656673216372
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.2m",
+		"exact": "30,150,049"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "459.7k",
+			"exact": "+ 459,654",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,014,159",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "3.7m",
+			"exact": "+ 3,696,327",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,877,230",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-02 13:00:13",
+		"unix": 1656759613920
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.1m",
+		"exact": "30,148,520"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1,529",
+			"exact": "- 1,529",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "946.6k",
+			"exact": "+ 946,603",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,182,547",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,855,502",
+			"percent": "+ 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-03 13:00:13",
+		"unix": 1656846013218
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.2m",
+		"exact": "30,153,581"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 203.3k",
+			"exact": "- 203,287",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "376.1k",
+			"exact": "+ 376,121",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,902,094",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,809,353",
+			"percent": "+ 14%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-04 13:00:14",
+		"unix": 1656932414335
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.0m",
+		"exact": "30,023,752"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 129.8k",
+			"exact": "- 129,829",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "31.0k",
+			"exact": "+ 30,978",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "2.8m",
+			"exact": "+ 2,821,796",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.0m",
+			"exact": "+ 4,996,736",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-05 13:00:13",
+		"unix": 1657018813590
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.8m",
+		"exact": "29,815,671"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 208.1k",
+			"exact": "- 208,081",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 225.7k",
+			"exact": "- 225,742",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "2.5m",
+			"exact": "+ 2,504,554",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.0m",
+			"exact": "+ 6,040,006",
+			"percent": "+ 25%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-06 13:00:13",
+		"unix": 1657105213108
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.0m",
+		"exact": "29,978,541"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "162.9k",
+			"exact": "+ 162,870",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 129.2k",
+			"exact": "- 129,233",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,637,121",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.4m",
+			"exact": "+ 7,391,376",
+			"percent": "+ 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-07 13:00:12",
+		"unix": 1657191612849
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.2m",
+		"exact": "30,171,978"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "193.4k",
+			"exact": "+ 193,437",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 49.1k",
+			"exact": "- 49,109",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,705,844",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.7m",
+			"exact": "+ 8,714,160",
+			"percent": "+ 40%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-08 13:00:13",
+		"unix": 1657278013702
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.2m",
+		"exact": "30,171,978"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "193.4k",
+			"exact": "+ 193,437",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 49.1k",
+			"exact": "- 49,109",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,705,844",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.7m",
+			"exact": "+ 8,714,160",
+			"percent": "+ 40%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-09 13:00:13",
+		"unix": 1657364413776
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.5m",
+		"exact": "30,538,719"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "75.1k",
+			"exact": "+ 75,090",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "227.2k",
+			"exact": "+ 227,156",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,617,796",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.5m",
+			"exact": "+ 9,505,661",
+			"percent": "+ 45%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-10 13:00:16",
+		"unix": 1657450816134
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "31.4m",
+		"exact": "31,378,322"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "839.6k",
+			"exact": "+ 839,603",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "1.0m",
+			"exact": "+ 1,036,662",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "3.6m",
+			"exact": "+ 3,576,042",
+			"percent": "+ 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.5m",
+			"exact": "+ 9,450,744",
+			"percent": "+ 43%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-11 13:00:13",
+		"unix": 1657537213714
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "31.1m",
+		"exact": "31,058,252"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 320.1k",
+			"exact": "- 320,070",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "681.9k",
+			"exact": "+ 681,889",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,317,875",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.9m",
+			"exact": "+ 8,949,198",
+			"percent": "+ 40%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-12 13:00:13",
+		"unix": 1657623613730
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "31.1m",
+		"exact": "31,058,252"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 320.1k",
+			"exact": "- 320,070",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "681.9k",
+			"exact": "+ 681,889",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "3.3m",
+			"exact": "+ 3,317,875",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.9m",
+			"exact": "+ 8,949,198",
+			"percent": "+ 40%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-13 13:00:13",
+		"unix": 1657710013460
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "31.1m",
+		"exact": "31,055,441"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 162.2k",
+			"exact": "- 162,224",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,398,952",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,094,816",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.2m",
+			"exact": "+ 9,247,378",
+			"percent": "+ 42%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-14 13:00:13",
+		"unix": 1657796413846
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.7m",
+		"exact": "30,681,861"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 373.6k",
+			"exact": "- 373,580",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,190,784",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "2.7m",
+			"exact": "+ 2,663,604",
+			"percent": "+ 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.4m",
+			"exact": "+ 9,430,707",
+			"percent": "+ 44%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-15 13:00:15",
+		"unix": 1657882815942
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.4m",
+		"exact": "30,367,035"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 314.8k",
+			"exact": "- 314,826",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,064,525",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,385,416",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.0m",
+			"exact": "+ 8,991,340",
+			"percent": "+ 42%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-16 13:00:15",
+		"unix": 1657969215565
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.4m",
+		"exact": "30,367,035"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 314.8k",
+			"exact": "- 314,826",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,064,525",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,385,416",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.0m",
+			"exact": "+ 8,991,340",
+			"percent": "+ 42%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-17 13:00:16",
+		"unix": 1658055616116
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.2m",
+		"exact": "30,162,188"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 204.8k",
+			"exact": "- 204,847",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "893.6k",
+			"exact": "+ 893,630",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,938,295",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.4m",
+			"exact": "+ 9,352,004",
+			"percent": "+ 44%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-18 13:00:14",
+		"unix": 1658142014827
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.0m",
+		"exact": "29,961,864"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 200.3k",
+			"exact": "- 200,324",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "868.3k",
+			"exact": "+ 868,283",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,778,834",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "10.2m",
+			"exact": "+ 10,169,864",
+			"percent": "+ 51%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-19 13:00:14",
+		"unix": 1658228414097
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.1m",
+		"exact": "30,056,754"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "217.1k",
+			"exact": "+ 217,089",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,208,220",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,388,624",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.9m",
+			"exact": "+ 9,882,688",
+			"percent": "+ 48%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-20 13:00:13",
+		"unix": 1658314813321
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.1m",
+		"exact": "30,056,754"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,269,218",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,190,654",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.9m",
+			"exact": "+ 8,922,357",
+			"percent": "+ 42%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-21 13:00:14",
+		"unix": 1658401214806
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.2m",
+		"exact": "30,242,403"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "185.6k",
+			"exact": "+ 185,649",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,454,867",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,376,303",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "9.1m",
+			"exact": "+ 9,108,006",
+			"percent": "+ 43%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-22 13:00:17",
+		"unix": 1658487617922
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.7m",
+		"exact": "29,688,036"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 44.9k",
+			"exact": "- 44,861",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "330.6k",
+			"exact": "+ 330,576",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 46.2k",
+			"exact": "- 46,177",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.3m",
+			"exact": "+ 7,291,562",
+			"percent": "+ 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-23 13:00:14",
+		"unix": 1658574014357
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.1m",
+		"exact": "30,121,907"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "433.9k",
+			"exact": "+ 433,871",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "738.6k",
+			"exact": "+ 738,581",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "396.8k",
+			"exact": "+ 396,776",
+			"percent": "+ 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.0m",
+			"exact": "+ 7,959,565",
+			"percent": "+ 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-24 13:00:14",
+		"unix": 1658660414378
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.1m",
+		"exact": "30,121,907"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "433.9k",
+			"exact": "+ 433,871",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "738.6k",
+			"exact": "+ 738,581",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "396.8k",
+			"exact": "+ 396,776",
+			"percent": "+ 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.0m",
+			"exact": "+ 7,959,565",
+			"percent": "+ 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-25 13:00:14",
+		"unix": 1658746814202
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.3m",
+		"exact": "30,334,621"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "212.7k",
+			"exact": "+ 212,714",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,148,519",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "863.6k",
+			"exact": "+ 863,608",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.0m",
+			"exact": "+ 7,958,213",
+			"percent": "+ 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-26 13:00:15",
+		"unix": 1658833215164
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.6m",
+		"exact": "30,605,871"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "201.9k",
+			"exact": "+ 201,873",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,487,147",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,354,296",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.2m",
+			"exact": "+ 8,182,867",
+			"percent": "+ 36%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-27 13:00:15",
+		"unix": 1658919615325
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.4m",
+		"exact": "30,404,554"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 201.3k",
+			"exact": "- 201,317",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "926.9k",
+			"exact": "+ 926,858",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,133,178",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.1m",
+			"exact": "+ 8,104,425",
+			"percent": "+ 36%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-28 13:00:15",
+		"unix": 1659006015362
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.2m",
+		"exact": "30,201,392"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 203.2k",
+			"exact": "- 203,162",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "511.0k",
+			"exact": "+ 510,997",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "588.6k",
+			"exact": "+ 588,576",
+			"percent": "+ 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.9m",
+			"exact": "+ 7,899,710",
+			"percent": "+ 35%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-29 13:00:15",
+		"unix": 1659092415015
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.3m",
+		"exact": "30,326,244"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "124.9k",
+			"exact": "+ 124,852",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "176.2k",
+			"exact": "+ 176,195",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "756.3k",
+			"exact": "+ 756,279",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.7m",
+			"exact": "+ 7,717,643",
+			"percent": "+ 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-30 13:00:18",
+		"unix": 1659178818845
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.3m",
+		"exact": "30,326,244"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "124.9k",
+			"exact": "+ 124,852",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "176.2k",
+			"exact": "+ 176,195",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "756.3k",
+			"exact": "+ 756,279",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.7m",
+			"exact": "+ 7,717,643",
+			"percent": "+ 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-07-31 13:00:13",
+		"unix": 1659265213162
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "31.0m",
+		"exact": "30,985,055"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "658.8k",
+			"exact": "+ 658,811",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "836.5k",
+			"exact": "+ 836,535",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,357,333",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.9m",
+			"exact": "+ 7,910,728",
+			"percent": "+ 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-01 13:00:15",
+		"unix": 1659351615669
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "31.3m",
+		"exact": "31,326,599"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "341.5k",
+			"exact": "+ 341,544",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "969.7k",
+			"exact": "+ 969,731",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "1.9m",
+			"exact": "+ 1,884,127",
+			"percent": "+ 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.7m",
+			"exact": "+ 7,660,591",
+			"percent": "+ 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-02 13:00:15",
+		"unix": 1659438015054
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "31.6m",
+		"exact": "31,591,232"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "264.6k",
+			"exact": "+ 264,633",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.4m",
+			"exact": "+ 1,437,651",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,355,713",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.4m",
+			"exact": "+ 7,384,303",
+			"percent": "+ 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-03 13:00:14",
+		"unix": 1659524414305
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "31.3m",
+		"exact": "31,300,794"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 79.2k",
+			"exact": "- 79,228",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,485,123",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "2.4m",
+			"exact": "+ 2,434,230",
+			"percent": "+ 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.5m",
+			"exact": "+ 7,510,409",
+			"percent": "+ 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-20 13:18:55",
+		"unix": 1660994335919
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.8m",
+		"exact": "28,781,904"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 278.4k",
+			"exact": "- 278,445",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 951.0k",
+			"exact": "- 950,993",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 373.0k",
+			"exact": "- 373,042",
+			"percent": "- 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.4m",
+			"exact": "+ 4,437,847",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-21 13:00:15",
+		"unix": 1661079615937
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.4m",
+		"exact": "28,420,857"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 361.0k",
+			"exact": "- 361,047",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 1.3m",
+			"exact": "- 1,267,179",
+			"percent": "- 4%"
+		},
+		"quarterlyChange": {
+			"rough": "- 723.8k",
+			"exact": "- 723,810",
+			"percent": "- 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,841,192",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-22 13:00:15",
+		"unix": 1661166015724
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.3m",
+		"exact": "28,342,829"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 78.0k",
+			"exact": "- 78,028",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.8m",
+			"exact": "- 1,779,078",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 863.1k",
+			"exact": "- 863,053",
+			"percent": "- 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,787,266",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-23 13:00:15",
+		"unix": 1661252415156
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.4m",
+		"exact": "28,403,299"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "60.5k",
+			"exact": "+ 60,470",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.9m",
+			"exact": "- 1,931,322",
+			"percent": "- 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 708.2k",
+			"exact": "- 708,239",
+			"percent": "- 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.8m",
+			"exact": "+ 3,818,511",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-24 13:00:14",
+		"unix": 1661338814592
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.9m",
+		"exact": "28,948,892"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "557.9k",
+			"exact": "+ 557,934",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,656,979",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 182.0k",
+			"exact": "- 181,990",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.2m",
+			"exact": "+ 4,240,002",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-25 13:00:15",
+		"unix": 1661425215856
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.9m",
+		"exact": "28,948,892"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "557.9k",
+			"exact": "+ 557,934",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,656,979",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 182.0k",
+			"exact": "- 181,990",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.2m",
+			"exact": "+ 4,240,002",
+			"percent": "+ 17%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-26 13:00:14",
+		"unix": 1661511614620
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.4m",
+		"exact": "30,379,279"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "177.9k",
+			"exact": "+ 177,887",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,112,147",
+			"percent": "+ 3%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.4m",
+			"exact": "+ 5,362,494",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-27 13:00:13",
+		"unix": 1661598013357
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "33.2m",
+		"exact": "33,205,269"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,346,306",
+			"percent": "+ 4%"
+		},
+		"montlyChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,879,025",
+			"percent": "+ 9%"
+		},
+		"quarterlyChange": {
+			"rough": "4.1m",
+			"exact": "+ 4,111,340",
+			"percent": "+ 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.0m",
+			"exact": "+ 8,046,638",
+			"percent": "+ 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-28 13:00:14",
+		"unix": 1661684414952
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "33.6m",
+		"exact": "33,634,380"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "429.1k",
+			"exact": "+ 429,111",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,649,325",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "4.5m",
+			"exact": "+ 4,529,062",
+			"percent": "+ 15%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.2m",
+			"exact": "+ 8,249,942",
+			"percent": "+ 32%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-29 13:00:12",
+		"unix": 1661770812238
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "33.9m",
+		"exact": "33,910,618"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "276.2k",
+			"exact": "+ 276,238",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "2.6m",
+			"exact": "+ 2,584,019",
+			"percent": "+ 8%"
+		},
+		"quarterlyChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,774,728",
+			"percent": "+ 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.7m",
+			"exact": "+ 8,650,161",
+			"percent": "+ 34%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-30 13:00:14",
+		"unix": 1661857214139
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "33.1m",
+		"exact": "33,148,204"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 762.4k",
+			"exact": "- 762,414",
+			"percent": "- 2%"
+		},
+		"montlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,556,972",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,946,287",
+			"percent": "+ 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "8.0m",
+			"exact": "+ 8,030,584",
+			"percent": "+ 31%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-08-31 13:00:16",
+		"unix": 1661943616660
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "32.9m",
+		"exact": "32,937,877"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 210.3k",
+			"exact": "- 210,327",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,557,855",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "3.5m",
+			"exact": "+ 3,451,000",
+			"percent": "+ 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.7m",
+			"exact": "+ 7,720,960",
+			"percent": "+ 30%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-01 13:00:15",
+		"unix": 1662030015790
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "32.9m",
+		"exact": "32,937,877"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,637,083",
+			"percent": "+ 5%"
+		},
+		"quarterlyChange": {
+			"rough": "3.2m",
+			"exact": "+ 3,160,417",
+			"percent": "+ 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "7.4m",
+			"exact": "+ 7,445,173",
+			"percent": "+ 29%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-02 13:00:16",
+		"unix": 1662116416491
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "32.1m",
+		"exact": "32,136,746"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.5m",
+			"exact": "- 1,457,395",
+			"percent": "- 4%"
+		},
+		"montlyChange": {
+			"rough": "671.1k",
+			"exact": "+ 671,117",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,143,972",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.7m",
+			"exact": "+ 6,724,636",
+			"percent": "+ 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-03 13:00:15",
+		"unix": 1662202815636
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "32.1m",
+		"exact": "32,136,746"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 1.5m",
+			"exact": "- 1,457,395",
+			"percent": "- 4%"
+		},
+		"montlyChange": {
+			"rough": "671.1k",
+			"exact": "+ 671,117",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "2.1m",
+			"exact": "+ 2,143,972",
+			"percent": "+ 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.7m",
+			"exact": "+ 6,724,636",
+			"percent": "+ 26%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-04 13:00:17",
+		"unix": 1662289217045
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "31.6m",
+		"exact": "31,572,525"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 564.2k",
+			"exact": "- 564,221",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "438.6k",
+			"exact": "+ 438,586",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.5m",
+			"exact": "+ 1,531,112",
+			"percent": "+ 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,207,213",
+			"percent": "+ 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-05 13:00:13",
+		"unix": 1662375613326
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "31.5m",
+		"exact": "31,494,202"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "567.9k",
+			"exact": "+ 567,924",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "1.3m",
+			"exact": "+ 1,273,115",
+			"percent": "+ 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "6.2m",
+			"exact": "+ 6,224,562",
+			"percent": "+ 24%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-06 13:00:17",
+		"unix": 1662462017154
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "31.1m",
+		"exact": "31,061,013"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 373.6k",
+			"exact": "- 373,558",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "337.0k",
+			"exact": "+ 336,967",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "844.8k",
+			"exact": "+ 844,807",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,722,376",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-07 13:00:16",
+		"unix": 1662548416404
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "31.1m",
+		"exact": "31,061,013"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 373.6k",
+			"exact": "- 373,558",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "337.0k",
+			"exact": "+ 336,967",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "844.8k",
+			"exact": "+ 844,807",
+			"percent": "+ 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.7m",
+			"exact": "+ 5,722,376",
+			"percent": "+ 22%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-08 13:00:12",
+		"unix": 1662634812133
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.8m",
+		"exact": "30,751,467"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "300.0k",
+			"exact": "+ 299,988",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "409.8k",
+			"exact": "+ 409,807",
+			"percent": "+ 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "5.3m",
+			"exact": "+ 5,339,426",
+			"percent": "+ 21%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-09 13:00:16",
+		"unix": 1662721216605
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.1m",
+		"exact": "30,096,400"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 184.7k",
+			"exact": "- 184,681",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 306.1k",
+			"exact": "- 306,057",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 280.0k",
+			"exact": "- 279,963",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,736,637",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-10 13:00:15",
+		"unix": 1662807615421
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.1m",
+		"exact": "30,096,400"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 184.7k",
+			"exact": "- 184,681",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 306.1k",
+			"exact": "- 306,057",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 280.0k",
+			"exact": "- 279,963",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.7m",
+			"exact": "+ 4,736,637",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-11 13:00:16",
+		"unix": 1662894016129
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.2m",
+		"exact": "30,216,350"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "120.0k",
+			"exact": "+ 119,950",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 64.2k",
+			"exact": "- 64,171",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 44.2k",
+			"exact": "- 44,212",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.9m",
+			"exact": "+ 4,945,405",
+			"percent": "+ 19%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-12 13:00:16",
+		"unix": 1662980416466
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.0m",
+		"exact": "29,995,582"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 364.2k",
+			"exact": "- 364,171",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "94.2k",
+			"exact": "+ 94,220",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "504.5k",
+			"exact": "+ 504,505",
+			"percent": "+ 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,767,316",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-13 13:00:14",
+		"unix": 1663066814681
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "30.0m",
+		"exact": "29,995,582"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 364.2k",
+			"exact": "- 364,171",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "94.2k",
+			"exact": "+ 94,220",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "504.5k",
+			"exact": "+ 504,505",
+			"percent": "+ 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "4.8m",
+			"exact": "+ 4,767,316",
+			"percent": "+ 18%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-14 13:00:15",
+		"unix": 1663153215863
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.3m",
+		"exact": "29,265,095"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 345.1k",
+			"exact": "- 345,108",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 206.3k",
+			"exact": "- 206,316",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3,463",
+			"exact": "- 3,463",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.9m",
+			"exact": "+ 3,935,772",
+			"percent": "+ 15%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-15 13:00:14",
+		"unix": 1663239614681
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.1m",
+		"exact": "29,088,129"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 177.0k",
+			"exact": "- 176,966",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 179.5k",
+			"exact": "- 179,454",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5,452",
+			"exact": "- 5,452",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.6m",
+			"exact": "+ 3,550,561",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-16 13:00:15",
+		"unix": 1663326015855
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.1m",
+		"exact": "29,088,129"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 177.0k",
+			"exact": "- 176,966",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 179.5k",
+			"exact": "- 179,454",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5,452",
+			"exact": "- 5,452",
+			"percent": "+ 0%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.6m",
+			"exact": "+ 3,550,561",
+			"percent": "+ 13%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-17 13:00:15",
+		"unix": 1663412415600
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.6m",
+		"exact": "28,581,678"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 506.5k",
+			"exact": "- 506,451",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 478.7k",
+			"exact": "- 478,671",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 369.5k",
+			"exact": "- 369,527",
+			"percent": "- 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.0m",
+			"exact": "+ 2,962,665",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-21 13:00:14",
+		"unix": 1663758014431
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.2m",
+		"exact": "28,174,700"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 216.3k",
+			"exact": "- 216,258",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,208,626",
+			"percent": "- 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,223,331",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-21 14:21:34",
+		"unix": 1663762894268
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.2m",
+		"exact": "28,174,700"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 216.3k",
+			"exact": "- 216,258",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,208,626",
+			"percent": "- 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.2m",
+			"exact": "+ 2,223,331",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-22 13:00:15",
+		"unix": 1663844415633
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.9m",
+		"exact": "27,904,319"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 270.4k",
+			"exact": "- 270,381",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 486.6k",
+			"exact": "- 486,639",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.5m",
+			"exact": "- 1,479,007",
+			"percent": "- 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.0m",
+			"exact": "+ 1,952,950",
+			"percent": "+ 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-23 13:00:16",
+		"unix": 1663930816065
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.8m",
+		"exact": "27,833,839"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 70.5k",
+			"exact": "- 70,480",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,115,053",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.4m",
+			"exact": "- 1,352,263",
+			"percent": "- 4%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.8m",
+			"exact": "+ 1,794,288",
+			"percent": "+ 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-24 13:00:16",
+		"unix": 1664017216656
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.4m",
+		"exact": "28,430,641"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "775.7k",
+			"exact": "+ 775,727",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 3.4m",
+			"exact": "- 3,428,322",
+			"percent": "- 10%"
+		},
+		"quarterlyChange": {
+			"rough": "- 688.1k",
+			"exact": "- 688,083",
+			"percent": "- 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.3m",
+			"exact": "+ 2,311,906",
+			"percent": "+ 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-25 13:00:17",
+		"unix": 1664103617653
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.2m",
+		"exact": "29,173,612"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "743.0k",
+			"exact": "+ 742,971",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 4.0m",
+			"exact": "- 4,031,657",
+			"percent": "- 12%"
+		},
+		"quarterlyChange": {
+			"rough": "- 304.1k",
+			"exact": "- 304,084",
+			"percent": "- 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,080,998",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-26 13:00:15",
+		"unix": 1664190015101
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "29.2m",
+		"exact": "29,173,612"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "743.0k",
+			"exact": "+ 742,971",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "- 4.0m",
+			"exact": "- 4,031,657",
+			"percent": "- 12%"
+		},
+		"quarterlyChange": {
+			"rough": "- 304.1k",
+			"exact": "- 304,084",
+			"percent": "- 1%"
+		},
+		"semiAnnualChange": {
+			"rough": "3.1m",
+			"exact": "+ 3,080,998",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-27 13:00:16",
+		"unix": 1664276416966
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.8m",
+		"exact": "28,845,566"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 328.0k",
+			"exact": "- 328,046",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 4.8m",
+			"exact": "- 4,788,814",
+			"percent": "- 14%"
+		},
+		"quarterlyChange": {
+			"rough": "- 844.8k",
+			"exact": "- 844,829",
+			"percent": "- 2%"
+		},
+		"semiAnnualChange": {
+			"rough": "2.9m",
+			"exact": "+ 2,936,846",
+			"percent": "+ 11%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-28 13:00:17",
+		"unix": 1664362817115
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.0m",
+		"exact": "28,038,734"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 5.1m",
+			"exact": "- 5,109,470",
+			"percent": "- 15%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.1m",
+			"exact": "- 2,109,786",
+			"percent": "- 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.6m",
+			"exact": "+ 1,585,012",
+			"percent": "+ 5%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-29 13:00:15",
+		"unix": 1664449215323
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.6m",
+		"exact": "27,564,793"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 190.1k",
+			"exact": "- 190,127",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 5.4m",
+			"exact": "- 5,373,084",
+			"percent": "- 16%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.8m",
+			"exact": "- 2,792,075",
+			"percent": "- 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "598.8k",
+			"exact": "+ 598,820",
+			"percent": "+ 2%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-09-30 13:00:17",
+		"unix": 1664535617522
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.3m",
+		"exact": "27,315,445"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 249.3k",
+			"exact": "- 249,348",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 6.3m",
+			"exact": "- 6,278,696",
+			"percent": "- 18%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.8m",
+			"exact": "- 2,838,136",
+			"percent": "- 9%"
+		},
+		"semiAnnualChange": {
+			"rough": "80.1k",
+			"exact": "+ 80,068",
+			"percent": "+ 0%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-01 13:00:17",
+		"unix": 1664622017456
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.8m",
+		"exact": "27,759,226"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "443.8k",
+			"exact": "+ 443,781",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 4.4m",
+			"exact": "- 4,377,520",
+			"percent": "- 13%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,264,526",
+			"percent": "- 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "507.7k",
+			"exact": "+ 507,739",
+			"percent": "+ 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-02 13:00:17",
+		"unix": 1664708417588
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.8m",
+		"exact": "27,759,226"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "443.8k",
+			"exact": "+ 443,781",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 4.4m",
+			"exact": "- 4,377,520",
+			"percent": "- 13%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,264,526",
+			"percent": "- 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "507.7k",
+			"exact": "+ 507,739",
+			"percent": "+ 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-03 13:00:17",
+		"unix": 1664794817212
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.4m",
+		"exact": "28,380,695"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "364.5k",
+			"exact": "+ 364,453",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 3.1m",
+			"exact": "- 3,113,507",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.6m",
+			"exact": "- 1,597,846",
+			"percent": "- 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,069,578",
+			"percent": "+ 3%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-04 13:00:16",
+		"unix": 1664881216526
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.5m",
+		"exact": "28,541,264"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "160.6k",
+			"exact": "+ 160,569",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.9m",
+			"exact": "- 2,893,307",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.6m",
+			"exact": "- 1,630,714",
+			"percent": "- 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.2m",
+			"exact": "+ 1,199,844",
+			"percent": "+ 4%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-05 13:00:14",
+		"unix": 1664967614823
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.5m",
+		"exact": "28,541,264"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,519,749",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.9m",
+			"exact": "- 1,922,365",
+			"percent": "- 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,075,130",
+			"percent": "+ 3%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-06 13:00:16",
+		"unix": 1665054016893
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "28.2m",
+		"exact": "28,186,913"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 354.4k",
+			"exact": "- 354,351",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 2.9m",
+			"exact": "- 2,874,100",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,276,716",
+			"percent": "- 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "720.8k",
+			"exact": "+ 720,779",
+			"percent": "+ 2%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-07 13:00:17",
+		"unix": 1665140417945
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.6m",
+		"exact": "27,575,193"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 191.7k",
+			"exact": "- 191,726",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,705,888",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,803,129",
+			"percent": "- 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 345.7k",
+			"exact": "- 345,730",
+			"percent": "- 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-08 13:00:14",
+		"unix": 1665226814377
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.6m",
+		"exact": "27,575,193"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 191.7k",
+			"exact": "- 191,726",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,705,888",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,803,129",
+			"percent": "- 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 345.7k",
+			"exact": "- 345,730",
+			"percent": "- 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-09 13:00:15",
+		"unix": 1665313215242
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.6m",
+		"exact": "27,613,385"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "38.2k",
+			"exact": "+ 38,192",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,483,015",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.4m",
+			"exact": "- 3,444,867",
+			"percent": "- 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 188.9k",
+			"exact": "- 188,895",
+			"percent": "+ 0%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-10 13:00:14",
+		"unix": 1665399614835
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.7m",
+		"exact": "27,662,909"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,696,844",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.4m",
+			"exact": "- 3,392,532",
+			"percent": "- 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 36.3k",
+			"exact": "- 36,317",
+			"percent": "+ 0%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-11 13:00:15",
+		"unix": 1665486015871
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.4m",
+		"exact": "27,437,022"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 173.2k",
+			"exact": "- 173,221",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,558,560",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.2m",
+			"exact": "- 3,244,839",
+			"percent": "- 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 523.6k",
+			"exact": "- 523,603",
+			"percent": "- 1%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-12 13:00:15",
+		"unix": 1665572415846
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.1m",
+		"exact": "27,097,214"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 339.8k",
+			"exact": "- 339,808",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,512,989",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,269,821",
+			"percent": "- 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 921.0k",
+			"exact": "- 921,043",
+			"percent": "- 3%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-13 13:00:20",
+		"unix": 1665658820736
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.1m",
+		"exact": "27,097,214"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 339.8k",
+			"exact": "- 339,808",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,512,989",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,269,821",
+			"percent": "- 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 921.0k",
+			"exact": "- 921,043",
+			"percent": "- 3%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-14 13:00:16",
+		"unix": 1665745216052
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "25.7m",
+		"exact": "25,729,437"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 230.1k",
+			"exact": "- 230,071",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 3.4m",
+			"exact": "- 3,358,692",
+			"percent": "- 11%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.2m",
+			"exact": "- 4,232,427",
+			"percent": "- 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,494,456",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-15 13:00:16",
+		"unix": 1665831616482
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.0m",
+		"exact": "25,972,662"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "243.2k",
+			"exact": "+ 243,225",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,609,016",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.9m",
+			"exact": "- 3,867,003",
+			"percent": "- 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.2m",
+			"exact": "- 2,210,368",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-16 13:00:16",
+		"unix": 1665918016295
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.0m",
+		"exact": "25,972,662"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "243.2k",
+			"exact": "+ 243,225",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,609,016",
+			"percent": "- 9%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.9m",
+			"exact": "- 3,867,003",
+			"percent": "- 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.2m",
+			"exact": "- 2,210,368",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-17 13:00:14",
+		"unix": 1666004414468
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.5m",
+		"exact": "26,470,346"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.1m",
+			"exact": "- 2,053,109",
+			"percent": "- 7%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,772,057",
+			"percent": "- 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.2m",
+			"exact": "- 2,197,784",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-18 13:00:18",
+		"unix": 1666090818835
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.8m",
+		"exact": "26,843,503"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "373.2k",
+			"exact": "+ 373,157",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,679,952",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.4m",
+			"exact": "- 3,398,900",
+			"percent": "- 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.8m",
+			"exact": "- 1,824,627",
+			"percent": "- 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-19 13:00:16",
+		"unix": 1666177216511
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.1m",
+		"exact": "27,111,137"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "271.8k",
+			"exact": "+ 271,833",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,063,563",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,576,899",
+			"percent": "- 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,321,363",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-20 13:00:18",
+		"unix": 1666263618515
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.1m",
+		"exact": "27,111,137"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "271.8k",
+			"exact": "+ 271,833",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 1.1m",
+			"exact": "- 1,063,563",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,576,899",
+			"percent": "- 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,321,363",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-21 13:00:14",
+		"unix": 1666350014342
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.3m",
+		"exact": "27,260,335"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "177.4k",
+			"exact": "+ 177,412",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 573.5k",
+			"exact": "- 573,504",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.1m",
+			"exact": "- 3,074,286",
+			"percent": "- 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,464,796",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-22 13:00:16",
+		"unix": 1666436416770
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.1m",
+		"exact": "27,054,688"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 205.6k",
+			"exact": "- 205,647",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 600.2k",
+			"exact": "- 600,226",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,349,310",
+			"percent": "- 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,416,325",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-23 13:00:14",
+		"unix": 1666522814930
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.1m",
+		"exact": "27,054,688"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 205.6k",
+			"exact": "- 205,647",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 600.2k",
+			"exact": "- 600,226",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,349,310",
+			"percent": "- 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,416,325",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-24 13:00:15",
+		"unix": 1666609215053
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.1m",
+		"exact": "27,057,973"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.1m",
+			"exact": "- 2,115,639",
+			"percent": "- 7%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,346,581",
+			"percent": "- 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.2m",
+			"exact": "- 2,193,602",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-25 13:00:13",
+		"unix": 1666695613796
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.5m",
+		"exact": "26,484,348"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 190.3k",
+			"exact": "- 190,325",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,361,218",
+			"percent": "- 8%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.7m",
+			"exact": "- 3,717,044",
+			"percent": "- 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.8m",
+			"exact": "- 2,787,028",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-26 13:00:16",
+		"unix": 1666782016124
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.5m",
+		"exact": "26,484,348"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.6m",
+			"exact": "- 1,554,386",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,841,896",
+			"percent": "- 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.1m",
+			"exact": "- 3,128,468",
+			"percent": "- 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-27 13:00:16",
+		"unix": 1666868416439
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.3m",
+		"exact": "27,319,749"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "306.8k",
+			"exact": "+ 306,834",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "- 435.2k",
+			"exact": "- 435,171",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.7m",
+			"exact": "- 3,665,306",
+			"percent": "- 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,250,216",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-28 13:00:17",
+		"unix": 1666954817081
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.6m",
+		"exact": "27,618,203"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "298.5k",
+			"exact": "+ 298,454",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "53.4k",
+			"exact": "+ 53,410",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.7m",
+			"exact": "- 3,708,396",
+			"percent": "- 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.0m",
+			"exact": "- 2,009,519",
+			"percent": "- 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-29 13:00:15",
+		"unix": 1667041215684
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.1m",
+		"exact": "27,103,590"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 514.6k",
+			"exact": "- 514,613",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 211.9k",
+			"exact": "- 211,855",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.5m",
+			"exact": "- 4,487,642",
+			"percent": "- 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,338,882",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-30 13:00:14",
+		"unix": 1667131214880
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.1m",
+		"exact": "27,103,590"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 514.6k",
+			"exact": "- 514,613",
+			"percent": "- 1%"
+		},
+		"montlyChange": {
+			"rough": "- 211.9k",
+			"exact": "- 211,855",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.5m",
+			"exact": "- 4,487,642",
+			"percent": "- 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,338,882",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-10-31 13:00:14",
+		"unix": 1667217614070
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.1m",
+		"exact": "27,125,105"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 37.0k",
+			"exact": "- 36,958",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 891.1k",
+			"exact": "- 891,137",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.2m",
+			"exact": "- 4,175,689",
+			"percent": "- 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.9m",
+			"exact": "- 1,875,705",
+			"percent": "- 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-01 13:00:13",
+		"unix": 1667304013997
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.9m",
+		"exact": "26,894,036"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 231.1k",
+			"exact": "- 231,069",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.5m",
+			"exact": "- 1,486,659",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.6m",
+			"exact": "- 4,571,593",
+			"percent": "- 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.0m",
+			"exact": "- 1,972,528",
+			"percent": "- 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-02 13:00:13",
+		"unix": 1667390413709
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.7m",
+		"exact": "26,702,261"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 191.8k",
+			"exact": "- 191,775",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.8m",
+			"exact": "- 1,839,003",
+			"percent": "- 6%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.4m",
+			"exact": "- 4,431,678",
+			"percent": "- 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.0m",
+			"exact": "- 2,039,221",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-03 13:00:15",
+		"unix": 1667476815275
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.6m",
+		"exact": "26,587,321"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 114.9k",
+			"exact": "- 114,940",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.6m",
+			"exact": "- 1,599,592",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.5m",
+			"exact": "- 4,504,251",
+			"percent": "- 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.1m",
+			"exact": "- 2,099,216",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-04 13:00:15",
+		"unix": 1667563215923
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.6m",
+		"exact": "26,587,321"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 114.9k",
+			"exact": "- 114,940",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.6m",
+			"exact": "- 1,599,592",
+			"percent": "- 5%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.5m",
+			"exact": "- 4,504,251",
+			"percent": "- 14%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.1m",
+			"exact": "- 2,099,216",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-05 13:00:15",
+		"unix": 1667649615625
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.6m",
+		"exact": "26,574,392"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "1,386",
+			"exact": "+ 1,386",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.0m",
+			"exact": "- 1,000,801",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.1m",
+			"exact": "- 4,149,654",
+			"percent": "- 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,460,571",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-06 13:00:15",
+		"unix": 1667736015241
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.7m",
+		"exact": "26,727,066"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "152.7k",
+			"exact": "+ 152,674",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 886.3k",
+			"exact": "- 886,319",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,807,329",
+			"percent": "- 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.2m",
+			"exact": "- 2,233,421",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-07 13:00:16",
+		"unix": 1667822416612
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.7m",
+		"exact": "26,727,066"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 935.8k",
+			"exact": "- 935,843",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.7m",
+			"exact": "- 3,724,413",
+			"percent": "- 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.2m",
+			"exact": "- 2,205,383",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-08 13:00:15",
+		"unix": 1667908815715
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.0m",
+		"exact": "26,952,156"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "208.2k",
+			"exact": "+ 208,233",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 658.1k",
+			"exact": "- 658,087",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.5m",
+			"exact": "- 3,450,301",
+			"percent": "- 11%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.1m",
+			"exact": "- 2,095,352",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-09 13:00:16",
+		"unix": 1667995216966
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.0m",
+		"exact": "26,952,156"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 484.9k",
+			"exact": "- 484,866",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,328,365",
+			"percent": "- 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,340,767",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-10 13:00:16",
+		"unix": 1668081616276
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.3m",
+		"exact": "26,270,562"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 209.3k",
+			"exact": "- 209,271",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 826.7k",
+			"exact": "- 826,652",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,811,218",
+			"percent": "- 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.0m",
+			"exact": "- 3,016,994",
+			"percent": "- 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-11 13:00:15",
+		"unix": 1668168015225
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.3m",
+		"exact": "26,270,562"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 209.3k",
+			"exact": "- 209,271",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 826.7k",
+			"exact": "- 826,652",
+			"percent": "- 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.8m",
+			"exact": "- 3,811,218",
+			"percent": "- 12%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.0m",
+			"exact": "- 3,016,994",
+			"percent": "- 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-12 13:00:14",
+		"unix": 1668254414182
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.6m",
+		"exact": "26,577,644"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "409.2k",
+			"exact": "+ 409,241",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "848.2k",
+			"exact": "+ 848,207",
+			"percent": "+ 3%"
+		},
+		"quarterlyChange": {
+			"rough": "- 3.1m",
+			"exact": "- 3,148,691",
+			"percent": "- 10%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,629,739",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-13 13:00:15",
+		"unix": 1668340815158
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.0m",
+		"exact": "27,049,154"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "471.5k",
+			"exact": "+ 471,510",
+			"percent": "+ 1%"
+		},
+		"montlyChange": {
+			"rough": "1.1m",
+			"exact": "+ 1,076,492",
+			"percent": "+ 4%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,422,257",
+			"percent": "- 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 1.7m",
+			"exact": "- 1,743,719",
+			"percent": "- 6%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-14 13:00:16",
+		"unix": 1668427216315
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.8m",
+		"exact": "26,813,140"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 236.0k",
+			"exact": "- 236,014",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "342.8k",
+			"exact": "+ 342,794",
+			"percent": "+ 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,454,443",
+			"percent": "- 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.1m",
+			"exact": "- 2,112,696",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-15 13:00:16",
+		"unix": 1668513616354
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.7m",
+		"exact": "26,706,942"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 106.2k",
+			"exact": "- 106,198",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 136.6k",
+			"exact": "- 136,561",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.4m",
+			"exact": "- 2,353,407",
+			"percent": "- 8%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,505,162",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-16 13:00:16",
+		"unix": 1668600016504
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.7m",
+		"exact": "26,706,942"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 132.4k",
+			"exact": "- 132,362",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.1m",
+			"exact": "- 2,074,962",
+			"percent": "- 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.5m",
+			"exact": "- 2,532,379",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-17 13:00:18",
+		"unix": 1668686418166
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.5m",
+		"exact": "26,522,548"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 171.8k",
+			"exact": "- 171,840",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 588.6k",
+			"exact": "- 588,589",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.9m",
+			"exact": "- 1,898,309",
+			"percent": "- 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,632,398",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-18 13:00:16",
+		"unix": 1668772816618
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.5m",
+		"exact": "26,504,037"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 18.5k",
+			"exact": "- 18,511",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 578.9k",
+			"exact": "- 578,886",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.8m",
+			"exact": "- 1,838,792",
+			"percent": "- 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,640,630",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-19 13:00:16",
+		"unix": 1668859216323
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.5m",
+		"exact": "26,504,037"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 18.5k",
+			"exact": "- 18,511",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 578.9k",
+			"exact": "- 578,886",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.8m",
+			"exact": "- 1,838,792",
+			"percent": "- 6%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,640,630",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-20 13:00:16",
+		"unix": 1668945616898
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.8m",
+		"exact": "26,821,141"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "168.1k",
+			"exact": "+ 168,088",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 233.5k",
+			"exact": "- 233,547",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 1.6m",
+			"exact": "- 1,569,817",
+			"percent": "- 5%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,290,397",
+			"percent": "- 7%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-21 13:00:17",
+		"unix": 1669032017867
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.7m",
+		"exact": "26,652,249"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 168.9k",
+			"exact": "- 168,892",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 405.7k",
+			"exact": "- 405,724",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 2.3m",
+			"exact": "- 2,296,643",
+			"percent": "- 7%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,571,242",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-23 13:00:16",
+		"unix": 1669204816422
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.5m",
+		"exact": "26,471,193"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 131.9k",
+			"exact": "- 131,872",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 13.2k",
+			"exact": "- 13,155",
+			"percent": "+ 0%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.4m",
+			"exact": "- 5,387,770",
+			"percent": "- 16%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.8m",
+			"exact": "- 2,757,008",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-24 13:00:14",
+		"unix": 1669291214620
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.3m",
+		"exact": "26,283,605"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 187.6k",
+			"exact": "- 187,588",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 729.3k",
+			"exact": "- 729,310",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.9m",
+			"exact": "- 6,921,664",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.0m",
+			"exact": "- 2,983,527",
+			"percent": "- 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-25 13:00:16",
+		"unix": 1669377616561
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.3m",
+		"exact": "26,283,605"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 187.6k",
+			"exact": "- 187,588",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 729.3k",
+			"exact": "- 729,310",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.9m",
+			"exact": "- 6,921,664",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.0m",
+			"exact": "- 2,983,527",
+			"percent": "- 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-26 13:00:16",
+		"unix": 1669464016149
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.4m",
+		"exact": "26,435,003"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "75.2k",
+			"exact": "+ 75,234",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 1.2m",
+			"exact": "- 1,183,200",
+			"percent": "- 4%"
+		},
+		"quarterlyChange": {
+			"rough": "- 7.5m",
+			"exact": "- 7,475,615",
+			"percent": "- 22%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,670,315",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-27 13:00:17",
+		"unix": 1669550417625
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.5m",
+		"exact": "26,499,983"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "65.0k",
+			"exact": "+ 64,980",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 603.6k",
+			"exact": "- 603,607",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.6m",
+			"exact": "- 6,648,221",
+			"percent": "- 20%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,635,907",
+			"percent": "- 9%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-28 13:00:15",
+		"unix": 1669636815507
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.6m",
+		"exact": "26,583,942"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "84.0k",
+			"exact": "+ 83,959",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 578.1k",
+			"exact": "- 578,121",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.4m",
+			"exact": "- 6,353,935",
+			"percent": "- 19%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,617,975",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-29 13:00:16",
+		"unix": 1669723216681
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.6m",
+		"exact": "26,583,942"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "84.0k",
+			"exact": "+ 83,959",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 578.1k",
+			"exact": "- 578,121",
+			"percent": "- 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 6.4m",
+			"exact": "- 6,353,935",
+			"percent": "- 19%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.6m",
+			"exact": "- 2,617,975",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-11-30 13:00:16",
+		"unix": 1669809616303
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "26.5m",
+		"exact": "26,510,632"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "0",
+			"exact": " 0",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "- 383.4k",
+			"exact": "- 383,404",
+			"percent": "- 1%"
+		},
+		"quarterlyChange": {
+			"rough": "- 5.6m",
+			"exact": "- 5,626,114",
+			"percent": "- 17%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 3.3m",
+			"exact": "- 3,266,828",
+			"percent": "- 10%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-12-01 13:00:18",
+		"unix": 1669896018191
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.3m",
+		"exact": "27,314,829"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "607.3k",
+			"exact": "+ 607,308",
+			"percent": "+ 2%"
+		},
+		"montlyChange": {
+			"rough": "612.6k",
+			"exact": "+ 612,568",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.3m",
+			"exact": "- 4,257,696",
+			"percent": "- 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.7m",
+			"exact": "- 2,677,945",
+			"percent": "- 8%"
+		}
+	}
+},
+{
+	"date": {
+		"dateString": "2022-12-02 13:00:15",
+		"unix": 1669982415284
+	},
+	"itemName": "Bandos chestplate",
+	"currentPrice": {
+		"rough": "27.1m",
+		"exact": "27,127,940"
+	},
+	"priceChanges": {
+		"todaysChange": {
+			"rough": "- 186.9k",
+			"exact": "- 186,889",
+			"percent": "+ 0%"
+		},
+		"montlyChange": {
+			"rough": "540.6k",
+			"exact": "+ 540,619",
+			"percent": "+ 2%"
+		},
+		"quarterlyChange": {
+			"rough": "- 4.4m",
+			"exact": "- 4,366,262",
+			"percent": "- 13%"
+		},
+		"semiAnnualChange": {
+			"rough": "- 2.9m",
+			"exact": "- 2,913,473",
+			"percent": "- 9%"
+		}
+	}
+},
