@@ -1,5 +1,5 @@
-.env
 run_script.sh
+data/collection/
 
 # Vs Code
 main-workspace.code-workspace
