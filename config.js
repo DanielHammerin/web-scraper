@@ -30,6 +30,12 @@ const config = {
         "https://secure.runescape.com/m=itemdb_oldschool/Bandos+tassets/viewitem?obj=11834",
         "https://secure.runescape.com/m=itemdb_oldschool/Saradomin+godsword/viewitem?obj=11806",
         "https://secure.runescape.com/m=itemdb_oldschool/Pegasian+boots/viewitem?obj=13237",
+        "https://secure.runescape.com/m=itemdb_oldschool/Dragon+warhammer/viewitem?obj=13576",
+        "https://secure.runescape.com/m=itemdb_oldschool/Osmumten%27s+fang/viewitem?obj=26219",
+        "https://secure.runescape.com/m=itemdb_oldschool/Tumeken%27s+shadow+%28uncharged%29/viewitem?obj=27277",
+        "https://secure.runescape.com/m=itemdb_oldschool/Zaryte+crossbow/viewitem?obj=26374",
+        "https://secure.runescape.com/m=itemdb_oldschool/Sanguinesti+staff+%28uncharged%29/viewitem?obj=22481",
+        "https://secure.runescape.com/m=itemdb_oldschool/Dragon+claws/viewitem?obj=13652",
     ],
 
     ITEM_COLLECTION_PATH: "./data/collection"
